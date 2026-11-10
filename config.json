@@ -1,0 +1,40 @@
+{
+  "referencia": {
+    "nome": "trabalho",
+    "lat": -23.302552,
+    "lon": -51.1670585
+  },
+  "criterios": {
+    "minutos_a_pe_max": 15,
+    "quartos_min": 2,
+    "exigir_garagem": true,
+    "valor_total_max": 3000,
+    "raio_busca_m": 1150,
+    "bairros_proximos": [
+      "Centro", "Vila Adolfo", "Jardim Agari", "Vila Nova", "Vila Ipiranga",
+      "Vila Filipin", "Vila Shimabokuro", "Tietê", "Jardim Palmares",
+      "Jardim Palermo", "Vila Siam", "Vila Casoni"
+    ],
+    "bairros_distantes": ["Gleba Palhano", "Gleba Fazenda Palhano"]
+  },
+  "limites": {
+    "detalhes_por_execucao": 25,
+    "alertas_individuais_por_execucao": 8,
+    "falhas_seguidas_para_avisar": 12,
+    "dias_para_esquecer": 90
+  },
+  "resumo_diario_hora": 8,
+  "fontes": [
+    { "tipo": "chavesnamao", "nome": "Chaves na Mão", "cidade": "pr-londrina" },
+
+    { "tipo": "kenlo", "nome": "Imobiliária Inglaterra", "base": "https://www.imobiliariainglaterra.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "kenlo", "nome": "Imobiliária Europa", "base": "https://www.imobiliariaeuropa.com.br", "caminho": "/imoveis/para-alugar/apartamento" },
+    { "tipo": "kenlo", "nome": "Imobiliária Londrina Norte", "base": "https://www.londrinanorte.com.br", "caminho": "/imoveis/para-alugar/apartamento" },
+
+    { "tipo": "arbo", "nome": "CRV Imobiliária", "base": "https://www.crvimobiliaria.com.br" },
+    { "tipo": "arbo", "nome": "Human Imóveis", "base": "https://www.humanimoveis.com" },
+    { "tipo": "arbo", "nome": "Sérgio Cortez Imóveis", "base": "https://www.sergiocortezimobiliaria.com.br" },
+
+    { "tipo": "perez", "nome": "Imobiliária Perez", "base": "https://www.imobiliariaperez.com.br", "paginas": ["/alugar/apartamento/pr/londrina/centro"] }
+  ]
+}
