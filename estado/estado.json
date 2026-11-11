@@ -1,0 +1,3559 @@
+{
+ "alertas_por_dia": {},
+ "anuncios": {
+  "chaves-na-mao:12882819": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:13974673": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:15304197": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:16097675": {
+   "aluguel": 2750.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:17628175": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:18758536": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:18980817": {
+   "aluguel": 2190.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:19794754": {
+   "aluguel": 1280.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:23661495": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:23669605": {
+   "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:25480846": {
+   "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:26681723": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:2704760": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:28997714": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:30469948": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:30628085": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:31009984": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:31010787": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:32622027": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:32640546": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:34136361": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:34141951": {
+   "aluguel": 2850.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:34329650": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:35450312": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:36106488": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:37033391": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:39035813": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:39103221": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:39103222": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:39964383": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:40228520": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:40694740": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:40745051": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:40980047": {
+   "aluguel": 2450.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41454469": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41527990": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41571504": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41661597": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41675915": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:41707935": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42123369": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42255872": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42337764": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42371224": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42658145": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42713208": {
+   "aluguel": 2750.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42715095": {
+   "aluguel": 2990.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42814674": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:42991208": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43044579": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43080265": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43128279": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43179260": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43204481": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43287874": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43318586": {
+   "aluguel": 2801.01,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43544522": {
+   "aluguel": 2390.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43622063": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43841808": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:43841810": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44237958": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44250260": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44319093": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44409942": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44492207": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44573763": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44866307": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44886552": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44910011": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44918491": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:44964221": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45031109": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45072652": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45140771": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45173350": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45191322": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45191325": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45209454": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45250058": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45250059": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45269828": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45269829": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45270444": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45385248": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45477753": {
+   "aluguel": 970.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45591322": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45682592": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45682593": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45699587": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45858907": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:45984710": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46026471": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46031284": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46037372": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46069790": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46070123": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46075597": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46132539": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46160434": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46206232": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46285391": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46290960": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46356190": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46393230": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46404915": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46469564": {
+   "aluguel": 2250.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46658066": {
+   "aluguel": 2390.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46675275": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46751142": {
+   "aluguel": 1980.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46752246": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46761626": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46799866": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46835309": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46850523": {
+   "aluguel": 1980.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46884451": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46889565": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46889571": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46895410": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46895452": {
+   "aluguel": 2250.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46963054": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:46983462": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47025455": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47104979": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47182772": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47250225": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47264450": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47264452": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47328583": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47364201": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47545271": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47723075": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47772787": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47775392": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47790435": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47797990": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47825064": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47851587": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47921596": {
+   "aluguel": 970.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47931006": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47935807": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47943954": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47982615": {
+   "aluguel": 1250.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47982623": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48006882": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48034695": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48034696": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48070691": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48073588": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48320287": {
+   "aluguel": 2050.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48359841": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48378899": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48378903": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48378908": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48512415": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48541323": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544403": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544460": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544470": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544490": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544618": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544667": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48544673": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48585401": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48585404": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48595002": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48610185": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48620112": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48622086": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48625747": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48709244": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48735081": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:48738676": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP0009_CRV": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP0011_CRV": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP0900_CRV": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP1455_CRV": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP1513_CRV": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP1518_CRV": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP2069_CRV": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP2588_CRV": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP2597_CRV": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP2657_CRV": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP3031_CRV": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP4673_CRV": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP4690_CRV": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "crv-imobiliaria:AP4695_CRV": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "human-imoveis:AP3171_HMN": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "human-imoveis:AP3339_HMN": {
+   "aluguel": 8400.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "human-imoveis:AP6255_HMN": {
+   "aluguel": 8000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "human-imoveis:AP6299_HMN": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "human-imoveis:AP6321_HMN": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP0089-EURW": {
+   "aluguel": 2650.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP1399-EURW": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2081-EURW": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2175-EURW": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2312-EURW": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2458-EURW": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2627-EURW": {
+   "aluguel": 3950.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2636-EURW": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2657-EURW": {
+   "aluguel": 9500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2748-EURW": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2785-EURW": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2797-EURW": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2907-EURW": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2933-EURW": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2943-EURW": {
+   "aluguel": 2750.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2954-EURW": {
+   "aluguel": 5200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2955-EURW": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2956-EURW": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2962-EURW": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2964-EURW": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2965-EURW": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2966-EURW": {
+   "aluguel": 1980.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2967-EURW": {
+   "aluguel": 5950.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2968-EURW": {
+   "aluguel": 24000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2972-EURW": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2978-EURW": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2982-EURW": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2987-EURW": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2988-EURW": {
+   "aluguel": 4350.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2998-EURW": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP2999-EURW": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3002-EURW": {
+   "aluguel": 4990.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3008-EURW": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3012-EURW": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3015-EURW": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3017-EURW": {
+   "aluguel": 5300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3023-EURW": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3025-EURW": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3029-EURW": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3030-EURW": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3040-EURW": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3041-EURW": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3045-EURW": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-europa:AP3057-EURW": {
+   "aluguel": 0.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0373-INIC": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0555-INIC": {
+   "aluguel": 6500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0571-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0790-INIC": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0831-INIC": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0902-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0932-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1035-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1249-INIC": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1399-INIC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1662-INIC": {
+   "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1705-INIC": {
+   "aluguel": 930.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1775-INIC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP1875-INIC": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2056-INIC": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2226-INIC": {
+   "aluguel": 3400.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2324-INIC": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2335-INIC": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2709-INIC": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2854-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP2991-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3195-INIC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3264-INIC": {
+   "aluguel": 750.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3302-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3397-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3422-INIC": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3455-INIC": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3485-INIC": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3637-INIC": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3953-INIC": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP3987-INIC": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4054-INIC": {
+   "aluguel": 800.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4112-INIC": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4138-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4218-INIC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4304-INIC": {
+   "aluguel": 800.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4414-INIC": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4472-INIC": {
+   "aluguel": 5300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4534-INIC": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4577-INIC": {
+   "aluguel": 8500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4744-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4862-INIC": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP4888-INIC": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5164-INIC": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5199-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5200-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5202-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5206-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5207-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5208-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5230-INIC": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5341-INIC": {
+   "aluguel": 6500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5364-INIC": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5405-INIC": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5428-INIC": {
+   "aluguel": 6500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5645-INIC": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5696-INIC": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5704-INIC": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5710-INIC": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5716-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5758-INIC": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5766-INIC": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5767-INIC": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5793-INIC": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5806-INIC": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5819-INIC": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5826-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5827-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5829-INIC": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5840-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5858-INIC": {
+   "aluguel": 1250.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5878-INIC": {
+   "aluguel": 28000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5889-INIC": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5890-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5891-INIC": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5893-INIC": {
+   "aluguel": 2450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5895-INIC": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5903-INIC": {
+   "aluguel": 950.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5915-INIC": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5925-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5928-INIC": {
+   "aluguel": 800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5940-INIC": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5941-INIC": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5948-INIC": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5975-INIC": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5976-INIC": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5982-INIC": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5996-INIC": {
+   "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP5999-INIC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6002-INIC": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6007-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6009-INIC": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6012-INIC": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6015-INIC": {
+   "aluguel": 1250.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6019-INIC": {
+   "aluguel": 1550.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6021-INIC": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6024-INIC": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6033-INIC": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6055-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6062-INIC": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6064-INIC": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6069-INIC": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6072-INIC": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6073-INIC": {
+   "aluguel": 1550.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6086-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6088-INIC": {
+   "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6099-INIC": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6105-INIC": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6109-INIC": {
+   "aluguel": 9200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6111-INIC": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6124-INIC": {
+   "aluguel": 3600.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6129-INIC": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6136-INIC": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6141-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6143-INIC": {
+   "aluguel": 6000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6146-INIC": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6148-INIC": {
+   "aluguel": 2550.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6149-INIC": {
+   "aluguel": 950.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6152-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6153-INIC": {
+   "aluguel": 1550.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6154-INIC": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6155-INIC": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6157-INIC": {
+   "aluguel": 3949.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6158-INIC": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6159-INIC": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6161-INIC": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6163-INIC": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6164-INIC": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6165-INIC": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6167-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6168-INIC": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6170-INIC": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6172-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6174-INIC": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6175-INIC": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6176-INIC": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0063-LONF": {
+   "aluguel": 650.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0351-LONF": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0363-LONF": {
+   "aluguel": 580.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0372-LONF": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0432-LONF": {
+   "aluguel": 990.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0485-LONF": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0498-LONF": {
+   "aluguel": 780.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0542-LONF": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0543-LONF": {
+   "aluguel": 800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0562-LONF": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0681-LONF": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0694-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0695-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0697-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0703-LONF": {
+   "aluguel": 650.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0736-LONF": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0752-LONF": {
+   "aluguel": 3700.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0754-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0764-LONF": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0770-LONF": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0771-LONF": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0774-LONF": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0783-LONF": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0789-LONF": {
+   "aluguel": 790.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0794-LONF": {
+   "aluguel": 750.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0811-LONF": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0812-LONF": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0819-LONF": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0823-LONF": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0827-LONF": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0828-LONF": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0830-LONF": {
+   "aluguel": 750.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0832-LONF": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0833-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0835-LONF": {
+   "aluguel": 990.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0839-LONF": {
+   "aluguel": 1050.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0841-LONF": {
+   "aluguel": 990.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-londrina-norte:AP0843-LONF": {
+   "aluguel": 950.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:11542": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:11543": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:11725": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12133": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12228": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12295": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12567": {
+   "aluguel": 1980.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12621": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12752": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12762": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12825": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12827": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12857": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12921": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12936": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:12948": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:1687": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:273": {
+   "aluguel": 850.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:6349": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:7706": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:9501": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-perez:9868": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  }
+ },
+ "cnm_grupos": {
+  "19/187630/297067@391295:250": 10,
+  "approx:19/187611/297059": 11,
+  "approx:19/187611/297065": 41,
+  "approx:19/187638/297056": 9
+ },
+ "enderecos": {
+  "avenida juscelino kubitschek|635|3|2200": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:46356190",
+   "data": "11/11"
+  },
+  "rua amapa|1000|2|2190": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:18980817",
+   "data": "11/11"
+  },
+  "rua amapa|1000|3|2150": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:12882819",
+   "data": "11/11"
+  },
+  "rua amapa|1000|3|2500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45140771",
+   "data": "11/11"
+  },
+  "rua amapa|1000|3|3000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:44492207",
+   "data": "11/11"
+  },
+  "rua belo horizonte|99|3|2100": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45591322",
+   "data": "11/11"
+  },
+  "rua benjamin constant|1551|2|3000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45269829",
+   "data": "11/11"
+  },
+  "rua benjamin constant|1551|3|3000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45269828",
+   "data": "11/11"
+  },
+  "rua benjamin constant|1851|2|2950": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:26681723",
+   "data": "11/11"
+  },
+  "rua guapore|1175|2|1500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:47328583",
+   "data": "11/11"
+  },
+  "rua itapicuru|337|2|1300": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:48544618",
+   "data": "11/11"
+  },
+  "rua manaus|238|2|1200": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:35450312",
+   "data": "11/11"
+  },
+  "rua mossoro|130|2|2000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45209454",
+   "data": "11/11"
+  },
+  "rua mossoro|130|2|2200": {
+   "anunciante": "CRV Imobiliária",
+   "chave": "crv-imobiliaria:AP1518_CRV",
+   "data": "11/11"
+  },
+  "rua mossoro|130|2|2300": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:46404915",
+   "data": "11/11"
+  },
+  "rua mossoro|130|3|2300": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:48544470",
+   "data": "11/11"
+  },
+  "rua mossoro|500|2|2500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:47545271",
+   "data": "11/11"
+  },
+  "rua mossoro|500|2|2700": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:44319093",
+   "data": "11/11"
+  },
+  "rua mossoro|500|2|2750": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:16097675",
+   "data": "11/11"
+  },
+  "rua mossoro|500|2|2990": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:42715095",
+   "data": "11/11"
+  },
+  "rua mossoro|500|3|2300": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:44250260",
+   "data": "11/11"
+  },
+  "rua mossoro|500|3|2900": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45270444",
+   "data": "11/11"
+  },
+  "rua paraiba|427|3|1500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:46889565",
+   "data": "11/11"
+  },
+  "rua paraiba|450|3|1800": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:43622063",
+   "data": "11/11"
+  },
+  "rua prefeito hugo cabral|238|2|2600": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:47775392",
+   "data": "11/11"
+  },
+  "rua prefeito hugo cabral|250|2|2100": {
+   "anunciante": "IMOBILIÁRIA ALAMEDA LONDRINA",
+   "chave": "chaves-na-mao:44573763",
+   "data": "11/11"
+  },
+  "rua prefeito hugo cabral|250|2|2500": {
+   "anunciante": "CENTURY 21 CLASS IMÓVEIS",
+   "chave": "chaves-na-mao:36106488",
+   "data": "11/11"
+  },
+  "rua prefeito hugo cabral|250|2|2700": {
+   "anunciante": "PATRIMONIO GESTAO DE BENS IMOBILIARIOS LONDRINA LTDA",
+   "chave": "chaves-na-mao:47264450",
+   "data": "11/11"
+  },
+  "rua prefeito hugo cabral|250|3|2500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:46895410",
+   "data": "11/11"
+  },
+  "rua quintino bocaiuva|769|2|2801": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:43318586",
+   "data": "11/11"
+  },
+  "rua rio turvo|137|3|1600": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:47723075",
+   "data": "11/11"
+  },
+  "rua santos|150|3|2950": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:41527990",
+   "data": "11/11"
+  },
+  "rua santos|150|3|3000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:40745051",
+   "data": "11/11"
+  },
+  "rua santos|155|3|3000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:40694740",
+   "data": "11/11"
+  },
+  "rua sao luiz|255|2|970": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45477753",
+   "data": "11/11"
+  },
+  "rua sao vicente|165|3|2000": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:48585401",
+   "data": "11/11"
+  },
+  "rua sao vicente|618|2|1300": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:2704760",
+   "data": "11/11"
+  },
+  "rua sao vicente|618|3|1500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:45682592",
+   "data": "11/11"
+  },
+  "rua sao vicente|618|3|1850": {
+   "anunciante": "CRV Imobiliária",
+   "chave": "crv-imobiliaria:AP0009_CRV",
+   "data": "11/11"
+  },
+  "rua solimoes|60|3|1200": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:48541323",
+   "data": "11/11"
+  },
+  "rua tupi|513|3|2500": {
+   "anunciante": "Chaves na Mão",
+   "chave": "chaves-na-mao:48544673",
+   "data": "11/11"
+  }
+ },
+ "falhas": {},
+ "fontes_iniciadas": [
+  "Chaves na Mão",
+  "Imobiliária Inglaterra",
+  "Imobiliária Europa",
+  "Imobiliária Londrina Norte",
+  "CRV Imobiliária",
+  "Human Imóveis",
+  "Sérgio Cortez Imóveis",
+  "Imobiliária Perez"
+ ],
+ "geocode": {
+  "amapa londrina": [
+   -23.3033192,
+   -51.1545492
+  ],
+  "avenida juscelino kubitschek londrina": [
+   -23.3199182,
+   -51.1652867
+  ],
+  "celso garcia cid londrina": [
+   -23.2767503,
+   -51.2394347
+  ],
+  "espirito santo londrina": [
+   -23.2661462,
+   -51.17452
+  ],
+  "martiniano do valle filho londrina": [
+   -23.3146994,
+   -51.1452301
+  ],
+  "rua amapa londrina": [
+   -23.3032649,
+   -51.1522881
+  ],
+  "rua belo horizonte londrina": [
+   -23.318011,
+   -51.1666727
+  ],
+  "rua benjamin constant londrina": [
+   -23.3087213,
+   -51.1578902
+  ],
+  "rua candido betoni londrina": [
+   -23.3031666,
+   -51.1747587
+  ],
+  "rua clevelandia bloco londrina": null,
+  "rua clevelandia londrina": [
+   -23.304576,
+   -51.1769738
+  ],
+  "rua guapore londrina": [
+   -23.3076063,
+   -51.1628013
+  ],
+  "rua itapicuru londrina": [
+   -23.3014771,
+   -51.1652379
+  ],
+  "rua manaus londrina": [
+   -23.3039293,
+   -51.1663626
+  ],
+  "rua mossoro londrina": [
+   -23.3065968,
+   -51.167147
+  ],
+  "rua paraiba londrina": [
+   -23.3066335,
+   -51.1654761
+  ],
+  "rua paranagua londrina": [
+   -23.3122971,
+   -51.1692648
+  ],
+  "rua pio xii londrina": [
+   -23.3121386,
+   -51.1679755
+  ],
+  "rua ponta grossa bloco a londrina": [
+   -23.3077596,
+   -51.1756307
+  ],
+  "rua ponta grossa londrina": [
+   -23.3077596,
+   -51.1756307
+  ],
+  "rua porto alegre londrina": [
+   -23.3023728,
+   -51.1703466
+  ],
+  "rua prefeito hugo cabral londrina": [
+   -23.312126,
+   -51.164007
+  ],
+  "rua professor samuel moura londrina": [
+   -23.3123515,
+   -51.1787237
+  ],
+  "rua quintino bocaiuva londrina": [
+   -23.3056109,
+   -51.1680891
+  ],
+  "rua rio turvo londrina": [
+   -23.2968332,
+   -51.1676335
+  ],
+  "rua santos londrina": [
+   -23.3116986,
+   -51.1679746
+  ],
+  "rua sao luiz londrina": [
+   -23.3032852,
+   -51.1681381
+  ],
+  "rua sao vicente londrina": [
+   -23.3003701,
+   -51.1602627
+  ],
+  "rua sergipe londrina": [
+   -23.3098312,
+   -51.1617715
+  ],
+  "rua solimoes londrina": [
+   -23.295993,
+   -51.16905
+  ],
+  "rua tupi londrina": [
+   -23.3109707,
+   -51.1680545
+  ],
+  "sao vicente londrina": [
+   -23.3003701,
+   -51.1602627
+  ],
+  "solimoes londrina": [
+   -23.295993,
+   -51.16905
+  ]
+ },
+ "rotas": {
+  "-23.29562,-51.15985": [
+   20.8,
+   1548
+  ],
+  "-23.29599,-51.16905": [
+   12.8,
+   957
+  ],
+  "-23.29599,-51.16959": [
+   13.3,
+   995
+  ],
+  "-23.29677,-51.16791": [
+   10.0,
+   742
+  ],
+  "-23.29712,-51.16305": [
+   14.3,
+   1067
+  ],
+  "-23.29808,-51.16009": [
+   17.0,
+   1271
+  ],
+  "-23.29835,-51.16264": [
+   13.5,
+   1009
+  ],
+  "-23.29959,-51.16704": [
+   5.1,
+   375
+  ],
+  "-23.29985,-51.15723": [
+   18.8,
+   1400
+  ],
+  "-23.30014,-51.16553": [
+   7.0,
+   523
+  ],
+  "-23.30037,-51.16026": [
+   13.7,
+   1022
+  ],
+  "-23.30180,-51.16006": [
+   13.0,
+   963
+  ],
+  "-23.30194,-51.16009": [
+   12.8,
+   948
+  ],
+  "-23.30203,-51.17083": [
+   6.6,
+   499
+  ],
+  "-23.30211,-51.16010": [
+   12.5,
+   929
+  ],
+  "-23.30216,-51.16011": [
+   12.4,
+   923
+  ],
+  "-23.30229,-51.15919": [
+   13.6,
+   1013
+  ],
+  "-23.30265,-51.16789": [
+   1.0,
+   78
+  ],
+  "-23.30267,-51.16777": [
+   1.0,
+   73
+  ],
+  "-23.30292,-51.16230": [
+   7.9,
+   583
+  ],
+  "-23.30297,-51.17585": [
+   16.9,
+   1260
+  ],
+  "-23.30314,-51.17488": [
+   15.4,
+   1153
+  ],
+  "-23.30322,-51.16903": [
+   3.7,
+   278
+  ],
+  "-23.30326,-51.17578": [
+   17.5,
+   1303
+  ],
+  "-23.30327,-51.16222": [
+   8.0,
+   591
+  ],
+  "-23.30328,-51.16226": [
+   7.9,
+   586
+  ],
+  "-23.30348,-51.17482": [
+   15.5,
+   1158
+  ],
+  "-23.30390,-51.17749": [
+   20.2,
+   1504
+  ],
+  "-23.30405,-51.17711": [
+   18.2,
+   1356
+  ],
+  "-23.30406,-51.16642": [
+   2.4,
+   181
+  ],
+  "-23.30458,-51.17697": [
+   17.6,
+   1312
+  ],
+  "-23.30500,-51.16656": [
+   4.2,
+   311
+  ],
+  "-23.30522,-51.17680": [
+   18.5,
+   1384
+  ],
+  "-23.30554,-51.16831": [
+   6.5,
+   483
+  ],
+  "-23.30569,-51.16529": [
+   6.9,
+   517
+  ],
+  "-23.30601,-51.16556": [
+   7.3,
+   548
+  ],
+  "-23.30608,-51.16051": [
+   14.0,
+   1044
+  ],
+  "-23.30646,-51.16493": [
+   8.9,
+   669
+  ],
+  "-23.30650,-51.16460": [
+   9.4,
+   702
+  ],
+  "-23.30651,-51.16845": [
+   8.6,
+   646
+  ],
+  "-23.30658,-51.16752": [
+   7.6,
+   569
+  ],
+  "-23.30660,-51.16710": [
+   7.0,
+   526
+  ],
+  "-23.30673,-51.16819": [
+   8.3,
+   618
+  ],
+  "-23.30715,-51.16797": [
+   8.8,
+   659
+  ],
+  "-23.30719,-51.16778": [
+   8.9,
+   664
+  ],
+  "-23.30730,-51.17036": [
+   10.0,
+   745
+  ],
+  "-23.30851,-51.17619": [
+   19.6,
+   1464
+  ],
+  "-23.30876,-51.16569": [
+   10.6,
+   792
+  ],
+  "-23.30877,-51.16598": [
+   10.7,
+   804
+  ],
+  "-23.30878,-51.16422": [
+   12.1,
+   902
+  ],
+  "-23.30889,-51.16563": [
+   10.5,
+   785
+  ],
+  "-23.30896,-51.16825": [
+   11.6,
+   866
+  ],
+  "-23.30903,-51.16857": [
+   12.0,
+   901
+  ],
+  "-23.30908,-51.16429": [
+   12.9,
+   958
+  ],
+  "-23.30912,-51.16425": [
+   12.9,
+   963
+  ],
+  "-23.30916,-51.16772": [
+   11.8,
+   881
+  ],
+  "-23.30927,-51.16405": [
+   13.2,
+   979
+  ],
+  "-23.30931,-51.16288": [
+   13.6,
+   1009
+  ],
+  "-23.30977,-51.16834": [
+   13.3,
+   994
+  ],
+  "-23.31086,-51.16855": [
+   15.2,
+   1141
+  ],
+  "-23.31106,-51.16672": [
+   13.1,
+   982
+  ],
+  "-23.31112,-51.16850": [
+   15.2,
+   1136
+  ],
+  "-23.31118,-51.16881": [
+   14.9,
+   1121
+  ],
+  "-23.31119,-51.16925": [
+   14.6,
+   1097
+  ],
+  "-23.31170,-51.16797": [
+   15.5,
+   1163
+  ],
+  "-23.31213,-51.16401": [
+   16.1,
+   1192
+  ],
+  "-23.31215,-51.16784": [
+   16.2,
+   1213
+  ],
+  "-23.31230,-51.16926": [
+   16.3,
+   1220
+  ]
+ },
+ "ultimo_status": "2026-11-11"
+}
