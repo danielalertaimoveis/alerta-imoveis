@@ -22,6 +22,9 @@ Ele roda sozinho nos servidores do GitHub, de graça, com o seu computador desli
 | Imobiliária Atual | Direto do site, apartamentos de 2 e 3 quartos do Centro. Sem rua |
 | Catuaí Imóveis | Direto do site, apartamentos do Centro, lida a cada 30 minutos |
 | Raul Fulgêncio e Serenity | Direto do site, mas só os 12 imóveis do topo da lista de cada uma |
+| Imob3M, Camponesa, Barreto e Monaco | Direto do site de cada uma, os mais recentes primeiro |
+| 88 Imóveis e Imobiliária Natal | Direto do site, todos os apartamentos com localização |
+| CMSouza e Imobiliária Senador | Direto do site: os 30 primeiros do Centro e os 30 primeiros da cidade |
 
 A Imobiliária Avenida ficou de fora: o site mostra só os 12 aluguéis mais caros.
 

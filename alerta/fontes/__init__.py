@@ -18,6 +18,9 @@ def novo_anuncio(fonte, id_, **campos):
         a["rua"] = None
     if a["area"] is not None and a["area"] < 15:  # 0 ou 1 m² = campo não preenchido
         a["area"] = None
+    for campo in ("condominio", "iptu"):  # R$ 0,01 ou R$ 1 = campo não preenchido
+        if a[campo] is not None and a[campo] < 10:
+            a[campo] = None
     return a
 
 
