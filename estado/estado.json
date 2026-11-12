@@ -3634,6 +3634,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "imobiliaria-raul-fulgencio:348": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "imobiliaria-santamerica:47777": {
    "aluguel": 3800.0,
    "desde": "2026-11-11",
@@ -4904,8 +4911,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 13,
-  "Imobiliária Serenity": 13
+  "Alugaflex": 14,
+  "Imobiliária Serenity": 14
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5385,7 +5392,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794494954
+  "Catuaí Imóveis": 1794498135
  },
  "ultimo_status": "2026-11-12"
 }
