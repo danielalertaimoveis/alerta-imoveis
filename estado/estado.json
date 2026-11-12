@@ -1744,6 +1744,13 @@
    "ok": true,
    "visto": "2026-11-12"
   },
+  "chaves-na-mao:48823630": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "desde": "2026-11-11",
@@ -4705,6 +4712,13 @@
    "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "imobiliaria-veneza:09943.001": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
   }
  },
  "cnm_grupos": {
@@ -4946,8 +4960,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 17,
-  "Imobiliária Serenity": 17
+  "Alugaflex": 18,
+  "Imobiliária Serenity": 18
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5427,7 +5441,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794508124
+  "Catuaí Imóveis": 1794511612
  },
  "ultimo_status": "2026-11-12"
 }
