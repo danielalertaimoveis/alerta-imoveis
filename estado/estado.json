@@ -136,9 +136,23 @@
    "ok": false,
    "visto": "2026-11-11"
   },
+  "century-21-class:AP10622": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP11170": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "century-21-class:AP11685": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
@@ -231,6 +245,13 @@
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "century-21-class:AP12183": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -1652,6 +1673,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "chaves-na-mao:48800894": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "desde": "2026-11-11",
@@ -2123,7 +2151,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP0571-INIC": {
    "aluguel": 1300.0,
@@ -2276,7 +2304,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP3397-INIC": {
    "aluguel": 1500.0,
@@ -2794,7 +2822,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6055-INIC": {
    "aluguel": 1500.0,
@@ -3057,6 +3085,13 @@
   "imobiliaria-inglaterra:AP6176-INIC": {
    "aluguel": 1850.0,
    "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "imobiliaria-inglaterra:AP6178-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-12"
@@ -3483,6 +3518,13 @@
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "imobiliaria-raul-fulgencio:167": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -4784,8 +4826,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 9,
-  "Imobiliária Serenity": 9
+  "Alugaflex": 10,
+  "Imobiliária Serenity": 10
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5265,7 +5307,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794480670
+  "Catuaí Imóveis": 1794484042
  },
- "ultimo_status": "2026-11-11"
+ "ultimo_status": "2026-11-12"
 }
