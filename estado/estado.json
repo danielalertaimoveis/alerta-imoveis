@@ -1,6 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-11": 1
+  "2026-11-11": 1,
+  "2026-11-12": 1
  },
  "anuncios": {
   "catuai-imoveis:apartamento-a-venda-e-locacao-solar-saint-honore-londrina": {
@@ -262,6 +263,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP12202": {
+   "aluguel": 4700.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP12203": {
    "aluguel": 2410.0,
    "desde": "2026-11-11",
@@ -272,6 +280,13 @@
   "century-21-class:AP12208": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "century-21-class:AP12209": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-12"
@@ -569,7 +584,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:18980817": {
    "aluguel": 2190.0,
@@ -716,28 +731,28 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:39103222": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:39964383": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:40228520": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:40694740": {
    "aluguel": 3000.0,
@@ -763,7 +778,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:41527990": {
    "aluguel": 2950.0,
@@ -878,7 +893,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:43179260": {
    "aluguel": 2800.0,
@@ -892,7 +907,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:43287874": {
    "aluguel": 2800.0,
@@ -911,7 +926,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:43622063": {
    "aluguel": 1800.0,
@@ -1001,7 +1016,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:45031109": {
    "aluguel": 2700.0,
@@ -1120,6 +1135,13 @@
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "chaves-na-mao:45879356": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-12",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -1253,7 +1275,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:46761626": {
    "aluguel": 2100.0,
@@ -1431,7 +1453,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:47851587": {
    "aluguel": 2950.0,
@@ -1451,7 +1473,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:47935807": {
    "aluguel": 1200.0,
@@ -1522,7 +1544,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "chaves-na-mao:48378899": {
    "aluguel": 2200.0,
@@ -1678,6 +1700,12 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
+   "visto": "2026-11-12"
+  },
+  "chaves-na-mao:48805661": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-12",
+   "ok": true,
    "visto": "2026-11-12"
   },
   "crv-imobiliaria:AP0009_CRV": {
@@ -2409,7 +2437,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP4577-INIC": {
    "aluguel": 8500.0,
@@ -2689,7 +2717,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP5925-INIC": {
    "aluguel": 1500.0,
@@ -2780,7 +2808,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6012-INIC": {
    "aluguel": 1800.0,
@@ -2808,7 +2836,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6024-INIC": {
    "aluguel": 1800.0,
@@ -2969,7 +2997,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6153-INIC": {
    "aluguel": 1550.0,
@@ -3093,6 +3121,13 @@
    "aluguel": 1300.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "imobiliaria-inglaterra:AP6179-INIC": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-12",
+   "motivo": "quartos a menos",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -3498,6 +3533,13 @@
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "ok": true,
+   "visto": "2026-11-12"
+  },
+  "imobiliaria-perez:8902": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
    "visto": "2026-11-12"
   },
   "imobiliaria-perez:9501": {
@@ -4590,7 +4632,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 10,
   "approx:19/187611/297059": 11,
-  "approx:19/187611/297065": 41,
+  "approx:19/187611/297065": 40,
   "approx:19/187638/297056": 9
  },
  "enderecos": {
@@ -4826,8 +4868,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 10,
-  "Imobiliária Serenity": 10
+  "Alugaflex": 11,
+  "Imobiliária Serenity": 11
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5307,7 +5349,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794484042
+  "Catuaí Imóveis": 1794487493
  },
  "ultimo_status": "2026-11-12"
 }
