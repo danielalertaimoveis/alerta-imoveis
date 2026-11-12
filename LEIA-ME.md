@@ -25,6 +25,11 @@ Ele roda sozinho nos servidores do GitHub, de graça, com o seu computador desli
 
 A Imobiliária Avenida ficou de fora: o site mostra só os 12 aluguéis mais caros.
 
+Alugaflex e Serenity estão desligadas (`"ativa": false` no `config.json`): os dois sites
+funcionam a partir de um computador no Brasil, mas recusam o acesso vindo dos servidores do
+GitHub. Os anúncios delas que também vão para o Chaves na Mão continuam chegando por lá.
+Para religar uma fonte, apague o `"ativa": false` da linha dela.
+
 Viva Real, ZAP, OLX e Imovelweb bloqueiam programas e ficaram de fora. No ZAP e no Viva Real
 dá para criar um alerta próprio do site (botão "Criar alerta" na página de uma busca), que
 manda e-mail quando entra anúncio novo.

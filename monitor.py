@@ -284,6 +284,9 @@ def main():
 
     for fonte in cfg["fontes"]:
         nome = fonte["nome"]
+        if fonte.get("ativa") is False:
+            falhas.pop(nome, None)
+            continue
         try:
             n, b = processar_fonte(fonte, cfg, estado, hoje, orcamento)
             novos += n
