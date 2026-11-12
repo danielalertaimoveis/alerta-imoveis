@@ -2089,7 +2089,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-europa:AP2999-EURW": {
    "aluguel": 4200.0,
@@ -3162,6 +3162,13 @@
   },
   "imobiliaria-inglaterra:AP6179-INIC": {
    "aluguel": 1000.0,
+   "desde": "2026-11-12",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "imobiliaria-inglaterra:AP6180-INIC": {
+   "aluguel": 1850.0,
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
@@ -4508,6 +4515,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "imobiliaria-santamerica:56299": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-12",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "imobiliaria-veneza:00221.003": {
    "aluguel": 1300.0,
    "desde": "2026-11-11",
@@ -4911,8 +4925,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 15,
-  "Imobiliária Serenity": 15
+  "Alugaflex": 16,
+  "Imobiliária Serenity": 16
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5392,7 +5406,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794501890
+  "Catuaí Imóveis": 1794505064
  },
  "ultimo_status": "2026-11-12"
 }
