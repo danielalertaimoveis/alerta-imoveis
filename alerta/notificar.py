@@ -60,7 +60,8 @@ def reais(valor):
 def endereco(a):
     if not a.get("rua") and a.get("titulo"):
         # sem rua: o título costuma trazer o nome do edifício
-        predio = re.search(r"(Edif[íi]cio|Ed\.|Residencial|Condom[íi]nio)\s+[^,|]{3,40}", a["titulo"])
+        predio = re.search(r"(Edif[íi]cio|Ed\.|Residencial|Condom[íi]nio)\s+[^,|]{3,45}?"
+                           r"(?=\s+(?:no|na|com|em|para|próximo)\s|[,|]|$)", a["titulo"])
         rua = predio.group(0).strip() if predio else "Rua não informada"
     else:
         rua = a.get("rua") or "Rua não informada"

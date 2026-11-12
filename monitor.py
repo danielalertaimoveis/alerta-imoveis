@@ -9,18 +9,21 @@ import argparse
 import json
 import os
 import sys
+import time
 import traceback
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from alerta import notificar
-from alerta.fontes import alugaflex, arbo, casasoft, chavesnamao, flip, kenlo, perez, santamerica
+from alerta.fontes import (alugaflex, arbo, casasoft, catuai, chavesnamao, flip, kenlo, msys,
+                           perez, santamerica)
 from alerta.util import distancia_m, geocodificar, minutos_a_pe, normalizar
 
 RAIZ = Path(__file__).parent
 ARQ_ESTADO = Path(os.environ.get("ALERTA_ESTADO") or RAIZ / "estado" / "estado.json")
 FONTES = {"chavesnamao": chavesnamao, "kenlo": kenlo, "arbo": arbo, "perez": perez,
-          "flip": flip, "santamerica": santamerica, "alugaflex": alugaflex, "casasoft": casasoft}
+          "flip": flip, "santamerica": santamerica, "alugaflex": alugaflex, "casasoft": casasoft,
+          "msys": msys, "catuai": catuai}
 BRASILIA = timezone(timedelta(hours=-3))
 
 
@@ -123,6 +126,14 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
     modulo = FONTES[fonte["tipo"]]
     registros = estado.setdefault("anuncios", {})
     primeira_vez = fonte["nome"] not in estado.setdefault("fontes_iniciadas", [])
+    # fontes com páginas pesadas são lidas com intervalo maior
+    leituras = estado.setdefault("ultima_leitura", {})
+    intervalo = fonte.get("intervalo_minutos")
+    if intervalo and not primeira_vez and time.time() - leituras.get(fonte["nome"], 0) < intervalo * 60 - 90:
+        log(f"  {fonte['nome']}: ainda não é hora (lida a cada {intervalo} min)")
+        return [], []
+    if intervalo:
+        leituras[fonte["nome"]] = int(time.time())
     ctx = {"cfg": cfg, "estado": estado, "primeira_vez": primeira_vez, "log": log}
     brutos = modulo.coletar(fonte, ctx)
     novos, base, pendentes = [], [], 0

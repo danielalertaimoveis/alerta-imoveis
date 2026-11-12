@@ -1,4 +1,4 @@
-"""Sites feitos na plataforma Casasoft com cartões que trazem coordenada (ex.: Veneza).
+"""Sites feitos na plataforma Casasoft (ex.: Veneza, com coordenada no cartão; Atual, sem).
 
 Cada página mostra só os 12 primeiros imóveis, do mais caro para o mais barato; o site
 carrega o resto sob demanda. Por isso usam-se páginas estreitas (bairro + nº de quartos),
@@ -43,6 +43,22 @@ def coletar(cfg_fonte, ctx):
                 aproximado=not ender,
             )
             anuncios[a["chave"]] = a
+        # layout antigo da plataforma (ex.: Imobiliária Atual): sem cartão com coordenada,
+        # os dados saem do próprio endereço do anúncio
+        for slug, preco, ref in re.findall(
+                r'href="(/imovel/apartamento[^"?]*-locacao-rs-(\d+))\?id=\d+&(?:amp;)?ref=([\d.]+)', html):
+            quartos = re.search(r"apartamento-(\d+)-quartos?-(.+?)-londrina", slug)
+            area = re.search(r"-(\d+)m2-", slug)
+            a = novo_anuncio(
+                cfg_fonte["nome"], ref, anunciante=cfg_fonte["nome"],
+                url=cfg_fonte["base"] + slug, aluguel=float(preco),
+                quartos=inteiro(quartos.group(1)) if quartos else None,
+                vagas=1 if "com-garagem" in slug else None,
+                area=inteiro(area.group(1)) if area else None,
+                bairro=quartos.group(2).replace("-", " ").title() if quartos else None,
+                aproximado=True,
+            )
+            anuncios.setdefault(a["chave"], a)
     if not anuncios:
         raise RuntimeError("nenhum apartamento encontrado nas páginas")
     return list(anuncios.values())

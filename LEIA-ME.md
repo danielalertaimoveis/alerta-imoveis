@@ -19,6 +19,11 @@ Ele roda sozinho nos servidores do GitHub, de graça, com o seu computador desli
 | Imobiliária Santamérica | Direto do site, os mais novos. Sem rua: o alerta sai com "distância não calculada" |
 | Alugaflex | Direto do site, todos os apartamentos de Londrina |
 | Imobiliária Veneza | Direto do site, apartamentos de 2 e 3 quartos do Centro |
+| Imobiliária Atual | Direto do site, apartamentos de 2 e 3 quartos do Centro. Sem rua |
+| Catuaí Imóveis | Direto do site, apartamentos do Centro, lida a cada 30 minutos |
+| Raul Fulgêncio e Serenity | Direto do site, mas só os 12 imóveis do topo da lista de cada uma |
+
+A Imobiliária Avenida ficou de fora: o site mostra só os 12 aluguéis mais caros.
 
 Viva Real, ZAP, OLX e Imovelweb bloqueiam programas e ficaram de fora. No ZAP e no Viva Real
 dá para criar um alerta próprio do site (botão "Criar alerta" na página de uma busca), que

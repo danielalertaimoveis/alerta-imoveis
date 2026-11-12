@@ -40,6 +40,11 @@
     { "tipo": "alugaflex", "nome": "Alugaflex", "base": "https://www.alugaflex.com.br", "caminho": "/buscar/imovel/pr/londrina/" },
     { "tipo": "casasoft", "nome": "Imobiliária Veneza", "base": "https://www.veneza.com.br", "paginas": ["/imoveis/alugar-apartamento-2-quartos-em-londrina-no-centro", "/imoveis/alugar-apartamento-3-quartos-em-londrina-no-centro"] },
 
+    { "tipo": "casasoft", "nome": "Imobiliária Atual", "base": "https://www.imobiliariaatual.com.br", "paginas": ["/imoveis/locacao-apartamento-2-quartos-em-londrina-no-centro", "/imoveis/locacao-apartamento-3-quartos-em-londrina-no-centro"] },
+    { "tipo": "msys", "nome": "Imobiliária Raul Fulgêncio", "base": "https://raulfulgencio.com.br" },
+    { "tipo": "msys", "nome": "Imobiliária Serenity", "base": "https://imobiliariaserenity.com.br" },
+    { "tipo": "catuai", "nome": "Catuaí Imóveis", "base": "https://www.catuaiimoveis.com.br", "paginas": ["/imoveis/apartamento/para-alugar/londrina-pr/centro"], "intervalo_minutos": 30 },
+
     { "tipo": "perez", "nome": "Imobiliária Perez", "base": "https://www.imobiliariaperez.com.br", "paginas": ["/alugar/apartamento/pr/londrina/centro"] }
   ]
 }
