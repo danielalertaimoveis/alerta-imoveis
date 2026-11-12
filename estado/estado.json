@@ -388,6 +388,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP2418": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP2502": {
    "aluguel": 3000.0,
    "desde": "2026-11-12",
@@ -4897,8 +4904,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 12,
-  "Imobiliária Serenity": 12
+  "Alugaflex": 13,
+  "Imobiliária Serenity": 13
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5378,7 +5385,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794491910
+  "Catuaí Imóveis": 1794494954
  },
  "ultimo_status": "2026-11-12"
 }
