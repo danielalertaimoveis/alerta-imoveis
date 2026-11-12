@@ -48,4 +48,8 @@ jobs:
           git config user.name "monitor"
           git config user.email "monitor@users.noreply.github.com"
           git add estado
-          git diff --cached --quiet || { git commit -m "Atualiza anúncios vistos"; git push; }
+          git diff --cached --quiet && exit 0
+          git commit -m "Atualiza anúncios vistos"
+          # se o código foi atualizado enquanto a verificação rodava, encaixa por cima antes de enviar
+          git pull --quiet --rebase origin main
+          git push

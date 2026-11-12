@@ -1,4 +1,5 @@
 """Funções de apoio: download, distância, rota a pé, geocodificação e leitura de páginas."""
+import html as html_lib
 import json
 import math
 import re
@@ -28,7 +29,16 @@ def baixar(url, pausa=1.2, timeout=40, tentativas=2, ua=UA_NAVEGADOR, aceitar="t
             "User-Agent": ua, "Accept": aceitar, "Accept-Language": "pt-BR,pt;q=0.9"})
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.read().decode("utf-8", errors="ignore")
+                dados = r.read()
+                # alguns sites antigos usam ISO-8859-1: respeita o que o site declara
+                codificacao = r.headers.get_content_charset()
+                if not codificacao:
+                    m = re.search(rb'charset=["\']?([\w-]+)', dados[:3000])
+                    codificacao = m.group(1).decode("ascii") if m else "utf-8"
+                try:
+                    return dados.decode(codificacao, errors="ignore")
+                except LookupError:
+                    return dados.decode("utf-8", errors="ignore")
         except urllib.error.HTTPError as e:
             erro = e
             if e.code in (403, 404, 410, 429):
@@ -72,6 +82,13 @@ def dinheiro(valor):
     if not m:
         return None
     return float(m.group(0).replace(".", "").replace(",", "."))
+
+
+def so_texto(trecho_html):
+    """Texto visível de um trecho de HTML, com as partes separadas por '|'."""
+    t = re.sub(r"<(script|style|svg)\b.*?</\1>", "", trecho_html, flags=re.S)
+    t = html_lib.unescape(re.sub(r"<[^>]+>", "|", t))
+    return re.sub(r"\s*(\|\s*)+", "|", re.sub(r"[ \t\r\n]+", " ", t)).strip("| ")
 
 
 def blocos_ld_json(html):

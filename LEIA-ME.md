@@ -15,8 +15,14 @@ Ele roda sozinho nos servidores do GitHub, de graça, com o seu computador desli
 | Imobiliária Inglaterra, Europa e Londrina Norte | Direto do site de cada uma |
 | CRV Imobiliária, Human Imóveis e Sérgio Cortez | Direto do site de cada uma |
 | Imobiliária Perez | Direto do site, só os apartamentos do Centro |
+| Century 21 Class | Direto do site: os 30 primeiros do Centro e os 30 primeiros da cidade |
+| Imobiliária Santamérica | Direto do site, os mais novos. Sem rua: o alerta sai com "distância não calculada" |
+| Alugaflex | Direto do site, todos os apartamentos de Londrina |
+| Imobiliária Veneza | Direto do site, apartamentos de 2 e 3 quartos do Centro |
 
-Viva Real, ZAP, OLX e Imovelweb bloqueiam programas e ficaram de fora.
+Viva Real, ZAP, OLX e Imovelweb bloqueiam programas e ficaram de fora. No ZAP e no Viva Real
+dá para criar um alerta próprio do site (botão "Criar alerta" na página de uma busca), que
+manda e-mail quando entra anúncio novo.
 
 ## Como ler um alerta
 

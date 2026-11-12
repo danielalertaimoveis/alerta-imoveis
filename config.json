@@ -35,6 +35,11 @@
     { "tipo": "arbo", "nome": "Human Imóveis", "base": "https://www.humanimoveis.com" },
     { "tipo": "arbo", "nome": "Sérgio Cortez Imóveis", "base": "https://www.sergiocortezimobiliaria.com.br" },
 
+    { "tipo": "flip", "nome": "Century 21 Class", "base": "https://www.c21class.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
+    { "tipo": "santamerica", "nome": "Imobiliária Santamérica", "base": "https://www.santamerica.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"] },
+    { "tipo": "alugaflex", "nome": "Alugaflex", "base": "https://www.alugaflex.com.br", "caminho": "/buscar/imovel/pr/londrina/" },
+    { "tipo": "casasoft", "nome": "Imobiliária Veneza", "base": "https://www.veneza.com.br", "paginas": ["/imoveis/alugar-apartamento-2-quartos-em-londrina-no-centro", "/imoveis/alugar-apartamento-3-quartos-em-londrina-no-centro"] },
+
     { "tipo": "perez", "nome": "Imobiliária Perez", "base": "https://www.imobiliariaperez.com.br", "paginas": ["/alugar/apartamento/pr/londrina/centro"] }
   ]
 }

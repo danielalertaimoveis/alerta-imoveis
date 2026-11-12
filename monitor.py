@@ -14,12 +14,13 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from alerta import notificar
-from alerta.fontes import arbo, chavesnamao, kenlo, perez
+from alerta.fontes import alugaflex, arbo, casasoft, chavesnamao, flip, kenlo, perez, santamerica
 from alerta.util import distancia_m, geocodificar, minutos_a_pe, normalizar
 
 RAIZ = Path(__file__).parent
 ARQ_ESTADO = Path(os.environ.get("ALERTA_ESTADO") or RAIZ / "estado" / "estado.json")
-FONTES = {"chavesnamao": chavesnamao, "kenlo": kenlo, "arbo": arbo, "perez": perez}
+FONTES = {"chavesnamao": chavesnamao, "kenlo": kenlo, "arbo": arbo, "perez": perez,
+          "flip": flip, "santamerica": santamerica, "alugaflex": alugaflex, "casasoft": casasoft}
 BRASILIA = timezone(timedelta(hours=-3))
 
 
@@ -125,7 +126,8 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
     ctx = {"cfg": cfg, "estado": estado, "primeira_vez": primeira_vez, "log": log}
     brutos = modulo.coletar(fonte, ctx)
     novos, base, pendentes = [], [], 0
-    detalha = hasattr(modulo, "detalhar") and not (primeira_vez and fonte["tipo"] == "chavesnamao")
+    # na primeira leitura de fontes grandes não se abre anúncio por anúncio, para não ser bloqueado
+    detalha = hasattr(modulo, "detalhar") and not (primeira_vez and fonte["tipo"] in ("chavesnamao", "santamerica"))
 
     for a in brutos:
         reg = registros.get(a["chave"])
