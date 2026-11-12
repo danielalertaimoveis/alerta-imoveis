@@ -151,6 +151,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP11540": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP11685": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
@@ -399,6 +406,13 @@
    "aluguel": 3000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "century-21-class:AP3603": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -4556,6 +4570,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "imobiliaria-veneza:01923.011": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "imobiliaria-veneza:01923.017": {
    "aluguel": 1650.0,
    "desde": "2026-11-11",
@@ -4925,8 +4946,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 16,
-  "Imobiliária Serenity": 16
+  "Alugaflex": 17,
+  "Imobiliária Serenity": 17
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5406,7 +5427,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794505064
+  "Catuaí Imóveis": 1794508124
  },
  "ultimo_status": "2026-11-12"
 }
