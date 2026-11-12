@@ -1,6 +1,507 @@
 {
  "alertas_por_dia": {},
  "anuncios": {
+  "catuai-imoveis:apartamento-a-venda-e-locacao-solar-saint-honore-londrina": {
+   "aluguel": 7400.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-a-venda-e-locacao-sunset-boulevard-londrina": {
+   "aluguel": 5800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-aqua-jardim-londrina-3": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-arkadia-londrina": {
+   "aluguel": 10200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-coimbra-londrina": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-imperador-londrina": {
+   "aluguel": 6500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-manhattan-residence-londrina": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-odyssey-londrina-7": {
+   "aluguel": 4400.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-residencial-florenza-londrina": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-santos-1250-londrina": {
+   "aluguel": 4100.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-slaviero-flat-hotel-londrina": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-solar-rembrandt-londrina": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-3": {
+   "aluguel": 2990.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-5": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-6": {
+   "aluguel": 2750.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "catuai-imoveis:apartamento-para-alugar-terralis-jardin-londrina-3": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP0474": {
+   "aluguel": 2310.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP10387": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP10388": {
+   "aluguel": 8000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP11170": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP11724": {
+   "aluguel": 2401.01,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP11777": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP11845": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP11898": {
+   "aluguel": 5300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12045": {
+   "aluguel": 7000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12063": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12084": {
+   "aluguel": 10900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12091": {
+   "aluguel": 3000.1,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12096": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12117": {
+   "aluguel": 3001.01,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12165": {
+   "aluguel": 6300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12168": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12190": {
+   "aluguel": 5800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12203": {
+   "aluguel": 2410.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12208": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12226": {
+   "aluguel": 6500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12236": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12242": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12256": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12273": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12274": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12290": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12294": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12296": {
+   "aluguel": 4900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12310": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12315": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP12318": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP1237": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP2296": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP3607": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP4044": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP4066": {
+   "aluguel": 3301.01,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP4168": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP4633": {
+   "aluguel": 4600.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP4817": {
+   "aluguel": 2401.01,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP5370": {
+   "aluguel": 2590.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP5628": {
+   "aluguel": 2480.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP5712": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP6052": {
+   "aluguel": 2801.01,
+   "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP6371": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP6502": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP6920": {
+   "aluguel": 6000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP7192": {
+   "aluguel": 4700.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP7243": {
+   "aluguel": 12000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP7853": {
+   "aluguel": 2480.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP8421": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP8468": {
+   "aluguel": 6000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP9204": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP9227": {
+   "aluguel": 1980.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP9266": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP9798": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "century-21-class:AP9986": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
   "chaves-na-mao:12882819": {
    "aluguel": 2150.0,
    "desde": "2026-11-11",
@@ -1250,6 +1751,30 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-atual:00906.872": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-atual:01167.001": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-atual:05043.001": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-atual:05115.001": {
+   "aluguel": 2310.0,
+   "desde": "2026-11-11",
+   "ok": true,
    "visto": "2026-11-11"
   },
   "imobiliaria-europa:AP0089-EURW": {
@@ -2924,6 +3449,1071 @@
    "motivo": "quartos a menos",
    "ok": false,
    "visto": "2026-11-11"
+  },
+  "imobiliaria-raul-fulgencio:12513": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-raul-fulgencio:23530": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-raul-fulgencio:23532": {
+   "aluguel": 3700.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-raul-fulgencio:23533": {
+   "aluguel": 3700.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-raul-fulgencio:23556": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:47777": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:50537": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:50722": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:50912": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:51722": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:52211": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:53669": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:53677": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54049": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54415": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54499": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54638": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54696": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54927": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:54994": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55269": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55437": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55481": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55543": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55680": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55700": {
+   "aluguel": 2250.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55720": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55735": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55737": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55747": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55778": {
+   "aluguel": 3550.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55821": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55823": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55842": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55854": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55856": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55858": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55867": {
+   "aluguel": 3400.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55878": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55880": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55889": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55892": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55894": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55903": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55906": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55908": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55918": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55919": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55921": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55930": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55955": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55966": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55973": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55982": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55994": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:55995": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56000": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56014": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56016": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56026": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56033": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56057": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56058": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56061": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56062": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56068": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56069": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56082": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56083": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56084": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56090": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56093": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56094": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56101": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56109": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56112": {
+   "aluguel": 980.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56113": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56117": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56118": {
+   "aluguel": 1250.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56119": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56120": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56122": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56132": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56133": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56136": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56139": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56142": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56143": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56145": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56148": {
+   "aluguel": 980.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56150": {
+   "aluguel": 4300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56151": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56154": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56158": {
+   "aluguel": 1850.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56161": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56165": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56166": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56167": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56168": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56177": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56181": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56182": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56187": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56189": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56190": {
+   "aluguel": 7500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56195": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56196": {
+   "aluguel": 4200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56199": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56202": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56207": {
+   "aluguel": 5200.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56208": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56211": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56221": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56222": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56223": {
+   "aluguel": 3600.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56226": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56233": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56235": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56239": {
+   "aluguel": 1550.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56240": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56242": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56244": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56253": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56255": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56260": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56265": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56266": {
+   "aluguel": 4900.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56267": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56275": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56276": {
+   "aluguel": 900.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56281": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-11",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56283": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-santamerica:56284": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-11",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:00221.003": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:00285.001": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:01305.001": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:01423.001": {
+   "aluguel": 1390.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:01770.007": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:01923.017": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:02962.003": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:04916.001": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:06783.001": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:07193.001": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:07365.001": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:07509.002": {
+   "aluguel": 1950.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:07849.001": {
+   "aluguel": 2650.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:08461.001": {
+   "aluguel": 1380.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:08851.001": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:08877.002": {
+   "aluguel": 2050.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09713.001": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09785.001": {
+   "aluguel": 1890.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09841.001": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09872.001": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09884.001": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09903.001": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09911.001": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "imobiliaria-veneza:09933.001": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-11",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-11"
   }
  },
  "cnm_grupos": {
@@ -2936,6 +4526,26 @@
   "avenida juscelino kubitschek|635|3|2200": {
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:46356190",
+   "data": "11/11"
+  },
+  "r mossoro|130|2|1950": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:07509.002",
+   "data": "11/11"
+  },
+  "r mossoro|500|2|2650": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:07849.001",
+   "data": "11/11"
+  },
+  "r niteroi|318|2|1380": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:08461.001",
+   "data": "11/11"
+  },
+  "r prefeito hugo cabral|513|2|1300": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:07365.001",
    "data": "11/11"
   },
   "rua amapa|1000|2|2190": {
@@ -3139,7 +4749,10 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Alugaflex": 1,
+  "Imobiliária Serenity": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -3148,7 +4761,13 @@
   "CRV Imobiliária",
   "Human Imóveis",
   "Sérgio Cortez Imóveis",
-  "Imobiliária Perez"
+  "Imobiliária Perez",
+  "Century 21 Class",
+  "Imobiliária Santamérica",
+  "Imobiliária Veneza",
+  "Imobiliária Atual",
+  "Imobiliária Raul Fulgêncio",
+  "Catuaí Imóveis"
  ],
  "geocode": {
   "amapa londrina": [
@@ -3170,6 +4789,22 @@
   "martiniano do valle filho londrina": [
    -23.3146994,
    -51.1452301
+  ],
+  "r mossoro londrina": [
+   -23.3065968,
+   -51.167147
+  ],
+  "r niteroi londrina": [
+   -23.3055089,
+   -51.1589586
+  ],
+  "r pio xii londrina": [
+   -23.3121386,
+   -51.1679755
+  ],
+  "r prefeito hugo cabral londrina": [
+   -23.312126,
+   -51.164007
   ],
   "rua amapa londrina": [
    -23.3032649,
@@ -3386,6 +5021,10 @@
    7.9,
    586
   ],
+  "-23.30334,-51.16203": [
+   8.2,
+   610
+  ],
   "-23.30348,-51.17482": [
    15.5,
    1158
@@ -3406,6 +5045,14 @@
    17.6,
    1312
   ],
+  "-23.30470,-51.15881": [
+   13.7,
+   1020
+  ],
+  "-23.30495,-51.16679": [
+   4.1,
+   305
+  ],
   "-23.30500,-51.16656": [
    4.2,
    311
@@ -3413,6 +5060,10 @@
   "-23.30522,-51.17680": [
    18.5,
    1384
+  ],
+  "-23.30539,-51.16845": [
+   6.2,
+   460
   ],
   "-23.30554,-51.16831": [
    6.5,
@@ -3429,6 +5080,14 @@
   "-23.30608,-51.16051": [
    14.0,
    1044
+  ],
+  "-23.30640,-51.16828": [
+   8.4,
+   628
+  ],
+  "-23.30644,-51.16496": [
+   8.9,
+   666
   ],
   "-23.30646,-51.16493": [
    8.9,
@@ -3526,6 +5185,10 @@
    13.1,
    982
   ],
+  "-23.31112,-51.16389": [
+   14.5,
+   1081
+  ],
   "-23.31112,-51.16850": [
    15.2,
    1136
@@ -3542,6 +5205,10 @@
    15.5,
    1163
   ],
+  "-23.31177,-51.16991": [
+   16.9,
+   1269
+  ],
   "-23.31213,-51.16401": [
    16.1,
    1192
@@ -3550,10 +5217,17 @@
    16.2,
    1213
   ],
+  "-23.31223,-51.16476": [
+   16.3,
+   1212
+  ],
   "-23.31230,-51.16926": [
    16.3,
    1220
   ]
+ },
+ "ultima_leitura": {
+  "Catuaí Imóveis": 1794445076
  },
  "ultimo_status": "2026-11-11"
 }
