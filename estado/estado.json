@@ -1,5 +1,7 @@
 {
- "alertas_por_dia": {},
+ "alertas_por_dia": {
+  "2026-11-11": 1
+ },
  "anuncios": {
   "catuai-imoveis:apartamento-a-venda-e-locacao-solar-saint-honore-londrina": {
    "aluguel": 7400.0,
@@ -561,6 +563,12 @@
   },
   "chaves-na-mao:23669605": {
    "aluguel": 1150.0,
+   "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:25098593": {
+   "aluguel": 1600.0,
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-11"
@@ -1309,6 +1317,13 @@
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-11"
+  },
+  "chaves-na-mao:47226916": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-11",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-11"
   },
@@ -4658,6 +4673,11 @@
    "chave": "chaves-na-mao:46889565",
    "data": "11/11"
   },
+  "rua paraiba|450|3|1600": {
+   "anunciante": "IMOB3M",
+   "chave": "chaves-na-mao:25098593",
+   "data": "11/11"
+  },
   "rua paraiba|450|3|1800": {
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:43622063",
@@ -4750,8 +4770,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 1,
-  "Imobiliária Serenity": 1
+  "Alugaflex": 2,
+  "Imobiliária Serenity": 2
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5073,6 +5093,10 @@
    6.9,
    517
   ],
+  "-23.30575,-51.16528": [
+   6.9,
+   520
+  ],
   "-23.30601,-51.16556": [
    7.3,
    548
@@ -5227,7 +5251,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794445076
+  "Catuaí Imóveis": 1794449373
  },
  "ultimo_status": "2026-11-11"
 }
