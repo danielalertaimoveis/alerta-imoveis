@@ -388,6 +388,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP2502": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP3607": {
    "aluguel": 1900.0,
    "desde": "2026-11-11",
@@ -468,6 +475,13 @@
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
+  "century-21-class:AP6826": {
+   "aluguel": 5000.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
   },
@@ -962,9 +976,10 @@
    "visto": "2026-11-12"
   },
   "chaves-na-mao:44319093": {
-   "aluguel": 2700.0,
+   "aluguel": 2699.0,
    "desde": "2026-11-11",
-   "ok": true,
+   "motivo": "total acima do limite",
+   "ok": false,
    "visto": "2026-11-12"
   },
   "chaves-na-mao:44409942": {
@@ -1063,14 +1078,14 @@
    "visto": "2026-11-12"
   },
   "chaves-na-mao:45250058": {
-   "aluguel": 3000.0,
+   "aluguel": 2999.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-12"
   },
   "chaves-na-mao:45250059": {
-   "aluguel": 3000.0,
+   "aluguel": 2999.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -2444,7 +2459,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP4744-INIC": {
    "aluguel": 1500.0,
@@ -2551,6 +2566,13 @@
    "ok": false,
    "visto": "2026-11-11"
   },
+  "imobiliaria-inglaterra:AP5615-INIC": {
+   "aluguel": 1300.0,
+   "desde": "2026-11-12",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "imobiliaria-inglaterra:AP5645-INIC": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
@@ -2563,7 +2585,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP5704-INIC": {
    "aluguel": 2200.0,
@@ -2816,6 +2838,13 @@
    "motivo": "sem garagem",
    "ok": false,
    "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP6013-INIC": {
+   "aluguel": 1650.0,
+   "desde": "2026-11-12",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6015-INIC": {
    "aluguel": 1250.0,
@@ -4868,8 +4897,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 11,
-  "Imobiliária Serenity": 11
+  "Alugaflex": 12,
+  "Imobiliária Serenity": 12
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5349,7 +5378,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794487493
+  "Catuaí Imóveis": 1794491910
  },
  "ultimo_status": "2026-11-12"
 }
