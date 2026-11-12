@@ -381,6 +381,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP12325": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "century-21-class:AP1237": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
@@ -2424,7 +2431,7 @@
    "desde": "2026-11-11",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP4054-INIC": {
    "aluguel": 800.0,
@@ -3026,7 +3033,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-12"
   },
   "imobiliaria-inglaterra:AP6146-INIC": {
    "aluguel": 1050.0,
@@ -4543,6 +4550,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "imobiliaria-santamerica:56301": {
+   "aluguel": 3150.0,
+   "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-12"
+  },
   "imobiliaria-veneza:00221.003": {
    "aluguel": 1300.0,
    "desde": "2026-11-11",
@@ -4960,8 +4974,8 @@
   }
  },
  "falhas": {
-  "Alugaflex": 18,
-  "Imobiliária Serenity": 18
+  "Alugaflex": 19,
+  "Imobiliária Serenity": 19
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -5441,7 +5455,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794511612
+  "Catuaí Imóveis": 1794514639
  },
  "ultimo_status": "2026-11-12"
 }
