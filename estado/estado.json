@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-11": 1,
-  "2026-11-12": 1
+  "2026-11-12": 1,
+  "2026-11-13": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1277,12 +1277,25 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "century-21-class:AP10871": {
+   "aluguel": 3801.01,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "century-21-class:AP11170": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "century-21-class:AP11386": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "ok": true,
+   "visto": "2026-11-13"
   },
   "century-21-class:AP11540": {
    "aluguel": 2500.0,
@@ -1347,6 +1360,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP12079": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "century-21-class:AP12084": {
    "aluguel": 10900.0,
    "desde": "2026-11-11",
@@ -1372,6 +1392,13 @@
    "aluguel": 3001.01,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "century-21-class:AP12161": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -1604,6 +1631,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "century-21-class:AP5605": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "century-21-class:AP5628": {
    "aluguel": 2480.0,
    "desde": "2026-11-11",
@@ -1666,6 +1700,12 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "century-21-class:AP7495": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "ok": true,
+   "visto": "2026-11-13"
   },
   "century-21-class:AP7853": {
    "aluguel": 2480.0,
@@ -1807,6 +1847,13 @@
    "aluguel": 1300.0,
    "desde": "2026-11-11",
    "ok": true,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:28456660": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
    "visto": "2026-11-13"
   },
   "chaves-na-mao:28997714": {
@@ -4635,7 +4682,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5996-INIC": {
    "aluguel": 1150.0,
@@ -7442,7 +7489,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Camponesa Imóveis": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -7895,6 +7944,10 @@
    11.8,
    881
   ],
+  "-23.30922,-51.16411": [
+   13.1,
+   973
+  ],
   "-23.30927,-51.16405": [
    13.2,
    979
@@ -7965,7 +8018,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794566974
+  "Catuaí Imóveis": 1794570123
  },
- "ultimo_status": "2026-11-12"
+ "ultimo_status": "2026-11-13"
 }
