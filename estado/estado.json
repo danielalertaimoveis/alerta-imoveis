@@ -4313,7 +4313,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP1662-INIC": {
    "aluguel": 1150.0,
@@ -4565,7 +4565,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5199-INIC": {
    "aluguel": 1050.0,
@@ -4628,7 +4628,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5405-INIC": {
    "aluguel": 1450.0,
@@ -4894,7 +4894,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6002-INIC": {
    "aluguel": 2800.0,
@@ -5069,7 +5069,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6141-INIC": {
    "aluguel": 1500.0,
@@ -5969,6 +5969,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-perez:10506": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-13",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-perez:11542": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
@@ -6203,6 +6210,13 @@
    "aluguel": 2350.0,
    "desde": "2026-11-12",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "imobiliaria-raul-fulgencio:7628": {
+   "aluguel": 8500.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -7084,6 +7098,13 @@
    "aluguel": 3150.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "imobiliaria-santamerica:56308": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-13",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -8295,7 +8316,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794600470
+  "Catuaí Imóveis": 1794603416
  },
  "ultimo_status": "2026-11-13"
 }
