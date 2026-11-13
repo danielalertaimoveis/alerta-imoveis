@@ -965,7 +965,7 @@
    "visto": "2026-11-12"
   },
   "camponesa-imoveis:AP1709-CAPC": {
-   "aluguel": 1450.0,
+   "aluguel": 1350.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -3048,6 +3048,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "chaves-na-mao:48863986": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "cmsouza:AP1036": {
    "aluguel": 4400.0,
    "desde": "2026-11-12",
@@ -4334,7 +4341,7 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP2056-INIC": {
    "aluguel": 2800.0,
@@ -6298,7 +6305,7 @@
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-santamerica:55437": {
    "aluguel": 2500.0,
@@ -8288,7 +8295,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794597246
+  "Catuaí Imóveis": 1794600470
  },
  "ultimo_status": "2026-11-13"
 }
