@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-12": 1,
-  "2026-11-13": 2
+  "2026-11-13": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -2373,7 +2373,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
@@ -2628,7 +2628,7 @@
    "visto": "2026-11-13"
   },
   "chaves-na-mao:47328583": {
-   "aluguel": 1500.0,
+   "aluguel": 1450.0,
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-13"
@@ -2795,6 +2795,13 @@
    "ok": true,
    "visto": "2026-11-13"
   },
+  "chaves-na-mao:48501631": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "chaves-na-mao:48512415": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
@@ -2848,6 +2855,13 @@
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "ok": true,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48563234": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
    "visto": "2026-11-13"
   },
   "chaves-na-mao:48585401": {
@@ -3060,6 +3074,13 @@
   "cmsouza:AP5940": {
    "aluguel": 4400.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP5957": {
+   "aluguel": 4990.0,
+   "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
@@ -4171,7 +4192,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP2226-INIC": {
    "aluguel": 3400.0,
@@ -5960,6 +5981,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-raul-fulgencio:23195": {
+   "aluguel": 5200.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-raul-fulgencio:23530": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
@@ -5985,6 +6013,13 @@
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "imobiliaria-raul-fulgencio:23569": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -7341,6 +7376,11 @@
    "chave": "chaves-na-mao:26681723",
    "data": "11/11"
   },
+  "rua guapore|1175|2|1450": {
+   "anunciante": "ITAPUÃ EMPREENDIMENTOS IMOBILIÁRIOS SC LTDA",
+   "chave": "chaves-na-mao:47328583",
+   "data": "13/11"
+  },
   "rua guapore|1175|2|1500": {
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:47328583",
@@ -7517,7 +7557,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Monaco": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -8044,7 +8086,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794573839
+  "Catuaí Imóveis": 1794578294
  },
  "ultimo_status": "2026-11-13"
 }
