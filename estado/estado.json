@@ -3001,6 +3001,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP3524": {
+   "aluguel": 6200.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "cmsouza:AP3596": {
    "aluguel": 3700.0,
    "desde": "2026-11-12",
@@ -3060,6 +3067,20 @@
   "cmsouza:AP5273": {
    "aluguel": 3800.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP5581": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP5614": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
@@ -4272,7 +4293,7 @@
    "visto": "2026-11-11"
   },
   "imobiliaria-inglaterra:AP3455-INIC": {
-   "aluguel": 1650.0,
+   "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -5430,6 +5451,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "imobiliaria-monaco:AP2548-MONA": {
+   "aluguel": 7500.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
   },
   "imobiliaria-monaco:AP2565-MONA": {
    "aluguel": 1500.0,
@@ -7558,7 +7586,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Monaco": 1
+  "Imobiliária Europa": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -8086,7 +8114,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794578294
+  "Catuaí Imóveis": 1794581197
  },
  "ultimo_status": "2026-11-13"
 }
