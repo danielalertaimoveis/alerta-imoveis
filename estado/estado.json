@@ -1651,6 +1651,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "century-21-class:AP5044": {
+   "aluguel": 1450.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "century-21-class:AP5370": {
    "aluguel": 2590.0,
    "desde": "2026-11-11",
@@ -8316,7 +8323,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794608730
+  "Catuaí Imóveis": 1794611322
  },
  "ultimo_status": "2026-11-13"
 }
