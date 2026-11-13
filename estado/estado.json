@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-12": 1,
-  "2026-11-13": 3
+  "2026-11-13": 4
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -14,6 +14,12 @@
   "88-imoveis:AP0345_OOIMOB": {
    "aluguel": 1700.0,
    "desde": "2026-11-12",
+   "ok": true,
+   "visto": "2026-11-13"
+  },
+  "88-imoveis:AP1149_OOIMOB": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
    "ok": true,
    "visto": "2026-11-13"
   },
@@ -1253,6 +1259,13 @@
    "aluguel": 2310.0,
    "desde": "2026-11-11",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "century-21-class:AP10150": {
+   "aluguel": 4400.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -6051,6 +6064,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-raul-fulgencio:23573": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-raul-fulgencio:348": {
    "aluguel": 2350.0,
    "desde": "2026-11-12",
@@ -7133,6 +7153,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-senador:AP1165": {
+   "aluguel": 800.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-senador:AP1166": {
    "aluguel": 2000.0,
    "desde": "2026-11-12",
@@ -7585,9 +7612,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "Imobiliária Europa": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -8114,7 +8139,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794581197
+  "Catuaí Imóveis": 1794583854
  },
  "ultimo_status": "2026-11-13"
 }
