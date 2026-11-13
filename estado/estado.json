@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-12": 1,
-  "2026-11-13": 5
+  "2026-11-13": 9
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1799,7 +1799,7 @@
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:15304197": {
    "aluguel": 2100.0,
@@ -1960,7 +1960,7 @@
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:37033391": {
    "aluguel": 1200.0,
@@ -2053,7 +2053,7 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:41675915": {
    "aluguel": 2600.0,
@@ -2240,7 +2240,7 @@
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:44866307": {
    "aluguel": 1800.0,
@@ -2645,7 +2645,7 @@
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:47264452": {
    "aluguel": 2300.0,
@@ -2723,6 +2723,13 @@
    "aluguel": 970.0,
    "desde": "2026-11-11",
    "ok": true,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:47931002": {
+   "aluguel": 1600.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
    "visto": "2026-11-13"
   },
   "chaves-na-mao:47931006": {
@@ -2846,7 +2853,7 @@
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "chaves-na-mao:48544460": {
    "aluguel": 2000.0,
@@ -2993,6 +3000,54 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "chaves-na-mao:48863559": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863570": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863595": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863797": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "ok": true,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863822": {
+   "aluguel": 2750.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863890": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "chaves-na-mao:48863948": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-13",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "cmsouza:AP1036": {
    "aluguel": 4400.0,
    "desde": "2026-11-12",
@@ -3057,7 +3112,7 @@
    "visto": "2026-11-13"
   },
   "cmsouza:AP4781": {
-   "aluguel": 12000.0,
+   "aluguel": 11000.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -3295,9 +3350,23 @@
    "visto": "2026-11-13"
   },
   "cmsouza:AP6963": {
-   "aluguel": 5500.0,
+   "aluguel": 5200.0,
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP6964": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP6965": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-13",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -3396,6 +3465,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "crv-imobiliaria:AP4701_CRV": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-13",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "human-imoveis:AP3171_HMN": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
@@ -3458,10 +3534,9 @@
    "visto": "2026-11-12"
   },
   "imob3m:AP0721-IMZ1": {
-   "aluguel": 2970.0,
+   "aluguel": 2600.0,
    "desde": "2026-11-12",
-   "motivo": "total acima do limite",
-   "ok": false,
+   "ok": true,
    "visto": "2026-11-13"
   },
   "imob3m:AP0889-IMZ1": {
@@ -4111,17 +4186,15 @@
    "visto": "2026-11-13"
   },
   "imobiliaria-europa:AP3029-EURW": {
-   "aluguel": 2500.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
-   "motivo": "sem garagem",
-   "ok": false,
+   "ok": true,
    "visto": "2026-11-13"
   },
   "imobiliaria-europa:AP3030-EURW": {
-   "aluguel": 2400.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
-   "motivo": "sem garagem",
-   "ok": false,
+   "ok": true,
    "visto": "2026-11-13"
   },
   "imobiliaria-europa:AP3040-EURW": {
@@ -4152,12 +4225,26 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-europa:AP3059-EURW": {
+   "aluguel": 2310.0,
+   "desde": "2026-11-13",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-inglaterra:AP0373-INIC": {
    "aluguel": 3200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-11"
+  },
+  "imobiliaria-inglaterra:AP0530-INIC": {
+   "aluguel": 950.0,
+   "desde": "2026-11-13",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP0555-INIC": {
    "aluguel": 6500.0,
@@ -4268,7 +4355,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP2335-INIC": {
    "aluguel": 1350.0,
@@ -4327,11 +4414,11 @@
    "visto": "2026-11-11"
   },
   "imobiliaria-inglaterra:AP3422-INIC": {
-   "aluguel": 1100.0,
+   "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP3455-INIC": {
    "aluguel": 1500.0,
@@ -4346,6 +4433,13 @@
    "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "imobiliaria-inglaterra:AP3576-INIC": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP3637-INIC": {
    "aluguel": 4800.0,
@@ -4604,7 +4698,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5767-INIC": {
    "aluguel": 900.0,
@@ -4835,7 +4929,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6019-INIC": {
    "aluguel": 1550.0,
@@ -4870,7 +4964,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6062-INIC": {
    "aluguel": 2500.0,
@@ -4954,7 +5048,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6129-INIC": {
    "aluguel": 900.0,
@@ -5093,7 +5187,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6170-INIC": {
    "aluguel": 5500.0,
@@ -7401,9 +7495,10 @@
   }
  },
  "cnm_grupos": {
-  "19/187630/297067@391295:250": 10,
-  "approx:19/187611/297059": 11,
-  "approx:19/187611/297065": 39,
+  "19/187624/297063": 9,
+  "19/187630/297067@391295:250": 11,
+  "approx:19/187611/297059": 9,
+  "approx:19/187611/297065": 37,
   "approx:19/187638/297056": 9
  },
  "enderecos": {
@@ -7436,6 +7531,11 @@
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:18980817",
    "data": "11/11"
+  },
+  "rua amapa|1000|2|2500": {
+   "anunciante": "88 IMÓVEIS",
+   "chave": "chaves-na-mao:48863797",
+   "data": "13/11"
   },
   "rua amapa|1000|3|2150": {
    "anunciante": "Chaves na Mão",
@@ -8188,7 +8288,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794593641
+  "Catuaí Imóveis": 1794597246
  },
  "ultimo_status": "2026-11-13"
 }
