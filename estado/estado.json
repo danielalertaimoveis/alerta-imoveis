@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-12": 1,
-  "2026-11-13": 4
+  "2026-11-13": 5
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -5688,11 +5688,11 @@
    "visto": "2026-11-12"
   },
   "imobiliaria-monaco:AP4524-MONA": {
-   "aluguel": 4300.0,
+   "aluguel": 3990.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-13"
   },
   "imobiliaria-monaco:AP4540-MONA": {
    "aluguel": 1000.0,
@@ -5821,17 +5821,16 @@
    "visto": "2026-11-13"
   },
   "imobiliaria-natal:AP0459_NATA": {
-   "aluguel": 2999.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-12",
-   "motivo": "total acima do limite",
+   "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-13"
   },
   "imobiliaria-natal:AP0460_NATA": {
-   "aluguel": 2999.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-12",
-   "motivo": "total acima do limite",
-   "ok": false,
+   "ok": true,
    "visto": "2026-11-13"
   },
   "imobiliaria-natal:AP0517_NATA": {
@@ -7153,6 +7152,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-senador:AP1156": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-senador:AP1165": {
    "aluguel": 800.0,
    "desde": "2026-11-13",
@@ -8025,6 +8031,10 @@
    10.0,
    745
   ],
+  "-23.30755,-51.16401": [
+   11.2,
+   832
+  ],
   "-23.30851,-51.17619": [
    19.6,
    1464
@@ -8076,6 +8086,10 @@
   "-23.30931,-51.16288": [
    13.6,
    1009
+  ],
+  "-23.30949,-51.16139": [
+   15.4,
+   1148
   ],
   "-23.30972,-51.16907": [
    12.9,
@@ -8139,7 +8153,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794587175
+  "Catuaí Imóveis": 1794590530
  },
  "ultimo_status": "2026-11-13"
 }
