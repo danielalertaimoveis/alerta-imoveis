@@ -3070,7 +3070,7 @@
    "visto": "2026-11-13"
   },
   "cmsouza:AP3005": {
-   "aluguel": 2700.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
@@ -8316,7 +8316,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794606120
+  "Catuaí Imóveis": 1794608730
  },
  "ultimo_status": "2026-11-13"
 }
