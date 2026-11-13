@@ -777,6 +777,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "barreto-imoveis:AP3959-BAUV": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-13",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "camponesa-imoveis:AP0223-CAPC": {
    "aluguel": 950.0,
    "desde": "2026-11-12",
@@ -1558,6 +1565,13 @@
    "aluguel": 3300.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "century-21-class:AP12329": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-13",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-13"
   },
@@ -3133,6 +3147,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP6473": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-13",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "cmsouza:AP6480": {
    "aluguel": 4950.0,
    "desde": "2026-11-12",
@@ -3269,6 +3290,13 @@
   "cmsouza:AP6960": {
    "aluguel": 4600.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP6963": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
@@ -4359,7 +4387,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP4218-INIC": {
    "aluguel": 1400.0,
@@ -4590,7 +4618,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5806-INIC": {
    "aluguel": 1200.0,
@@ -4758,7 +4786,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP5999-INIC": {
    "aluguel": 1400.0,
@@ -5010,7 +5038,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6158-INIC": {
    "aluguel": 4000.0,
@@ -5051,7 +5079,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-inglaterra:AP6167-INIC": {
    "aluguel": 1300.0,
@@ -7159,6 +7187,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-senador:AP1159": {
+   "aluguel": 1000.0,
+   "desde": "2026-11-13",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-senador:AP1165": {
    "aluguel": 800.0,
    "desde": "2026-11-13",
@@ -8153,7 +8188,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794590530
+  "Catuaí Imóveis": 1794593641
  },
  "ultimo_status": "2026-11-13"
 }
