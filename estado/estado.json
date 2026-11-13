@@ -931,7 +931,7 @@
    "visto": "2026-11-12"
   },
   "camponesa-imoveis:AP1703-CAPC": {
-   "aluguel": 1000.0,
+   "aluguel": 900.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -3029,6 +3029,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP5107": {
+   "aluguel": 5700.0,
+   "desde": "2026-11-13",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "cmsouza:AP5205": {
    "aluguel": 5000.0,
    "desde": "2026-11-12",
@@ -3151,6 +3158,13 @@
   "cmsouza:AP6871": {
    "aluguel": 12500.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
+  "cmsouza:AP6874": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
@@ -3776,7 +3790,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-13"
   },
   "imobiliaria-europa:AP2312-EURW": {
    "aluguel": 1200.0,
@@ -5932,6 +5946,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-raul-fulgencio:14979": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
+  },
   "imobiliaria-raul-fulgencio:167": {
    "aluguel": 1900.0,
    "desde": "2026-11-12",
@@ -7239,6 +7260,13 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-13"
+  },
+  "imobiliaria-veneza:09944.001": {
+   "aluguel": 2550.0,
+   "desde": "2026-11-13",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-13"
   }
  },
  "cnm_grupos": {
@@ -7489,9 +7517,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "Camponesa Imóveis": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -8018,7 +8044,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794570123
+  "Catuaí Imóveis": 1794573839
  },
  "ultimo_status": "2026-11-13"
 }
