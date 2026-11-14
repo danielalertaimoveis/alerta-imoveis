@@ -1,6 +1,5 @@
 {
  "alertas_por_dia": {
-  "2026-11-12": 1,
   "2026-11-13": 10
  },
  "anuncios": {
@@ -3217,7 +3216,7 @@
    "visto": "2026-11-13"
   },
   "cmsouza:AP6473": {
-   "aluguel": 2800.0,
+   "aluguel": 2350.0,
    "desde": "2026-11-13",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
@@ -5258,6 +5257,13 @@
    "motivo": "quartos a menos",
    "ok": false,
    "visto": "2026-11-13"
+  },
+  "imobiliaria-inglaterra:AP6182-INIC": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-14",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-14"
   },
   "imobiliaria-londrina-norte:AP0063-LONF": {
    "aluguel": 650.0,
@@ -7839,6 +7845,10 @@
    -23.3146994,
    -51.1452301
   ],
+  "mato grosso londrina": [
+   -23.3164302,
+   -51.1564031
+  ],
   "r mossoro londrina": [
    -23.3065968,
    -51.167147
@@ -8328,7 +8338,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794652299
+  "Catuaí Imóveis": 1794654883
  },
- "ultimo_status": "2026-11-13"
+ "ultimo_status": "2026-11-14"
 }
