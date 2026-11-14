@@ -7793,7 +7793,10 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Perez": 1,
+  "Imobiliária Santamérica": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -8328,7 +8331,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794631529
+  "Catuaí Imóveis": 1794635156
  },
  "ultimo_status": "2026-11-13"
 }
