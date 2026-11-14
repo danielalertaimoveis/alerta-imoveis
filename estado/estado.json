@@ -9652,6 +9652,13 @@
    "ok": true,
    "visto": "2026-11-14"
   },
+  "imobiliaria-veneza:08541.001": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-14",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
   "imobiliaria-veneza:08851.001": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
@@ -12428,7 +12435,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 8
+  "Imobiliária Inglaterra": 9
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13000,7 +13007,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794685275
+  "Catuaí Imóveis": 1794687464
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
