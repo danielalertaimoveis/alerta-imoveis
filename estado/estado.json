@@ -3381,7 +3381,7 @@
    "visto": "2026-11-13"
   },
   "chaves-na-mao:46761626": {
-   "aluguel": 2100.0,
+   "aluguel": 2101.01,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -12428,7 +12428,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 7
+  "Imobiliária Inglaterra": 8
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13000,7 +13000,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794682897
+  "Catuaí Imóveis": 1794685275
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
