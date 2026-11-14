@@ -35,6 +35,26 @@
   },
   "88-imoveis:AP1149_OOIMOB": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 Imóveis",
+    "area": 70,
+    "avisos": [
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "88 Imóveis",
+    "iptu": 0.01,
+    "metros": 729,
+    "minutos": 9.8,
+    "numero": "250",
+    "quartos": 3,
+    "rua": "Rua Prefeito Hugo Cabral",
+    "titulo": "Apartamento com 3 dormitórios à venda, 70 m² por R$ 510.000,00 - Centro - Londrina/PR",
+    "total": 2500.01,
+    "url": "https://www.88imoveis.com.br/imovel/apartamento/venda-e-locacao/londrina/pr/centro/AP1149_OOIMOB",
+    "vagas": 1
+   },
    "desde": "2026-11-13",
    "ok": true,
    "visto": "2026-11-14"
@@ -884,6 +904,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-12"
+  },
+  "barreto-imoveis:AP3958-BAUV": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-14",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-14"
   },
   "barreto-imoveis:AP3959-BAUV": {
    "aluguel": 2400.0,
@@ -6286,7 +6313,7 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-14"
   },
   "imobiliaria-inglaterra:AP5341-INIC": {
    "aluguel": 6500.0,
@@ -7661,6 +7688,26 @@
   },
   "imobiliaria-natal:AP0460_NATA": {
    "aluguel": 1950.0,
+   "dados": {
+    "aluguel": 1950.0,
+    "anunciante": "Imobiliária Natal",
+    "area": 140,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Imobiliária Natal",
+    "iptu": 160.0,
+    "metros": 832,
+    "minutos": 11.2,
+    "quartos": 3,
+    "titulo": "LOCAÇÃO APARTAMENTO REGIÃO CENTRAL DE LONDRINA, RUA BENJAMIN CONSTANT, 3 QUARTOS, 2 BANHEIRO",
+    "total": 2410.0,
+    "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/centro/AP0460_NATA"
+   },
    "desde": "2026-11-12",
    "ok": true,
    "visto": "2026-11-14"
@@ -8038,42 +8085,153 @@
   },
   "imobiliaria-santamerica:55269": {
    "aluguel": 2800.0,
+   "dados": {
+    "aluguel": 2800.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 70,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento mobiliado para locação com 3 quartos no Centro de Londrina",
+    "total": 2800.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55269",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55437": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para alugar com 3 quartos no Edifício Bela Cintra, no Centro de Londrina",
+    "total": 2500.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55437",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55481": {
    "aluguel": 2700.0,
+   "dados": {
+    "aluguel": 2700.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento mobiliado para locação no Edifício Casablanca, no Centro de Londrina",
+    "total": 2700.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55481",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55543": {
    "aluguel": 1500.0,
+   "dados": {
+    "aluguel": 1500.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 79,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento com 2 quartos para locação no Edifício Amaralina, na região Central de Londrina",
+    "total": 1500.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55543",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55680": {
    "aluguel": 2600.0,
+   "dados": {
+    "aluguel": 2600.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 96,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para locação com 3 quartos, no Edifício Vânia Cristina na região Central de Londrina",
+    "total": 2600.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55680",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55700": {
    "aluguel": 2250.0,
+   "dados": {
+    "aluguel": 2250.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para alugar no Edifício Silverstone com 3 dormitórios na Região Central de Londrina",
+    "total": 2250.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55700",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55720": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento mobiliado para locação no Edifício Vila Bela, Região Central de Londrina",
+    "total": 2200.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55720",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8087,12 +8245,46 @@
   },
   "imobiliaria-santamerica:55737": {
    "aluguel": 1600.0,
+   "dados": {
+    "aluguel": 1600.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 64,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação na região Central de Londrina no Edifício do Carmo",
+    "total": 1600.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55737",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "imobiliaria-santamerica:55747": {
    "aluguel": 1700.0,
+   "dados": {
+    "aluguel": 1700.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 78,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para locação no Edifício San Martin, Região Central de Londrina",
+    "total": 1700.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55747",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8190,6 +8382,23 @@
   },
   "imobiliaria-santamerica:55903": {
    "aluguel": 2800.0,
+   "dados": {
+    "aluguel": 2800.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 58,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação com 2 quartos, no Edifício Inédito Clube Residencial no Centro de Londrina",
+    "total": 2800.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55903",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8231,6 +8440,23 @@
   },
   "imobiliaria-santamerica:55930": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 68,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para locação com 3 quartos, no Edifício Saint Tropez no Centro de Londrina",
+    "total": 2200.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/55930",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8293,6 +8519,23 @@
   },
   "imobiliaria-santamerica:56016": {
    "aluguel": 2700.0,
+   "dados": {
+    "aluguel": 2700.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 71,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento mobiliado para locação com 2 quartos, Edifício Maximus Residence no Centro de Londrina",
+    "total": 2700.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56016",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8451,6 +8694,23 @@
   },
   "imobiliaria-santamerica:56122": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 76,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação com 2 quartos no Edifício Jaçanã, Centro de Londrina",
+    "total": 2200.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56122",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8492,6 +8752,23 @@
   },
   "imobiliaria-santamerica:56143": {
    "aluguel": 1800.0,
+   "dados": {
+    "aluguel": 1800.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 56,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação com 2 quartos no Edifício Residencial Rian, no Centro de Londrina",
+    "total": 1800.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56143",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8631,6 +8908,23 @@
   },
   "imobiliaria-santamerica:56199": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 51,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação com 2 quartos no Edifício Sunny Downtown, no Centro de Londrina",
+    "total": 2500.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56199",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8749,6 +9043,23 @@
   },
   "imobiliaria-santamerica:56260": {
    "aluguel": 2600.0,
+   "dados": {
+    "aluguel": 2600.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 51,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação com 2 quartos no Edifício Venice Downtown, no Centro em Londrina",
+    "total": 2600.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56260",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -8769,6 +9080,23 @@
   },
   "imobiliaria-santamerica:56267": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "Imobiliária Santamérica",
+    "area": 52,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento mobiliado para locação no Edifício Pontevedra, no Centro de Londrina",
+    "total": 2200.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56267",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -10585,6 +10913,13 @@
    "aluguel": 4600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
+  "patrimonio-imoveis:1334": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-14",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-14"
   },
@@ -12626,7 +12961,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794663137
+  "Catuaí Imóveis": 1794666247
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
