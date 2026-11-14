@@ -12,6 +12,23 @@
   },
   "88-imoveis:AP0345_OOIMOB": {
    "aluguel": 1700.0,
+   "dados": {
+    "aluguel": 1700.0,
+    "anunciante": "88 Imóveis",
+    "area": 69,
+    "bairro": "Jardim Roveri",
+    "condominio": 380.0,
+    "fonte": "88 Imóveis",
+    "metros": 384,
+    "minutos": 5.1,
+    "numero": "130",
+    "quartos": 2,
+    "rua": "Rua Helen Keller",
+    "titulo": "Apartamento com 2 dormitórios para alugar, 69 m² por R$ 1.700,00/mês - Jardim Roveri - Londrina/PR",
+    "total": 2080.0,
+    "url": "https://www.88imoveis.com.br/imovel/apartamento/locacao/londrina/pr/jardim-roveri/AP0345_OOIMOB",
+    "vagas": 1
+   },
    "desde": "2026-11-12",
    "ok": true,
    "visto": "2026-11-14"
@@ -24,6 +41,24 @@
   },
   "88-imoveis:AP1733_OOIMOB": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 Imóveis",
+    "area": 57,
+    "bairro": "Centro",
+    "condominio": 400.0,
+    "fonte": "88 Imóveis",
+    "iptu": 0.01,
+    "metros": 729,
+    "minutos": 9.8,
+    "numero": "250",
+    "quartos": 2,
+    "rua": "Rua Prefeito Hugo Cabral",
+    "titulo": "Apartamento com 2 dormitórios, 57 m² - venda por R$ 450.000 ou aluguel por R$ 2.500/mês - Centro - Londrina/PR",
+    "total": 2900.01,
+    "url": "https://www.88imoveis.com.br/imovel/apartamento/venda-e-locacao/londrina/pr/centro/AP1733_OOIMOB",
+    "vagas": 1
+   },
    "desde": "2026-11-12",
    "ok": true,
    "visto": "2026-11-14"
@@ -100,6 +135,24 @@
   },
   "88-imoveis:AP3133_OOIMOB": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 Imóveis",
+    "area": 84,
+    "bairro": "Centro",
+    "condominio": 480.0,
+    "fonte": "88 Imóveis",
+    "iptu": 1.0,
+    "metros": 971,
+    "minutos": 12.9,
+    "numero": "840",
+    "quartos": 3,
+    "rua": "Rua Paranaguá",
+    "titulo": "Apartamento para venda e locação, Centro, Londrina, PR",
+    "total": 2981.0,
+    "url": "https://www.88imoveis.com.br/imovel/apartamento/venda-e-locacao/londrina/pr/centro/AP3133_OOIMOB",
+    "vagas": 1
+   },
    "desde": "2026-11-12",
    "ok": true,
    "visto": "2026-11-14"
@@ -1719,6 +1772,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "century-21-class:AP12334": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-14",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
   "century-21-class:AP1237": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
@@ -2096,6 +2156,26 @@
   },
   "chaves-na-mao:19794754": {
    "aluguel": 1280.0,
+   "dados": {
+    "aluguel": 1280.0,
+    "anunciante": "IMOBILIÁRIA AVENIDA",
+    "area": 80,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 500.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 994,
+    "minutos": 13.3,
+    "quartos": 2,
+    "rua": "Rua Sergipe",
+    "titulo": "Apartamento",
+    "total": 1780.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-pr-londrina-centro-80m2-RS1280/id-19794754/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2108,6 +2188,27 @@
   },
   "chaves-na-mao:23669605": {
    "aluguel": 1150.0,
+   "dados": {
+    "aluguel": 1150.0,
+    "anunciante": "IMOBILIÁRIA AVENIDA",
+    "area": 50,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 155.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "iptu": 128.0,
+    "metros": 866,
+    "minutos": 11.6,
+    "quartos": 2,
+    "rua": "Rua Benjamin Constant",
+    "titulo": "Apartamento",
+    "total": 1433.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-pr-londrina-centro-50m2-RS1150/id-23669605/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2120,6 +2221,27 @@
   },
   "chaves-na-mao:25480846": {
    "aluguel": 1150.0,
+   "dados": {
+    "aluguel": 1150.0,
+    "anunciante": "IMOBILIÁRIA AVENIDA",
+    "area": 40,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 155.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "iptu": 128.0,
+    "metros": 866,
+    "minutos": 11.6,
+    "quartos": 2,
+    "rua": "Rua Benjamin Constant",
+    "titulo": "Apartamento",
+    "total": 1433.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-pr-londrina-centro-40m2-RS1150/id-25480846/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2171,6 +2293,26 @@
   },
   "chaves-na-mao:30469948": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 66,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Centro",
+    "condominio": 497.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 982,
+    "minutos": 13.1,
+    "quartos": 2,
+    "rua": "Rua Belo Horizonte",
+    "titulo": "Apartamento mobiliado para locação no Edifício San Conrado, no Centro de Londrina",
+    "total": 2697.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-centro-66m2-RS2200/id-30469948/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2184,6 +2326,26 @@
   },
   "chaves-na-mao:31009984": {
    "aluguel": 1800.0,
+   "dados": {
+    "aluguel": 1800.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 120,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 616.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 994,
+    "minutos": 13.3,
+    "quartos": 3,
+    "rua": "Rua Sergipe",
+    "titulo": "Apartamento à venda e para locação com 3 quartos no Edifício Tókio, no Centro de Londrina",
+    "total": 2416.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-120m2-RS1800/id-31009984/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2211,6 +2373,25 @@
   },
   "chaves-na-mao:34136361": {
    "aluguel": 1400.0,
+   "dados": {
+    "aluguel": 1400.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 50,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Shimabokuro",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 278,
+    "minutos": 3.7,
+    "quartos": 2,
+    "titulo": "Apartamento para locação no Residencial Nova Era com 2 quartos, Região Central de Londrina",
+    "total": 1700.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-shimabokuro-50m2-RS1400/id-34136361/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2261,6 +2442,26 @@
   },
   "chaves-na-mao:37033391": {
    "aluguel": 1200.0,
+   "dados": {
+    "aluguel": 1200.0,
+    "anunciante": "IMOBILIÁRIA SENADOR",
+    "area": 45,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Tietê",
+    "condominio": 350.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 375,
+    "minutos": 5.1,
+    "quartos": 2,
+    "rua": "Rua Rio Turvo",
+    "titulo": "Apartamento para alugar em Londrina, Tietê, com 2 quartos, com 45 m²",
+    "total": 1550.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-tiete-57m2-RS1200/id-37033391/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2706,12 +2907,52 @@
   },
   "chaves-na-mao:45191322": {
    "aluguel": 1850.0,
+   "dados": {
+    "aluguel": 1850.0,
+    "anunciante": "CRV IMOBILIÁRIA",
+    "area": 69,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Jardim Palmares",
+    "condominio": 780.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 963,
+    "minutos": 13.0,
+    "quartos": 3,
+    "rua": "Rua São Vicente",
+    "titulo": "Apartamento para locação, Jardim Palmares, Londrina, PR",
+    "total": 2630.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-jardim-palmares-RS1850/id-45191322/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:45191325": {
    "aluguel": 1850.0,
+   "dados": {
+    "aluguel": 1850.0,
+    "anunciante": "CRV IMOBILIÁRIA",
+    "area": 69,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Jardim Palmares",
+    "condominio": 780.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 963,
+    "minutos": 13.0,
+    "quartos": 3,
+    "rua": "Rua São Vicente",
+    "titulo": "Apartamento para locação, Jardim Palmares, Londrina, PR",
+    "total": 2630.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-jardim-palmares-98m2-RS1850/id-45191325/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -2741,14 +2982,14 @@
    "visto": "2026-11-14"
   },
   "chaves-na-mao:45250058": {
-   "aluguel": 2999.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:45250059": {
-   "aluguel": 2999.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -2880,7 +3121,8 @@
   "chaves-na-mao:45699587": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
-   "ok": true,
+   "motivo": "total acima do limite",
+   "ok": false,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:45858907": {
@@ -3066,6 +3308,26 @@
   },
   "chaves-na-mao:46658066": {
    "aluguel": 2390.0,
+   "dados": {
+    "aluguel": 2390.0,
+    "anunciante": "IMOBILIÁRIA AVENIDA",
+    "area": 95,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 450.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 2,
+    "rua": "Rua Amapá",
+    "titulo": "Apartamento",
+    "total": 2840.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-filipin-95m2-RS2390/id-46658066/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -3393,6 +3655,26 @@
   },
   "chaves-na-mao:47935807": {
    "aluguel": 1200.0,
+   "dados": {
+    "aluguel": 1200.0,
+    "anunciante": "IMOBILIÁRIA ZERØ43",
+    "area": 60,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Tietê",
+    "condominio": 400.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 375,
+    "minutos": 5.1,
+    "quartos": 3,
+    "rua": "Rua Rio Turvo",
+    "titulo": "Condominio Residencial Tietê | Apartamento | Tietê | para aluguel | 3 quartos | 1 vaga | Londrina",
+    "total": 1600.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-tiete-60m2-RS1200/id-47935807/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -3427,18 +3709,80 @@
   },
   "chaves-na-mao:48034695": {
    "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "IMOBILIÁRIA EUROPA",
+    "area": 70,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "iptu": 160.0,
+    "metros": 804,
+    "minutos": 10.7,
+    "quartos": 3,
+    "rua": "Rua Benjamin Constant",
+    "titulo": "Apartamento com 3 dormitórios para alugar, 70 m² por R$ 2.960,00/mês - Centro - Londrina/PR",
+    "total": 2960.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-100m2-RS2500/id-48034695/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:48034696": {
    "aluguel": 2400.0,
+   "dados": {
+    "aluguel": 2400.0,
+    "anunciante": "IMOBILIÁRIA EUROPA",
+    "area": 110,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "iptu": 160.0,
+    "metros": 804,
+    "minutos": 10.7,
+    "quartos": 3,
+    "rua": "Rua Benjamin Constant",
+    "titulo": "Apartamento com 3 quartos para alugar, 110 m² por R$ 2.860,00/mês - Centro - Londrina/PR",
+    "total": 2860.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-110m2-RS2400/id-48034696/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:48070691": {
    "aluguel": 1800.0,
+   "dados": {
+    "aluguel": 1800.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 56,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Centro",
+    "condominio": 500.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 881,
+    "minutos": 11.8,
+    "quartos": 2,
+    "rua": "Rua Santos",
+    "titulo": "Apartamento para locação com 2 quartos no Edifício Residencial Rian, no Centro de Londrina",
+    "total": 2300.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-centro-56m2-RS1800/id-48070691/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -3452,6 +3796,26 @@
   },
   "chaves-na-mao:48320287": {
    "aluguel": 2050.0,
+   "dados": {
+    "aluguel": 2050.0,
+    "anunciante": "CENTURY 21 CLASS IMÓVEIS",
+    "area": 50,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 515.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 2,
+    "rua": "Rua Amapá",
+    "titulo": "Apartamento para alugar em Londrina, Vila Filipin, com 2 quartos, com 50 m², Spazio Libertá",
+    "total": 2565.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-pr-londrina-vila-filipin-70m2-RS2050/id-48320287/"
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -3743,6 +4107,26 @@
   },
   "chaves-na-mao:48625747": {
    "aluguel": 1700.0,
+   "dados": {
+    "aluguel": 1700.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 50,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Judith",
+    "condominio": 566.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 1009,
+    "minutos": 13.5,
+    "quartos": 2,
+    "rua": "Rua Professor Samuel Moura",
+    "titulo": "Apartamento para locação com 2 quartos no Edificio Lafayette, na Zona Oeste de Londrina",
+    "total": 2266.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-judith-50m2-RS1700/id-48625747/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -3784,6 +4168,27 @@
   },
   "chaves-na-mao:48805661": {
    "aluguel": 2400.0,
+   "dados": {
+    "aluguel": 2400.0,
+    "anunciante": "LEMOS E BARROS CORRETORES DE IMÓVEIS",
+    "area": 140,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "garagem não informada"
+    ],
+    "bairro": "Centro",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "iptu": 13.0,
+    "metros": 804,
+    "minutos": 10.7,
+    "quartos": 3,
+    "rua": "Rua Benjamin Constant",
+    "titulo": "Apartamento para ALUGAR no centro| podendo ser locação residencial ou comercial",
+    "total": 2713.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-140m2-RS2400/id-48805661/"
+   },
    "desde": "2026-11-12",
    "ok": true,
    "visto": "2026-11-14"
@@ -3879,6 +4284,13 @@
    "aluguel": 2400.0,
    "desde": "2026-11-14",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
+  "chaves-na-mao:48884496": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-14",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-14"
   },
@@ -3987,6 +4399,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "cmsouza:AP5396": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-14",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
   "cmsouza:AP5581": {
    "aluguel": 3900.0,
    "desde": "2026-11-13",
@@ -4004,6 +4423,13 @@
   "cmsouza:AP5707": {
    "aluguel": 5800.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
+  "cmsouza:AP5857": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-14"
@@ -4046,6 +4472,13 @@
   "cmsouza:AP6480": {
    "aluguel": 4950.0,
    "desde": "2026-11-12",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
+  "cmsouza:AP6506": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-14"
@@ -4134,6 +4567,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "cmsouza:AP6898": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-14",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
   "cmsouza:AP6901": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
@@ -4206,6 +4646,24 @@
   },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
+   "dados": {
+    "aluguel": 1850.0,
+    "anunciante": "CRV Imobiliária",
+    "area": 69,
+    "bairro": "Jardim Palmares",
+    "condominio": 780.0,
+    "elevador": true,
+    "fonte": "CRV Imobiliária",
+    "metros": 948,
+    "minutos": 12.8,
+    "numero": "618",
+    "quartos": 3,
+    "rua": "Rua São Vicente",
+    "titulo": "Apartamento para locação, Jardim Palmares, Londrina, PR",
+    "total": 2630.0,
+    "url": "https://www.crvimobiliaria.com.br/imovel/apartamento/locacao/londrina/pr/jardim-palmares/AP0009_CRV",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -4226,6 +4684,23 @@
   },
   "crv-imobiliaria:AP1455_CRV": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "CRV Imobiliária",
+    "area": 60,
+    "bairro": "Centro",
+    "condominio": 580.0,
+    "fonte": "CRV Imobiliária",
+    "metros": 702,
+    "minutos": 9.4,
+    "numero": "130",
+    "quartos": 2,
+    "rua": "Rua Mossoró",
+    "titulo": "Apartamento com 2 dormitórios para alugar, 60 m² por R$ 2.435,00/mês - Centro - Londrina/PR",
+    "total": 2780.0,
+    "url": "https://www.crvimobiliaria.com.br/imovel/apartamento/locacao/londrina/pr/centro/AP1455_CRV",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -4239,6 +4714,23 @@
   },
   "crv-imobiliaria:AP1518_CRV": {
    "aluguel": 2200.0,
+   "dados": {
+    "aluguel": 2200.0,
+    "anunciante": "CRV Imobiliária",
+    "area": 58,
+    "bairro": "Centro",
+    "condominio": 550.0,
+    "fonte": "CRV Imobiliária",
+    "metros": 702,
+    "minutos": 9.4,
+    "numero": "130",
+    "quartos": 2,
+    "rua": "Rua Mossoró",
+    "titulo": "Apartamento com 2 dormitórios para alugar, 58 m² por R$ 2.800,00/mês - Centro - Londrina/PR",
+    "total": 2750.0,
+    "url": "https://www.crvimobiliaria.com.br/imovel/apartamento/locacao/londrina/pr/centro/AP1518_CRV",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
@@ -5598,7 +6090,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-14"
   },
   "imobiliaria-inglaterra:AP3422-INIC": {
    "aluguel": 1200.0,
@@ -8367,9 +8859,29 @@
   },
   "imobiliaria-senador:AP0584": {
    "aluguel": 1500.0,
+   "dados": {
+    "aluguel": 1500.0,
+    "anunciante": "Imobiliária Senador",
+    "area": 73,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Portuguesa",
+    "elevador": true,
+    "fonte": "Imobiliária Senador",
+    "metros": 264,
+    "minutos": 3.6,
+    "quartos": 3,
+    "rua": "Rua Tocantins",
+    "titulo": "Apartamento à venda e para alugar em Londrina, Portuguesa, com 3 quartos, com 73.55 m²",
+    "total": 1500.0,
+    "url": "https://www.imobiliariasenador.com.br/imoveis/apartamento-venda-e-locacao-3-dormitorios-1-vaga-73m2-londrina-portuguesa-AP0584",
+    "vagas": 1
+   },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-13"
+   "visto": "2026-11-14"
   },
   "imobiliaria-senador:AP0646": {
    "aluguel": 1500.0,
@@ -9010,6 +9522,13 @@
    "aluguel": 4900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
+  "imobiliaria-wn:AP0150-WETI": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-14",
+   "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-14"
   },
@@ -12107,7 +12626,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794659678
+  "Catuaí Imóveis": 1794663137
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
