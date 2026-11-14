@@ -7355,7 +7355,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-14"
   },
   "imobiliaria-veneza:01305.001": {
    "aluguel": 1700.0,
@@ -7793,10 +7793,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "Imobiliária Perez": 1,
-  "Imobiliária Santamérica": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -8331,7 +8328,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794635156
+  "Catuaí Imóveis": 1794638967
  },
  "ultimo_status": "2026-11-13"
 }
