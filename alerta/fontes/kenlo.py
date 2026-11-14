@@ -53,8 +53,8 @@ def coletar(cfg_fonte, ctx):
     lista = _ler_pagina(baixar(endereco))
     itens = list(lista.get("data") or [])
     total_paginas = math.ceil((lista.get("count") or 0) / POR_PAGINA)
-    # primeira vez: lê tudo; depois, só as duas primeiras páginas (os mais recentes)
-    ate = total_paginas if ctx["primeira_vez"] else min(2, total_paginas)
+    # leitura completa (primeira vez e dia do resumo): tudo; nas outras, só os mais recentes
+    ate = total_paginas if ctx.get("completa") else min(2, total_paginas)
     for pagina in range(2, ate + 1):
         itens += _ler_pagina(baixar(f"{endereco}?pagina={pagina}")).get("data") or []
     anuncios = {}

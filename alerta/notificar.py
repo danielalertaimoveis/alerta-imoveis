@@ -177,8 +177,12 @@ def resumo_telegram(anuncios, ref, titulo):
     return "\n".join(linhas)
 
 
-def resumo_email(anuncios, ref, titulo):
+def resumo_email(anuncios, ref, titulo, introducao=None):
     e = html.escape
+    if introducao is None:
+        introducao = (f"{len(anuncios)} apartamentos dentro do perfil hoje, do mais perto para o mais longe. "
+                      "Nos anúncios do Chaves na Mão desta primeira lista o valor é só o do aluguel. "
+                      "A partir de agora você recebe só os anúncios novos.")
     linhas = "".join(
         '<tr><td style="padding:6px 8px;border-bottom:1px solid #eee;white-space:nowrap">'
         f'{(str(round(a["minutos"])) + " min") if a.get("minutos") is not None else "?"}</td>'
@@ -190,8 +194,6 @@ def resumo_email(anuncios, ref, titulo):
     return (
         '<div style="font-family:Arial,sans-serif;font-size:14px;color:#222">'
         f"<h2 style=\"font-size:18px\">{e(titulo)}</h2>"
-        f"<p>{len(anuncios)} apartamentos dentro do perfil hoje, do mais perto para o mais longe. "
-        "Nos anúncios do Chaves na Mão desta primeira lista o valor é só o do aluguel. "
-        "A partir de agora você recebe só os anúncios novos.</p>"
+        f"<p>{e(introducao)}</p>"
         f'<table style="border-collapse:collapse;width:100%">{linhas}</table></div>'
     )

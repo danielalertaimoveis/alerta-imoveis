@@ -24,7 +24,23 @@ Ele roda sozinho nos servidores do GitHub, de graça, com o seu computador desli
 | Raul Fulgêncio e Serenity | Direto do site, mas só os 12 imóveis do topo da lista de cada uma |
 | Imob3M, Camponesa, Barreto e Monaco | Direto do site de cada uma, os mais recentes primeiro |
 | 88 Imóveis e Imobiliária Natal | Direto do site, todos os apartamentos com localização |
-| CMSouza e Imobiliária Senador | Direto do site: os 30 primeiros do Centro e os 30 primeiros da cidade |
+| CMSouza, Senador e Premier | Direto do site: os 30 primeiros do Centro e os 30 primeiros da cidade |
+| RD One, WN e Humaitá | Direto do site de cada uma, os mais recentes primeiro |
+| JR3 e Cube | Direto do site: todos do Centro e os mais recentes da cidade |
+| Patrimônio | Direto do site, os mais novos. Sem rua, como a Santamérica |
+| AG Prime | Direto do site, só os 12 imóveis do topo da lista |
+
+## E-mail com todos os disponíveis
+
+A cada 2 dias, a partir das 8h, chega um e-mail com todos os apartamentos do perfil que
+continuam anunciados, do mais perto para o mais longe, sem repetir o mesmo imóvel. Nesse dia
+o monitor lê todas as páginas de todos os sites, por isso essa verificação demora mais.
+Para mudar o intervalo, altere `"a_cada_dias"` em `"resumo_disponiveis"` no `config.json`.
+
+## Mais de um destinatário
+
+O `EMAIL_DESTINO` aceita vários endereços separados por vírgula, por exemplo
+`voce@gmail.com, ela@gmail.com`. Os alertas e o e-mail com todos os disponíveis vão para todos.
 
 A Imobiliária Avenida ficou de fora: o site mostra só os 12 aluguéis mais caros.
 

@@ -16,14 +16,14 @@ from pathlib import Path
 
 from alerta import notificar
 from alerta.fontes import (alugaflex, arbo, casasoft, catuai, chavesnamao, flip, kenlo, msys,
-                           perez, santamerica)
+                           perez, santamerica, vista)
 from alerta.util import distancia_m, geocodificar, minutos_a_pe, normalizar
 
 RAIZ = Path(__file__).parent
 ARQ_ESTADO = Path(os.environ.get("ALERTA_ESTADO") or RAIZ / "estado" / "estado.json")
 FONTES = {"chavesnamao": chavesnamao, "kenlo": kenlo, "arbo": arbo, "perez": perez,
           "flip": flip, "santamerica": santamerica, "alugaflex": alugaflex, "casasoft": casasoft,
-          "msys": msys, "catuai": catuai}
+          "msys": msys, "catuai": catuai, "vista": vista}
 BRASILIA = timezone(timedelta(hours=-3))
 
 
@@ -121,8 +121,21 @@ def chave_endereco(a):
 
 # ---------- execução ----------
 
-def processar_fonte(fonte, cfg, estado, hoje, orcamento):
-    """Coleta uma fonte e devolve (novos, base): anúncios aprovados novos e os da primeira leitura."""
+CAMPOS_GUARDADOS = ("url", "titulo", "fonte", "anunciante", "rua", "numero", "bairro", "quartos", "vagas",
+                    "area", "aluguel", "condominio", "iptu", "total", "minutos", "metros", "elevador",
+                    "terreo", "avisos")
+
+
+def guardar(a):
+    """Resumo do anúncio aprovado, para o e-mail com todos os disponíveis."""
+    return {k: a.get(k) for k in CAMPOS_GUARDADOS if a.get(k) not in (None, [], "")}
+
+
+def processar_fonte(fonte, cfg, estado, hoje, orcamento, completa=False):
+    """Coleta uma fonte e devolve (novos, base): anúncios aprovados novos e os da primeira leitura.
+
+    completa=True faz a fonte ler todas as páginas, não só as mais recentes.
+    """
     modulo = FONTES[fonte["tipo"]]
     registros = estado.setdefault("anuncios", {})
     primeira_vez = fonte["nome"] not in estado.setdefault("fontes_iniciadas", [])
@@ -134,7 +147,8 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
         return [], []
     if intervalo:
         leituras[fonte["nome"]] = int(time.time())
-    ctx = {"cfg": cfg, "estado": estado, "primeira_vez": primeira_vez, "log": log}
+    ctx = {"cfg": cfg, "estado": estado, "primeira_vez": primeira_vez, "completa": primeira_vez or completa,
+           "log": log}
     brutos = modulo.coletar(fonte, ctx)
     novos, base, pendentes = [], [], 0
     # na primeira leitura de fontes grandes não se abre anúncio por anúncio, para não ser bloqueado
@@ -142,13 +156,18 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
 
     for a in brutos:
         reg = registros.get(a["chave"])
-        if reg and reg.get("aluguel") == a["aluguel"] and not reg.get("tentar_de_novo"):
+        mesmo_valor = bool(reg) and reg.get("aluguel") == a["aluguel"]
+        # já conhecido e sem mudança: só marca que continua anunciado
+        # (aprovados antigos, gravados antes de existir o resumo, passam de novo para guardar os dados)
+        if mesmo_valor and not reg.get("tentar_de_novo") and (not reg.get("ok") or "dados" in reg):
             reg["visto"] = hoje
             continue
         motivo = pre_filtro(a, cfg)
         if not motivo and detalha:
             if orcamento[0] <= 0:
                 pendentes += 1
+                if mesmo_valor:
+                    reg["visto"] = hoje  # já conhecido: continua anunciado, só os dados ficam para depois
                 continue  # fica para a próxima execução
             orcamento[0] -= 1
             try:
@@ -165,7 +184,10 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
         novo_reg = {"visto": hoje, "desde": (reg or {}).get("desde", hoje), "aluguel": a["aluguel"], "ok": not motivo}
         if motivo:
             novo_reg["motivo"] = motivo
+        elif mesmo_valor and reg.get("ok"):
+            novo_reg["dados"] = guardar(a)  # já tinha sido avisado: só guarda os dados
         else:
+            novo_reg["dados"] = guardar(a)
             if reg and reg.get("ok") and reg.get("aluguel"):
                 a["mudanca"] = f"Aluguel mudou de {notificar.reais(reg['aluguel'])} para {notificar.reais(a['aluguel'])}"
             ce = chave_endereco(a)
@@ -187,6 +209,25 @@ def processar_fonte(fonte, cfg, estado, hoje, orcamento):
     log(f"  {fonte['nome']}: {len(brutos)} anúncios lidos, {len(novos)} novos, "
         f"{len(base)} na lista inicial" + (f", {pendentes} adiados" if pendentes else ""))
     return novos, base
+
+
+def lista_disponiveis(estado, hoje):
+    """Aprovados que apareceram nos sites hoje, sem repetir o mesmo apartamento."""
+    vistos, lista = set(), []
+    for chave, reg in estado.get("anuncios", {}).items():
+        dados = reg.get("dados")
+        if not reg.get("ok") or not dados or reg.get("visto") != hoje:
+            continue
+        a = dict(dados, chave=chave)
+        a["avisos"] = [x for x in a.get("avisos", []) if not x.startswith("mesmo endereço")]
+        a.setdefault("total", a.get("aluguel"))
+        ce = chave_endereco(a) if a.get("aluguel") is not None else None
+        if ce in vistos:
+            continue
+        if ce:
+            vistos.add(ce)
+        lista.append(a)
+    return por_distancia(lista)
 
 
 def por_distancia(anuncios):
@@ -249,6 +290,7 @@ def main():
     ap.add_argument("--sem-enviar", action="store_true")
     ap.add_argument("--teste", action="store_true")
     ap.add_argument("--gravar", action="store_true", help="com --sem-enviar, grava o estado mesmo assim")
+    ap.add_argument("--resumo", action="store_true", help="força o e-mail com todos os disponíveis (depois das 8h)")
     args = ap.parse_args()
 
     carregar_env()
@@ -282,13 +324,26 @@ def main():
     novos, base, avisos_fonte = [], [], []
     log(f"Verificação de {agora:%d/%m/%Y %H:%M}")
 
+    # e-mail com todos os disponíveis: no dia dele, todas as fontes leem todas as páginas
+    cfg_resumo = cfg.get("resumo_disponiveis") or {}
+    resumo_devido = False
+    if cfg_resumo.get("a_cada_dias") and agora.hour >= cfg_resumo.get("hora", 8):
+        if not estado.get("ultimo_resumo_disponiveis"):
+            # primeira vez: espera um dia, para dar tempo de guardar os dados dos anúncios já conhecidos
+            estado["ultimo_resumo_disponiveis"] = (agora - timedelta(days=cfg_resumo["a_cada_dias"] - 1)).strftime("%Y-%m-%d")
+        ultimo = estado["ultimo_resumo_disponiveis"]
+        dias = (agora.date() - datetime.strptime(ultimo, "%Y-%m-%d").date()).days
+        resumo_devido = dias >= cfg_resumo["a_cada_dias"] or args.resumo
+    if resumo_devido:
+        log("  (leitura completa para o e-mail com todos os disponíveis)")
+
     for fonte in cfg["fontes"]:
         nome = fonte["nome"]
         if fonte.get("ativa") is False:
             falhas.pop(nome, None)
             continue
         try:
-            n, b = processar_fonte(fonte, cfg, estado, hoje, orcamento)
+            n, b = processar_fonte(fonte, cfg, estado, hoje, orcamento, completa=resumo_devido)
             novos += n
             base += b
             if falhas.get(nome, 0) >= limites["falhas_seguidas_para_avisar"]:
@@ -309,6 +364,25 @@ def main():
     estado["enderecos"] = {k: v for k, v in estado.get("enderecos", {}).items() if v["chave"] in vivos}
 
     entregue = enviar(novos, base, cfg, canais, args.sem_enviar)
+
+    if resumo_devido:
+        disponiveis = lista_disponiveis(estado, hoje)
+        titulo = f"Apartamentos disponíveis perto do {cfg['referencia']['nome']} · {agora:%d/%m}"
+        intro = (f"{len(disponiveis)} apartamentos dentro do perfil continuam anunciados hoje, do mais perto "
+                 f"para o mais longe. Este e-mail chega a cada {cfg_resumo['a_cada_dias']} dias; os anúncios "
+                 "novos continuam chegando na hora, separados.")
+        if args.sem_enviar:
+            log(f"\n=== E-MAIL COM TODOS OS DISPONÍVEIS ({len(disponiveis)}) ===")
+            for a in disponiveis:
+                log(f"{notificar.linha_resumo(a, cfg['referencia'])} · {notificar.origem(a)}")
+        elif disponiveis and canais["email"]:
+            try:
+                notificar.enviar_email(titulo, notificar.resumo_email(disponiveis, cfg["referencia"], titulo, intro))
+                estado["ultimo_resumo_disponiveis"] = hoje
+            except Exception as erro:
+                log(f"  E-mail com todos os disponíveis falhou: {erro}")
+        else:
+            estado["ultimo_resumo_disponiveis"] = hoje
 
     if args.sem_enviar:
         for titulo, grupo in (("NOVOS", novos), ("LISTA INICIAL", base)):

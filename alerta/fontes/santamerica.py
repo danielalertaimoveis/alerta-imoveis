@@ -42,7 +42,7 @@ def coletar(cfg_fonte, ctx):
     anuncios = {}
     for caminho in cfg_fonte["paginas"]:
         endereco = cfg_fonte["base"] + caminho
-        ate = 4 if ctx["primeira_vez"] else 1  # depois da primeira vez, só os mais novos
+        ate = 4 if ctx.get("completa") else 1  # fora da leitura completa, só os mais novos
         for pagina in range(1, ate + 1):
             lidos = _ler_pagina(baixar(endereco + (f"?pag={pagina}" if pagina > 1 else "")), cfg_fonte)
             for a in lidos:

@@ -119,7 +119,7 @@ def coletar(cfg_fonte, ctx):
             # grupo sem lista completa: só reabre a página se a quantidade mudou
             gid = grupo["id"]
             grupos_agora[gid] = grupo["count"]
-            if grupos_vistos.get(gid) != grupo["count"]:
+            if grupos_vistos.get(gid) != grupo["count"] or ctx.get("completa"):
                 try:
                     for a in _pagina_do_grupo(grupo, base, filtro, ctx):
                         anuncios.setdefault(a["chave"], a)

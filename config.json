@@ -24,6 +24,7 @@
     "dias_para_esquecer": 90
   },
   "resumo_diario_hora": 8,
+  "resumo_disponiveis": { "a_cada_dias": 2, "hora": 8 },
   "fontes": [
     { "tipo": "chavesnamao", "nome": "Chaves na Mão", "cidade": "pr-londrina" },
 
@@ -34,6 +35,11 @@
     { "tipo": "kenlo", "nome": "Camponesa Imóveis", "base": "https://www.camponesaimoveis.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
     { "tipo": "kenlo", "nome": "Barreto Imóveis", "base": "https://www.barretoimoveis.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
     { "tipo": "kenlo", "nome": "Imobiliária Monaco", "base": "https://www.imobiliariamonaco.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "kenlo", "nome": "RD One", "base": "https://www.rdoneimob.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "kenlo", "nome": "Imobiliária WN", "base": "https://www.imobiliariawn.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "kenlo", "nome": "Imobiliária Humaitá", "base": "https://www.imobiliariahumaita.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "vista", "nome": "JR3 Negócios Imobiliários", "base": "https://jr3negociosimobiliarios.com.br", "paginas": ["/busca?finalidade=Aluguel&Categoria=Apartamento&Bairro=Centro", "/busca?finalidade=Aluguel&Categoria=Apartamento"] },
+    { "tipo": "vista", "nome": "Cube Imóveis", "base": "https://cubeimoveis.com.br", "paginas": ["/busca?finalidade=Aluguel&Categoria=Apartamento"] },
 
     { "tipo": "arbo", "nome": "CRV Imobiliária", "base": "https://www.crvimobiliaria.com.br" },
     { "tipo": "arbo", "nome": "Human Imóveis", "base": "https://www.humanimoveis.com" },
@@ -44,6 +50,9 @@
     { "tipo": "flip", "nome": "Century 21 Class", "base": "https://www.c21class.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
     { "tipo": "flip", "nome": "CMSouza", "base": "https://www.cmsouza.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
     { "tipo": "flip", "nome": "Imobiliária Senador", "base": "https://www.imobiliariasenador.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
+    { "tipo": "flip", "nome": "Premier Imóveis", "base": "https://www.imobiliariapremier.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
+    { "tipo": "santamerica", "nome": "Patrimônio Imóveis", "base": "https://www.patrimonioimoveisprontos.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"] },
+    { "tipo": "msys", "nome": "AG Prime Imóveis", "base": "https://agprimeimoveis.com" },
     { "tipo": "santamerica", "nome": "Imobiliária Santamérica", "base": "https://www.santamerica.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"] },
     { "tipo": "alugaflex", "nome": "Alugaflex", "base": "https://www.alugaflex.com.br", "caminho": "/buscar/imovel/pr/londrina/", "ativa": false, "motivo": "o site recusa acesso vindo dos servidores do GitHub (erro 403)" },
     { "tipo": "casasoft", "nome": "Imobiliária Veneza", "base": "https://www.veneza.com.br", "paginas": ["/imoveis/alugar-apartamento-2-quartos-em-londrina-no-centro", "/imoveis/alugar-apartamento-3-quartos-em-londrina-no-centro"] },
