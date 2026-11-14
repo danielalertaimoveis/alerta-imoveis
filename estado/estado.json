@@ -1,6 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-13": 10
+  "2026-11-13": 10,
+  "2026-11-14": 1
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -9164,6 +9165,28 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "imobiliaria-santamerica:56315": {
+   "aluguel": 1700.0,
+   "dados": {
+    "aluguel": 1700.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Vila Ipiranga",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 3,
+    "titulo": "Apartamento para Locação no edifício Amarilis, Região Central, com 3 dormitórios (1 suíte).",
+    "total": 1700.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Vila-Ipiranga/56315",
+    "vagas": 1
+   },
+   "desde": "2026-11-14",
+   "ok": true,
+   "visto": "2026-11-14"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -12398,7 +12421,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 1
+  "Imobiliária Inglaterra": 2
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -12970,7 +12993,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794668860
+  "Catuaí Imóveis": 1794670976
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
