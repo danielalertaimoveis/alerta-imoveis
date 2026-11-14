@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-12": 1,
-  "2026-11-13": 9
+  "2026-11-13": 10
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -2503,7 +2503,7 @@
    "visto": "2026-11-13"
   },
   "chaves-na-mao:46404915": {
-   "aluguel": 2300.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-13"
@@ -7533,7 +7533,7 @@
   "19/187624/297063": 9,
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37,
+  "approx:19/187611/297065": 38,
   "approx:19/187638/297056": 9
  },
  "enderecos": {
@@ -7646,6 +7646,11 @@
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:46404915",
    "data": "11/11"
+  },
+  "rua mossoro|130|2|2900": {
+   "anunciante": "VAL SANTOS IMÓVEIS",
+   "chave": "chaves-na-mao:46404915",
+   "data": "13/11"
   },
   "rua mossoro|130|3|2300": {
    "anunciante": "Chaves na Mão",
@@ -8323,7 +8328,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794621359
+  "Catuaí Imóveis": 1794624270
  },
  "ultimo_status": "2026-11-13"
 }
