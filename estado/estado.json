@@ -5557,7 +5557,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-14"
   },
   "imobiliaria-monaco:AP1281-MONA": {
    "aluguel": 1950.0,
@@ -5814,7 +5814,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-14"
   },
   "imobiliaria-monaco:AP4516-MONA": {
    "aluguel": 5900.0,
@@ -8328,7 +8328,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794628078
+  "Catuaí Imóveis": 1794631529
  },
  "ultimo_status": "2026-11-13"
 }
