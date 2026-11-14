@@ -4454,6 +4454,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "cmsouza:AP5834": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-14",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-14"
+  },
   "cmsouza:AP5857": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
@@ -6998,7 +7005,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-11"
+   "visto": "2026-11-14"
   },
   "imobiliaria-londrina-norte:AP0485-LONF": {
    "aluguel": 1450.0,
@@ -12390,7 +12397,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Inglaterra": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -12961,7 +12970,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794666247
+  "Catuaí Imóveis": 1794668860
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
