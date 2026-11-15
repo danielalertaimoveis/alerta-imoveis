@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-13": 10,
-  "2026-11-14": 1
+  "2026-11-14": 4
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -2736,9 +2736,9 @@
    "visto": "2026-11-14"
   },
   "chaves-na-mao:43622063": {
-   "aluguel": 1800.0,
+   "aluguel": 1650.0,
    "dados": {
-    "aluguel": 1800.0,
+    "aluguel": 1650.0,
     "anunciante": "MANAIA IMÓVEIS",
     "area": 66,
     "avisos": [
@@ -2754,8 +2754,8 @@
     "quartos": 3,
     "rua": "Rua Paraíba",
     "titulo": "Edif. Ville D'Ampezzo - Apartamento para alugar, 66 m² - Rua Paraíba, n° 450, Jardim Higienópolis - Londrina/PR",
-    "total": 2599.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-jardim-higienopolis-RS1800/id-43622063/"
+    "total": 2449.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-jardim-higienopolis-RS1650/id-43622063/"
    },
    "desde": "2026-11-11",
    "ok": true,
@@ -3736,14 +3736,13 @@
    "visto": "2026-11-14"
   },
   "chaves-na-mao:48034695": {
-   "aluguel": 2500.0,
+   "aluguel": 1950.0,
    "dados": {
-    "aluguel": 2500.0,
+    "aluguel": 1950.0,
     "anunciante": "IMOBILIÁRIA EUROPA",
-    "area": 70,
+    "area": 115,
     "avisos": [
-     "localização aproximada, confira o endereço no anúncio",
-     "garagem não informada"
+     "localização aproximada, confira o endereço no anúncio"
     ],
     "bairro": "Centro",
     "condominio": 300.0,
@@ -3754,23 +3753,23 @@
     "minutos": 10.7,
     "quartos": 3,
     "rua": "Rua Benjamin Constant",
-    "titulo": "Apartamento com 3 dormitórios para alugar, 70 m² por R$ 2.960,00/mês - Centro - Londrina/PR",
-    "total": 2960.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-100m2-RS2500/id-48034695/"
+    "titulo": "Apartamento com 3 quartos para alugar, 115 m² por R$ 2.410,00/mês - Centro - Londrina/PR",
+    "total": 2410.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-115m2-RS1950/id-48034695/",
+    "vagas": 1
    },
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-14"
   },
   "chaves-na-mao:48034696": {
-   "aluguel": 2400.0,
+   "aluguel": 1950.0,
    "dados": {
-    "aluguel": 2400.0,
+    "aluguel": 1950.0,
     "anunciante": "IMOBILIÁRIA EUROPA",
-    "area": 110,
+    "area": 115,
     "avisos": [
-     "localização aproximada, confira o endereço no anúncio",
-     "garagem não informada"
+     "localização aproximada, confira o endereço no anúncio"
     ],
     "bairro": "Centro",
     "condominio": 300.0,
@@ -3781,9 +3780,10 @@
     "minutos": 10.7,
     "quartos": 3,
     "rua": "Rua Benjamin Constant",
-    "titulo": "Apartamento com 3 quartos para alugar, 110 m² por R$ 2.860,00/mês - Centro - Londrina/PR",
-    "total": 2860.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-110m2-RS2400/id-48034696/"
+    "titulo": "Apartamento com 3 quartos para alugar, 115 m² por R$ 2.410,00/mês - Centro - Londrina/PR",
+    "total": 2410.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-115m2-RS1950/id-48034696/",
+    "vagas": 1
    },
    "desde": "2026-11-11",
    "ok": true,
@@ -12338,6 +12338,11 @@
    "chave": "chaves-na-mao:25098593",
    "data": "11/11"
   },
+  "rua paraiba|450|3|1650": {
+   "anunciante": "MANAIA IMÓVEIS",
+   "chave": "chaves-na-mao:43622063",
+   "data": "14/11"
+  },
   "rua paraiba|450|3|1800": {
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:43622063",
@@ -12435,7 +12440,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 18
+  "Imobiliária Inglaterra": 19
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13007,7 +13012,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794707894
+  "Catuaí Imóveis": 1794710760
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
