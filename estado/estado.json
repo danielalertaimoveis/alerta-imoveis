@@ -1538,6 +1538,13 @@
    "ok": false,
    "visto": "2026-11-15"
   },
+  "century-21-class:AP10666": {
+   "aluguel": 2701.01,
+   "desde": "2026-11-15",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-15"
+  },
   "century-21-class:AP10871": {
    "aluguel": 3801.01,
    "desde": "2026-11-13",
@@ -1636,7 +1643,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-15"
   },
   "century-21-class:AP12079": {
    "aluguel": 3500.0,
@@ -13039,11 +13046,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Europa": 1,
-  "Imobiliária Humaitá": 1,
-  "Imobiliária Inglaterra": 38,
-  "Imobiliária Londrina Norte": 1,
-  "Imobiliária WN": 1
+  "Imobiliária Inglaterra": 39
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13615,7 +13618,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794766871
+  "Catuaí Imóveis": 1794769906
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-15"
