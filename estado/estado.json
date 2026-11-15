@@ -3312,7 +3312,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
@@ -4512,6 +4512,13 @@
    "aluguel": 1950.0,
    "desde": "2026-11-15",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-15"
+  },
+  "chaves-na-mao:48900969": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-15",
+   "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-15"
   },
@@ -12766,7 +12773,7 @@
   "19/187624/297063": 9,
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37,
+  "approx:19/187611/297065": 36,
   "approx:19/187638/297056": 9
  },
  "enderecos": {
@@ -13032,7 +13039,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 29
+  "Imobiliária Inglaterra": 30
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13604,7 +13611,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794743912
+  "Catuaí Imóveis": 1794746282
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-15"
