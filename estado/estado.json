@@ -10045,7 +10045,7 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "imobiliaria-senador:AP1166": {
    "aluguel": 2000.0,
@@ -13039,7 +13039,11 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 37
+  "Imobiliária Europa": 1,
+  "Imobiliária Humaitá": 1,
+  "Imobiliária Inglaterra": 38,
+  "Imobiliária Londrina Norte": 1,
+  "Imobiliária WN": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13611,7 +13615,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794764554
+  "Catuaí Imóveis": 1794766871
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-15"
