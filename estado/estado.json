@@ -7302,7 +7302,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "imobiliaria-monaco:AP1281-MONA": {
    "aluguel": 1950.0,
@@ -7407,7 +7407,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "imobiliaria-monaco:AP3370-MONA": {
    "aluguel": 2500.0,
@@ -7559,7 +7559,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "imobiliaria-monaco:AP4516-MONA": {
    "aluguel": 5900.0,
@@ -7594,7 +7594,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "imobiliaria-monaco:AP4572-MONA": {
    "aluguel": 4500.0,
@@ -11928,7 +11928,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-15"
   },
   "rd-one:AP2980-MOS8": {
    "aluguel": 8500.0,
@@ -12447,7 +12447,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 20
+  "Imobiliária Inglaterra": 21
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13019,7 +13019,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794714384
+  "Catuaí Imóveis": 1794718211
  },
  "ultimo_resumo_disponiveis": "2026-11-13",
  "ultimo_status": "2026-11-14"
