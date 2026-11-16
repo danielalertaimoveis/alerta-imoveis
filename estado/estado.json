@@ -10089,6 +10089,13 @@
    "ok": false,
    "visto": "2026-11-15"
   },
+  "imobiliaria-senador:AP1132": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-15",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-15"
+  },
   "imobiliaria-senador:AP1139": {
    "aluguel": 1980.0,
    "desde": "2026-11-12",
@@ -11243,6 +11250,13 @@
    "aluguel": 1450.0,
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-15"
+  },
+  "jr3-negocios-imobiliarios:191414": {
+   "aluguel": 7900.0,
+   "desde": "2026-11-15",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-15"
   },
@@ -13165,7 +13179,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 46
+  "Imobiliária Inglaterra": 47
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13737,7 +13751,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794786602
+  "Catuaí Imóveis": 1794789537
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-15"
