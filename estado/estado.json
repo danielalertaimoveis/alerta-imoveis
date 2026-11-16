@@ -1332,7 +1332,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "camponesa-imoveis:AP1753-CAPC": {
    "aluguel": 5200.0,
@@ -1557,6 +1557,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-15"
+  },
+  "century-21-class:AP10624": {
+   "aluguel": 5700.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
   },
   "century-21-class:AP10666": {
    "aluguel": 2701.01,
@@ -5838,6 +5845,13 @@
    "aluguel": 3000.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
+  "imob3m:AP1978-IMZ1": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-16",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -13269,7 +13283,10 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 57
+  "Imobiliária Inglaterra": 58,
+  "Imobiliária Natal": 1,
+  "Imobiliária Santamérica": 1,
+  "Patrimônio Imóveis": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13841,7 +13858,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794848058
+  "Catuaí Imóveis": 1794851792
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
