@@ -1,6 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-15": 1
+  "2026-11-15": 1,
+  "2026-11-16": 1
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -5081,6 +5082,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "cmsouza:AP7001": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-16",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "dados": {
@@ -8317,6 +8325,30 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "imobiliaria-natal:AP0531_NATA": {
+   "aluguel": 2190.0,
+   "dados": {
+    "aluguel": 2190.0,
+    "anunciante": "Imobiliária Natal",
+    "area": 71,
+    "bairro": "Vila Filipin",
+    "condominio": 500.0,
+    "elevador": true,
+    "fonte": "Imobiliária Natal",
+    "metros": 811,
+    "minutos": 10.9,
+    "numero": "1000",
+    "quartos": 2,
+    "rua": "Rua Amapá",
+    "titulo": "LOCAÇÃO ED NOVITTA , TOTALMENTE MOBILIADO, PROX TERMINAL CENTRAL, 2 QUARTOS, 1 SUITE, 2 BANHEIROS , 1 VAGA.",
+    "total": 2690.0,
+    "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/vila-filipin/AP0531_NATA",
+    "vagas": 1
+   },
+   "desde": "2026-11-16",
+   "ok": true,
+   "visto": "2026-11-16"
+  },
   "imobiliaria-perez:10506": {
    "aluguel": 2200.0,
    "desde": "2026-11-13",
@@ -9778,7 +9810,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "imobiliaria-santamerica:56208": {
    "aluguel": 1300.0,
@@ -10327,7 +10359,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-16"
   },
   "imobiliaria-veneza:01423.001": {
    "aluguel": 1390.0,
@@ -11810,6 +11842,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "patrimonio-imoveis:1339": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-16",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "patrimonio-imoveis:568": {
    "aluguel": 4700.0,
    "desde": "2026-11-14",
@@ -13283,10 +13322,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 58,
-  "Imobiliária Natal": 1,
-  "Imobiliária Santamérica": 1,
-  "Patrimônio Imóveis": 1
+  "Imobiliária Inglaterra": 59
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13596,6 +13632,10 @@
    3.7,
    278
   ],
+  "-23.30323,-51.16007": [
+   10.9,
+   811
+  ],
   "-23.30326,-51.17578": [
    17.5,
    1303
@@ -13858,7 +13898,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794851792
+  "Catuaí Imóveis": 1794854742
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
