@@ -1878,6 +1878,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "century-21-class:AP12293": {
+   "aluguel": 3600.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "century-21-class:AP12294": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
@@ -1931,6 +1938,13 @@
    "aluguel": 1900.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
+  "century-21-class:AP12335": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -4998,6 +5012,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "cmsouza:AP6914": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "cmsouza:AP6921": {
    "aluguel": 3450.0,
    "desde": "2026-11-12",
@@ -5031,7 +5052,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-16"
   },
   "cmsouza:AP6957": {
    "aluguel": 4000.0,
@@ -5072,6 +5093,13 @@
    "aluguel": 2700.0,
    "desde": "2026-11-13",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
+  "cmsouza:AP6991": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -13329,7 +13357,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 60
+  "Imobiliária Inglaterra": 61
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13905,7 +13933,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794858289
+  "Catuaí Imóveis": 1794861294
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
