@@ -10767,7 +10767,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191135": {
    "aluguel": 4700.0,
@@ -10788,7 +10788,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191159": {
    "aluguel": 1500.0,
@@ -10915,14 +10915,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191223": {
    "aluguel": 3900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191227": {
    "aluguel": 6400.0,
@@ -10957,7 +10957,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191287": {
    "aluguel": 15000.0,
@@ -11174,7 +11174,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191392": {
    "aluguel": 14000.0,
@@ -11223,7 +11223,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191407": {
    "aluguel": 4000.0,
@@ -11237,14 +11237,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191409": {
    "aluguel": 7500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191412": {
    "aluguel": 1450.0,
@@ -13179,8 +13179,9 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 50,
-  "Sérgio Cortez Imóveis": 1
+  "Imobiliária Inglaterra": 51,
+  "Imobiliária Londrina Norte": 1,
+  "RD One": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13752,7 +13753,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794801636
+  "Catuaí Imóveis": 1794806904
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-15"
