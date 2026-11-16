@@ -1,6 +1,5 @@
 {
  "alertas_por_dia": {
-  "2026-11-14": 4,
   "2026-11-15": 1
  },
  "anuncios": {
@@ -1510,6 +1509,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP10025": {
+   "aluguel": 14901.01,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "century-21-class:AP10150": {
    "aluguel": 4400.0,
    "desde": "2026-11-13",
@@ -1530,6 +1536,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-11"
+  },
+  "century-21-class:AP10409": {
+   "aluguel": 8701.01,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
   },
   "century-21-class:AP10622": {
    "aluguel": 3500.0,
@@ -1625,11 +1638,18 @@
    "visto": "2026-11-12"
   },
   "century-21-class:AP11898": {
-   "aluguel": 5300.0,
+   "aluguel": 5301.01,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-16"
+  },
+  "century-21-class:AP12007": {
+   "aluguel": 10001.01,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
   },
   "century-21-class:AP12045": {
    "aluguel": 7000.0,
@@ -1978,6 +1998,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
+  },
+  "century-21-class:AP4658": {
+   "aluguel": 4300.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-16"
   },
   "century-21-class:AP4817": {
    "aluguel": 2401.01,
@@ -4915,7 +4942,7 @@
    "visto": "2026-11-15"
   },
   "cmsouza:AP6885": {
-   "aluguel": 5000.0,
+   "aluguel": 4500.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -12836,7 +12863,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "rd-one:AP3034-MOS8": {
    "aluguel": 5500.0,
@@ -13179,7 +13206,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 53
+  "Imobiliária Inglaterra": 54
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13751,8 +13778,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794825365
+  "Catuaí Imóveis": 1794827413
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
- "ultimo_status": "2026-11-15"
+ "ultimo_status": "2026-11-16"
 }
