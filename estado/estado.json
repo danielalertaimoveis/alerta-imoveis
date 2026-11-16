@@ -1904,7 +1904,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-16"
   },
   "century-21-class:AP12318": {
    "aluguel": 3200.0,
@@ -10048,6 +10048,13 @@
    "ok": true,
    "visto": "2026-11-16"
   },
+  "imobiliaria-santamerica:56326": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-16",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -13322,7 +13329,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 59
+  "Imobiliária Inglaterra": 60
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13898,7 +13905,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794854742
+  "Catuaí Imóveis": 1794858289
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
