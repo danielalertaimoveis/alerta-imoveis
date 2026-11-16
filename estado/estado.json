@@ -5067,6 +5067,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "cmsouza:AP6999": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-16",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "dados": {
@@ -5215,9 +5222,9 @@
    "visto": "2026-11-16"
   },
   "crv-imobiliaria:AP4701_CRV": {
-   "aluguel": 2950.0,
+   "aluguel": 3100.0,
    "desde": "2026-11-13",
-   "motivo": "total acima do limite",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -5947,9 +5954,9 @@
    "visto": "2026-11-16"
   },
   "imobiliaria-europa:AP2279-EURW": {
-   "aluguel": 3500.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-16",
-   "motivo": "aluguel acima do limite",
+   "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -8552,9 +8559,16 @@
    "visto": "2026-11-13"
   },
   "imobiliaria-raul-fulgencio:23579": {
-   "aluguel": 0.01,
+   "aluguel": null,
    "desde": "2026-11-16",
-   "motivo": "longe",
+   "motivo": "sem valor de aluguel",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
+  "imobiliaria-raul-fulgencio:23582": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -13255,7 +13269,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 56
+  "Imobiliária Inglaterra": 57
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13827,7 +13841,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794842744
+  "Catuaí Imóveis": 1794848058
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
