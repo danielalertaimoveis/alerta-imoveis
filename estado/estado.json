@@ -961,7 +961,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "camponesa-imoveis:AP0492-CAPC": {
    "aluguel": 1800.0,
@@ -1602,6 +1602,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP11592": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-16",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "century-21-class:AP11685": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
@@ -2183,14 +2190,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-16"
   },
   "century-21-class:AP9266": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-16"
   },
   "century-21-class:AP9589": {
    "aluguel": 24000.0,
@@ -3353,7 +3360,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
@@ -5915,6 +5922,13 @@
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
+  "imobiliaria-europa:AP2279-EURW": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-16"
   },
@@ -10766,7 +10780,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191116": {
    "aluguel": 6000.0,
@@ -11071,11 +11085,11 @@
    "visto": "2026-11-15"
   },
   "jr3-negocios-imobiliarios:191330": {
-   "aluguel": 1950.0,
+   "aluguel": 1800.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-16"
   },
   "jr3-negocios-imobiliarios:191331": {
    "aluguel": 8800.0,
@@ -13206,7 +13220,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 54
+  "Imobiliária Inglaterra": 55
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13778,7 +13792,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794827413
+  "Catuaí Imóveis": 1794831400
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
