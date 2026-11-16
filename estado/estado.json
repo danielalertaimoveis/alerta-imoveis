@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-15": 1,
-  "2026-11-16": 1
+  "2026-11-16": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -4928,6 +4928,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "cmsouza:AP6754": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-16",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-16"
+  },
   "cmsouza:AP6783": {
    "aluguel": 11900.0,
    "desde": "2026-11-12",
@@ -4936,7 +4943,7 @@
    "visto": "2026-11-16"
   },
   "cmsouza:AP6790": {
-   "aluguel": 4800.0,
+   "aluguel": 4400.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -10800,6 +10807,29 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "imobiliaria-wn:AP0151-WETI": {
+   "aluguel": 1600.0,
+   "dados": {
+    "aluguel": 1600.0,
+    "anunciante": "Imobiliária WN",
+    "area": 62,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo"
+    ],
+    "bairro": "Centro",
+    "condominio": 450.0,
+    "elevador": true,
+    "fonte": "Imobiliária WN",
+    "quartos": 3,
+    "titulo": "Apartamento de 63 m² Centro - Londrina, aluguel por R$ 1.600/mês",
+    "total": 2050.0,
+    "url": "https://www.imobiliariawn.com.br/imovel/apartamento-londrina-3-quartos-63-m/AP0151-WETI",
+    "vagas": 1
+   },
+   "desde": "2026-11-16",
+   "ok": true,
+   "visto": "2026-11-16"
+  },
   "jr3-negocios-imobiliarios:190650": {
    "aluguel": 4480.0,
    "desde": "2026-11-14",
@@ -13357,7 +13387,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 61
+  "Imobiliária Inglaterra": 62
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13933,7 +13963,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794861294
+  "Catuaí Imóveis": 1794864488
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
