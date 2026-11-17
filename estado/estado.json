@@ -1036,7 +1036,7 @@
    "visto": "2026-11-17"
   },
   "camponesa-imoveis:AP1393-CAPC": {
-   "aluguel": 1700.0,
+   "aluguel": 1650.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -8908,6 +8908,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "imobiliaria-raul-fulgencio:13860": {
+   "aluguel": 6900.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-raul-fulgencio:14979": {
    "aluguel": 2700.0,
    "desde": "2026-11-13",
@@ -10460,6 +10467,13 @@
   "imobiliaria-santamerica:56326": {
    "aluguel": 1800.0,
    "desde": "2026-11-16",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "imobiliaria-santamerica:56337": {
+   "aluguel": 2250.0,
+   "desde": "2026-11-17",
    "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-17"
@@ -13832,8 +13846,7 @@
   }
  },
  "falhas": {
-  "Human Imóveis": 5,
-  "Imobiliária Inglaterra": 82
+  "Imobiliária Inglaterra": 83
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14409,7 +14422,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794933614
+  "Catuaí Imóveis": 1794937317
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
