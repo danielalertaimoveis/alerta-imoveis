@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-16": 2,
-  "2026-11-17": 3
+  "2026-11-17": 9
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -934,6 +934,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "barreto-imoveis:AP3962-BAUV": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "camponesa-imoveis:AP0223-CAPC": {
    "aluguel": 950.0,
    "desde": "2026-11-12",
@@ -1729,6 +1736,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP12120": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-17",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP12159": {
    "aluguel": 2601.01,
    "desde": "2026-11-14",
@@ -2217,7 +2231,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-12"
+   "visto": "2026-11-17"
   },
   "century-21-class:AP8468": {
    "aluguel": 6000.0,
@@ -2381,6 +2395,30 @@
     "vagas": 1
    },
    "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-17"
+  },
+  "chaves-na-mao:19046806": {
+   "aluguel": 2600.0,
+   "dados": {
+    "aluguel": 2600.0,
+    "anunciante": "CAMPONESA IMÓVEIS",
+    "area": 70,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Vila Filipin",
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento com 3 dormitórios para alugar, 70 m² por R$ 2.600,00/mês - Vila Filipin - Londrina/PR",
+    "total": 2600.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-RS2600/id-19046806/",
+    "vagas": 2
+   },
+   "desde": "2026-11-17",
    "ok": true,
    "visto": "2026-11-17"
   },
@@ -2925,6 +2963,31 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "chaves-na-mao:43078166": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 78,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 443.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento com 3 quartos para alugar no Edifício Novitta Residence, no Centro de Londrina",
+    "total": 2943.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-78m2-RS2500/id-43078166/",
+    "vagas": 1
+   },
+   "desde": "2026-11-17",
+   "ok": true,
+   "visto": "2026-11-17"
+  },
   "chaves-na-mao:43080265": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
@@ -3431,7 +3494,32 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-16"
+   "visto": "2026-11-17"
+  },
+  "chaves-na-mao:45918854": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 72,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 458.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento com 3 quartos à venda e locação no Edifício Novitta Residence, região Central de Londrina",
+    "total": 2958.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-72m2-RS2500/id-45918854/",
+    "vagas": 2
+   },
+   "desde": "2026-11-17",
+   "ok": true,
+   "visto": "2026-11-17"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
@@ -3459,6 +3547,30 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
+   "visto": "2026-11-17"
+  },
+  "chaves-na-mao:46037461": {
+   "aluguel": 2300.0,
+   "dados": {
+    "aluguel": 2300.0,
+    "anunciante": "GMX IMOBILIÁRIA",
+    "area": 72,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 620.0,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento com 3 dormitórios para alugar, 72 m² por R$ 2.920,00/mês - Vila Filipin - Londrina/PR",
+    "total": 2920.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-110m2-RS2300/id-46037461/",
+    "vagas": 1
+   },
+   "desde": "2026-11-17",
+   "ok": true,
    "visto": "2026-11-17"
   },
   "chaves-na-mao:46069790": {
@@ -4018,6 +4130,30 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "chaves-na-mao:4797388": {
+   "aluguel": 2000.0,
+   "dados": {
+    "aluguel": 2000.0,
+    "anunciante": "CAMPONESA IMÓVEIS",
+    "area": 72,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 500.0,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento com 3 dormitórios para alugar, 72 m² por R$ 2.500,00/mês - Vila Filipin - Londrina/PR",
+    "total": 2500.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-116m2-RS2000/id-4797388/",
+    "vagas": 2
+   },
+   "desde": "2026-11-17",
+   "ok": true,
+   "visto": "2026-11-17"
+  },
   "chaves-na-mao:47982615": {
    "aluguel": 1250.0,
    "desde": "2026-11-11",
@@ -4223,6 +4359,30 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
+   "visto": "2026-11-17"
+  },
+  "chaves-na-mao:48511894": {
+   "aluguel": 2350.0,
+   "dados": {
+    "aluguel": 2350.0,
+    "anunciante": "IMOBILIÁRIA RAUL FULGENCIO",
+    "area": 70,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Vila Filipin",
+    "condominio": 450.0,
+    "fonte": "Chaves na Mão",
+    "metros": 1013,
+    "minutos": 13.6,
+    "quartos": 3,
+    "titulo": "Apartamento 3 quartos sendo uma suite para alugar na regiao Central de Londrina",
+    "total": 2800.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-124m2-RS2350/id-48511894/",
+    "vagas": 1
+   },
+   "desde": "2026-11-17",
+   "ok": true,
    "visto": "2026-11-17"
   },
   "chaves-na-mao:48512415": {
@@ -11616,6 +11776,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "jr3-negocios-imobiliarios:191423": {
+   "aluguel": 3200.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "jr3-negocios-imobiliarios:191436": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
@@ -13299,8 +13466,7 @@
   "19/187624/297063": 9,
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 36,
-  "approx:19/187638/297056": 9
+  "approx:19/187611/297065": 35
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -13565,7 +13731,12 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 77
+  "88 Imóveis": 1,
+  "CRV Imobiliária": 1,
+  "Human Imóveis": 1,
+  "Imobiliária Inglaterra": 78,
+  "Imobiliária Natal": 1,
+  "Sérgio Cortez Imóveis": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14141,7 +14312,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794915787
+  "Catuaí Imóveis": 1794918973
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
