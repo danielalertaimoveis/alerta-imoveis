@@ -2012,7 +2012,7 @@
    "visto": "2026-11-17"
   },
   "century-21-class:AP3693": {
-   "aluguel": 2500.0,
+   "aluguel": 2300.0,
    "desde": "2026-11-16",
    "motivo": "longe",
    "ok": false,
@@ -11877,6 +11877,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "jr3-negocios-imobiliarios:191453": {
+   "aluguel": 6900.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -13811,8 +13818,8 @@
   }
  },
  "falhas": {
-  "Human Imóveis": 3,
-  "Imobiliária Inglaterra": 80
+  "Human Imóveis": 4,
+  "Imobiliária Inglaterra": 81
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14388,7 +14395,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794926711
+  "Catuaí Imóveis": 1794930005
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
