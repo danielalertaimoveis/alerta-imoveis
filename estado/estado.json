@@ -1920,6 +1920,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "century-21-class:AP12303": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP12310": {
    "aluguel": 3900.0,
    "desde": "2026-11-11",
@@ -10763,6 +10770,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-veneza:00867.006": {
+   "aluguel": 950.0,
+   "desde": "2026-11-17",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-veneza:01305.001": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
@@ -13818,8 +13832,8 @@
   }
  },
  "falhas": {
-  "Human Imóveis": 4,
-  "Imobiliária Inglaterra": 81
+  "Human Imóveis": 5,
+  "Imobiliária Inglaterra": 82
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14395,7 +14409,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794930005
+  "Catuaí Imóveis": 1794933614
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
