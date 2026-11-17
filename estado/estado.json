@@ -2126,6 +2126,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "century-21-class:AP5999": {
+   "aluguel": 2610.0,
+   "desde": "2026-11-17",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP6052": {
    "aluguel": 2801.01,
    "desde": "2026-11-11",
@@ -8132,7 +8139,7 @@
    "visto": "2026-11-17"
   },
   "imobiliaria-londrina-norte:AP0832-LONF": {
-   "aluguel": 1300.0,
+   "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -8912,6 +8919,13 @@
    "aluguel": 5200.0,
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "imobiliaria-raul-fulgencio:23516": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-17"
   },
@@ -13797,8 +13811,8 @@
   }
  },
  "falhas": {
-  "Human Imóveis": 2,
-  "Imobiliária Inglaterra": 79
+  "Human Imóveis": 3,
+  "Imobiliária Inglaterra": 80
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14374,7 +14388,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794923445
+  "Catuaí Imóveis": 1794926711
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
