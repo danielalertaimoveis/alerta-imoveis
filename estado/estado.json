@@ -4695,7 +4695,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-16"
   },
   "cmsouza:AP3930": {
    "aluguel": 3200.0,
@@ -13415,7 +13415,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 67
+  "Imobiliária Inglaterra": 68
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13991,7 +13991,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794875215
+  "Catuaí Imóveis": 1794881169
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
