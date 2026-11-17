@@ -1,7 +1,8 @@
 {
  "alertas_por_dia": {
   "2026-11-15": 1,
-  "2026-11-16": 2
+  "2026-11-16": 2,
+  "2026-11-17": 1
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -4612,6 +4613,33 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-16"
+  },
+  "chaves-na-mao:48876314": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 IMÓVEIS",
+    "area": 70,
+    "avisos": [
+     "condomínio não informado, o total pode passar do limite",
+     "mesmo endereço e valor de um anúncio de 11/11 (Chaves na Mão)"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 729,
+    "minutos": 9.8,
+    "numero": "250",
+    "quartos": 3,
+    "rua": "Rua Prefeito Hugo Cabral",
+    "titulo": "Apartamento com 3 dormitórios à venda, 70 m² por R$ 510.000,00 - Centro - Londrina/PR",
+    "total": 2500.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-115m2-RS2500/id-48876314/",
+    "vagas": 1
+   },
+   "desde": "2026-11-17",
+   "ok": true,
+   "visto": "2026-11-17"
   },
   "chaves-na-mao:48884496": {
    "aluguel": 2950.0,
@@ -13415,7 +13443,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 74
+  "Imobiliária Inglaterra": 75
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -13991,7 +14019,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794903770
+  "Catuaí Imóveis": 1794909373
  },
  "ultimo_resumo_disponiveis": "2026-11-15",
  "ultimo_status": "2026-11-16"
