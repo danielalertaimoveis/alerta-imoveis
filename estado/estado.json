@@ -8569,7 +8569,7 @@
    "visto": "2026-11-17"
   },
   "imobiliaria-monaco:AP4514-MONA": {
-   "aluguel": 2500.0,
+   "aluguel": 2400.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
@@ -13979,7 +13979,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 86
+  "Imobiliária Inglaterra": 87
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14555,7 +14555,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794947820
+  "Catuaí Imóveis": 1794950938
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
