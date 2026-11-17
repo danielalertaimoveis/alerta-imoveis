@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-16": 2,
-  "2026-11-17": 10
+  "2026-11-17": 11
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1864,6 +1864,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "century-21-class:AP12255": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP12256": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
@@ -1976,6 +1983,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "century-21-class:AP12337": {
+   "aluguel": 6400.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP1237": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
@@ -2056,6 +2070,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP4157": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-17",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP4168": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
@@ -2135,6 +2156,13 @@
   },
   "century-21-class:AP5999": {
    "aluguel": 2610.0,
+   "desde": "2026-11-17",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "century-21-class:AP6020": {
+   "aluguel": 2200.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
@@ -5243,6 +5271,13 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-16"
+  },
+  "cmsouza:AP6815": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
   },
   "cmsouza:AP6834": {
    "aluguel": 6400.0,
@@ -10478,6 +10513,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-santamerica:56341": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -12260,9 +12302,9 @@
    "visto": "2026-11-17"
   },
   "patrimonio-imoveis:1324": {
-   "aluguel": 1400.0,
+   "aluguel": 1600.0,
    "dados": {
-    "aluguel": 1400.0,
+    "aluguel": 1600.0,
     "anunciante": "Patrimônio Imóveis",
     "area": 64,
     "avisos": [
@@ -12273,7 +12315,7 @@
     "fonte": "Patrimônio Imóveis",
     "quartos": 2,
     "titulo": "Apartamento De 64 Metros Para Locação Com 2 Quartos Sacada e Garagem Edificio Do Carmo Centro De Londrina",
-    "total": 1400.0,
+    "total": 1600.0,
     "url": "https://www.patrimonioimoveisprontos.com.br/alugar/Londrina/Apartamento/Padrao/Centro/1324",
     "vagas": 1
    },
@@ -13846,7 +13888,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 83
+  "Imobiliária Inglaterra": 84
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14422,7 +14464,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794937317
+  "Catuaí Imóveis": 1794940690
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
