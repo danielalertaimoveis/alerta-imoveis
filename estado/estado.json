@@ -2169,7 +2169,7 @@
    "visto": "2026-11-17"
   },
   "century-21-class:AP5999": {
-   "aluguel": 2610.0,
+   "aluguel": 2400.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
@@ -5482,6 +5482,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "cmsouza:AP7004": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "dados": {
@@ -8694,6 +8701,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-monaco:AP4637-MONA": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-natal:AP0428_NATA": {
    "aluguel": 2699.0,
    "desde": "2026-11-12",
@@ -8963,6 +8977,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-13"
+  },
+  "imobiliaria-raul-fulgencio:13816": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
   },
   "imobiliaria-raul-fulgencio:13860": {
    "aluguel": 6900.0,
@@ -10555,6 +10576,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-santamerica:56343": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -11998,6 +12026,20 @@
   },
   "jr3-negocios-imobiliarios:191456": {
    "aluguel": 10500.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "jr3-negocios-imobiliarios:191458": {
+   "aluguel": 8500.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "jr3-negocios-imobiliarios:191459": {
+   "aluguel": 3650.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -13937,7 +13979,7 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 85
+  "Imobiliária Inglaterra": 86
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14513,7 +14555,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794944579
+  "Catuaí Imóveis": 1794947820
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
