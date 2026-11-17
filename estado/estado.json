@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-16": 2,
-  "2026-11-17": 9
+  "2026-11-17": 10
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1883,7 +1883,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-16"
+   "visto": "2026-11-17"
   },
   "century-21-class:AP12274": {
    "aluguel": 4800.0,
@@ -4828,6 +4828,30 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "chaves-na-mao:48959124": {
+   "aluguel": 2190.0,
+   "dados": {
+    "aluguel": 2190.0,
+    "anunciante": "IMOBILIÁRIA NATAL",
+    "area": 71,
+    "bairro": "Vila Filipin",
+    "condominio": 500.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 591,
+    "minutos": 8.0,
+    "numero": "1000",
+    "quartos": 2,
+    "rua": "Rua Amapá",
+    "titulo": "Locação ed novitta , totalmente mobiliado, prox terminal central, 2 quartos, 1 suite, 2 banheiros ,",
+    "total": 2690.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-filipin-RS2190/id-48959124/",
+    "vagas": 1
+   },
+   "desde": "2026-11-17",
+   "ok": true,
+   "visto": "2026-11-17"
+  },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
    "desde": "2026-11-15",
@@ -5290,6 +5314,13 @@
    "ok": false,
    "visto": "2026-11-15"
   },
+  "cmsouza:AP6931": {
+   "aluguel": 5400.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "cmsouza:AP6936": {
    "aluguel": 7500.0,
    "desde": "2026-11-15",
@@ -5330,7 +5361,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-17"
   },
   "cmsouza:AP6960": {
    "aluguel": 4600.0,
@@ -8940,12 +8971,40 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "imobiliaria-raul-fulgencio:23591": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "imobiliaria-raul-fulgencio:23592": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
+  "imobiliaria-raul-fulgencio:23593": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-17",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "imobiliaria-raul-fulgencio:348": {
    "aluguel": 2350.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-13"
+  },
+  "imobiliaria-raul-fulgencio:6773": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-17",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-17"
   },
   "imobiliaria-raul-fulgencio:7628": {
    "aluguel": 8500.0,
@@ -12447,6 +12506,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "premier-imoveis:AP1523": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-17",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "premier-imoveis:AP1525": {
    "aluguel": 1600.0,
    "desde": "2026-11-14",
@@ -13731,12 +13797,8 @@
   }
  },
  "falhas": {
-  "88 Imóveis": 1,
-  "CRV Imobiliária": 1,
-  "Human Imóveis": 1,
-  "Imobiliária Inglaterra": 78,
-  "Imobiliária Natal": 1,
-  "Sérgio Cortez Imóveis": 1
+  "Human Imóveis": 2,
+  "Imobiliária Inglaterra": 79
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14312,7 +14374,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794918973
+  "Catuaí Imóveis": 1794923445
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
