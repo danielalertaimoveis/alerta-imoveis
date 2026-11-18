@@ -13986,17 +13986,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 4,
-  "Camponesa Imóveis": 4,
-  "Human Imóveis": 1,
-  "Imob3M": 4,
-  "Imobiliária Europa": 4,
-  "Imobiliária Humaitá": 4,
-  "Imobiliária Inglaterra": 95,
-  "Imobiliária Londrina Norte": 4,
-  "Imobiliária Monaco": 4,
-  "Imobiliária WN": 4,
-  "RD One": 4
+  "Barreto Imóveis": 5,
+  "Camponesa Imóveis": 5,
+  "Imob3M": 5,
+  "Imobiliária Europa": 5,
+  "Imobiliária Humaitá": 5,
+  "Imobiliária Inglaterra": 96,
+  "Imobiliária Londrina Norte": 5,
+  "Imobiliária Monaco": 5,
+  "Imobiliária WN": 5,
+  "RD One": 5
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14572,7 +14571,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794981466
+  "Catuaí Imóveis": 1794985383
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
