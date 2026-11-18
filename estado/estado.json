@@ -4975,7 +4975,7 @@
    "visto": "2026-11-18"
   },
   "cmsouza:AP3005": {
-   "aluguel": 2700.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
@@ -14072,16 +14072,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 11,
-  "Camponesa Imóveis": 11,
-  "Imob3M": 11,
-  "Imobiliária Europa": 11,
-  "Imobiliária Humaitá": 11,
-  "Imobiliária Inglaterra": 102,
-  "Imobiliária Londrina Norte": 11,
-  "Imobiliária Monaco": 11,
-  "Imobiliária WN": 11,
-  "RD One": 11
+  "Barreto Imóveis": 12,
+  "Camponesa Imóveis": 12,
+  "Imob3M": 12,
+  "Imobiliária Europa": 12,
+  "Imobiliária Humaitá": 12,
+  "Imobiliária Inglaterra": 103,
+  "Imobiliária Londrina Norte": 12,
+  "Imobiliária Monaco": 12,
+  "Imobiliária WN": 12,
+  "RD One": 12
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14665,7 +14665,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795010413
+  "Catuaí Imóveis": 1795013429
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
