@@ -2486,7 +2486,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:17628175": {
    "aluguel": 2400.0,
@@ -3092,7 +3092,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:42814674": {
    "aluguel": 2500.0,
@@ -3245,16 +3245,34 @@
   },
   "chaves-na-mao:44250260": {
    "aluguel": 2300.0,
+   "dados": {
+    "aluguel": 2300.0,
+    "anunciante": "AG PRIME IMOVEIS",
+    "area": 70,
+    "bairro": "Centro",
+    "condominio": 650.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 618,
+    "minutos": 8.3,
+    "numero": "500",
+    "quartos": 3,
+    "rua": "Rua Mossoró",
+    "titulo": "Apartamento para venda e locacao - Spot Residence",
+    "total": 2950.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-104m2-RS2300/id-44250260/",
+    "vagas": 2
+   },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-13"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:44319093": {
    "aluguel": 2699.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:44409942": {
    "aluguel": 3000.0,
@@ -3521,8 +3539,9 @@
   "chaves-na-mao:45270444": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
-   "ok": true,
-   "visto": "2026-11-13"
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:45385248": {
    "aluguel": 2600.0,
@@ -3895,7 +3914,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:46751142": {
    "aluguel": 1980.0,
@@ -4172,9 +4191,27 @@
   },
   "chaves-na-mao:47772787": {
    "aluguel": 2300.0,
+   "dados": {
+    "aluguel": 2300.0,
+    "anunciante": "CENTURY 21 CLASS IMÓVEIS",
+    "area": 57,
+    "bairro": "Centro",
+    "condominio": 490.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 618,
+    "minutos": 8.3,
+    "numero": "500",
+    "quartos": 3,
+    "rua": "Rua Mossoró",
+    "titulo": "Apartamento para alugar em Londrina, Centro, com 3 quartos, com 57 m², Spot Centro Residence",
+    "total": 2790.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-85m2-RS2300/id-47772787/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-13"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:47775392": {
    "aluguel": 2600.0,
@@ -4895,6 +4932,13 @@
    },
    "desde": "2026-11-13",
    "ok": true,
+   "visto": "2026-11-18"
+  },
+  "chaves-na-mao:48863817": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-18",
+   "motivo": "total acima do limite",
+   "ok": false,
    "visto": "2026-11-18"
   },
   "chaves-na-mao:48863822": {
@@ -13916,7 +13960,6 @@
   }
  },
  "cnm_grupos": {
-  "19/187624/297063": 9,
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
   "approx:19/187611/297065": 34
@@ -14194,16 +14237,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 20,
-  "Camponesa Imóveis": 20,
-  "Imob3M": 20,
-  "Imobiliária Europa": 20,
-  "Imobiliária Humaitá": 20,
-  "Imobiliária Inglaterra": 111,
-  "Imobiliária Londrina Norte": 20,
-  "Imobiliária Monaco": 20,
-  "Imobiliária WN": 20,
-  "RD One": 20
+  "Barreto Imóveis": 21,
+  "Camponesa Imóveis": 21,
+  "Imob3M": 21,
+  "Imobiliária Europa": 21,
+  "Imobiliária Humaitá": 21,
+  "Imobiliária Inglaterra": 112,
+  "Imobiliária Londrina Norte": 21,
+  "Imobiliária Monaco": 21,
+  "Imobiliária WN": 21,
+  "RD One": 21
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14799,7 +14842,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795040591
+  "Catuaí Imóveis": 1795043872
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
