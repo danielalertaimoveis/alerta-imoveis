@@ -2063,7 +2063,7 @@
    "visto": "2026-11-18"
   },
   "century-21-class:AP12340": {
-   "aluguel": 2700.0,
+   "aluguel": 2500.0,
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
@@ -9235,6 +9235,13 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-raul-fulgencio:23610": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-18",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "imobiliaria-raul-fulgencio:348": {
    "aluguel": 2350.0,
    "desde": "2026-11-12",
@@ -14187,16 +14194,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 18,
-  "Camponesa Imóveis": 18,
-  "Imob3M": 18,
-  "Imobiliária Europa": 18,
-  "Imobiliária Humaitá": 18,
-  "Imobiliária Inglaterra": 109,
-  "Imobiliária Londrina Norte": 18,
-  "Imobiliária Monaco": 18,
-  "Imobiliária WN": 18,
-  "RD One": 18
+  "Barreto Imóveis": 19,
+  "Camponesa Imóveis": 19,
+  "Imob3M": 19,
+  "Imobiliária Europa": 19,
+  "Imobiliária Humaitá": 19,
+  "Imobiliária Inglaterra": 110,
+  "Imobiliária Londrina Norte": 19,
+  "Imobiliária Monaco": 19,
+  "Imobiliária WN": 19,
+  "RD One": 19
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14792,7 +14799,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795033931
+  "Catuaí Imóveis": 1795037439
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
