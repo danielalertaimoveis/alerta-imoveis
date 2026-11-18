@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-17": 11,
-  "2026-11-18": 4
+  "2026-11-18": 5
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -175,6 +175,29 @@
     "vagas": 1
    },
    "desde": "2026-11-12",
+   "ok": true,
+   "visto": "2026-11-18"
+  },
+  "88-imoveis:AP3151_OOIMOB": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 Imóveis",
+    "area": 66,
+    "bairro": "Centro",
+    "condominio": 450.0,
+    "fonte": "88 Imóveis",
+    "metros": 1054,
+    "minutos": 14.2,
+    "numero": "250",
+    "quartos": 3,
+    "rua": "Rua Prefeito Hugo Cabral",
+    "titulo": "Apartamento 3 dormitório e 1 suíte para locação por R$ 2500,00 - Centro - Londrina, PR",
+    "total": 2950.0,
+    "url": "https://www.88imoveis.com.br/imovel/apartamento/locacao/londrina/pr/centro/AP3151_OOIMOB",
+    "vagas": 1
+   },
+   "desde": "2026-11-18",
    "ok": true,
    "visto": "2026-11-18"
   },
@@ -14136,17 +14159,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 16,
-  "Camponesa Imóveis": 16,
-  "Imob3M": 16,
-  "Imobiliária Europa": 16,
-  "Imobiliária Humaitá": 16,
-  "Imobiliária Inglaterra": 107,
-  "Imobiliária Londrina Norte": 16,
-  "Imobiliária Monaco": 16,
-  "Imobiliária WN": 16,
-  "Patrimônio Imóveis": 1,
-  "RD One": 16
+  "Barreto Imóveis": 17,
+  "Camponesa Imóveis": 17,
+  "Imob3M": 17,
+  "Imobiliária Europa": 17,
+  "Imobiliária Humaitá": 17,
+  "Imobiliária Inglaterra": 108,
+  "Imobiliária Londrina Norte": 17,
+  "Imobiliária Monaco": 17,
+  "Imobiliária WN": 17,
+  "RD One": 17
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14680,6 +14702,10 @@
    16.4,
    1221
   ],
+  "-23.31082,-51.16384": [
+   14.2,
+   1054
+  ],
   "-23.31086,-51.16855": [
    15.2,
    1141
@@ -14738,7 +14764,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795026885
+  "Catuaí Imóveis": 1795030699
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
