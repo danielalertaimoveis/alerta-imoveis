@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-17": 11,
-  "2026-11-18": 3
+  "2026-11-18": 4
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -5212,6 +5212,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "cmsouza:AP6093": {
+   "aluguel": 3650.0,
+   "desde": "2026-11-18",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "cmsouza:AP6149": {
    "aluguel": 4000.0,
    "desde": "2026-11-12",
@@ -9163,6 +9170,13 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-raul-fulgencio:23598": {
+   "aluguel": 5100.0,
+   "desde": "2026-11-18",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "imobiliaria-raul-fulgencio:23600": {
    "aluguel": 2700.0,
    "desde": "2026-11-17",
@@ -11253,6 +11267,30 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
+   "visto": "2026-11-18"
+  },
+  "imobiliaria-veneza:09949.001": {
+   "aluguel": 1500.0,
+   "dados": {
+    "aluguel": 1500.0,
+    "anunciante": "Imobiliária Veneza",
+    "area": 87,
+    "avisos": [
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Veneza",
+    "metros": 1052,
+    "minutos": 14.0,
+    "numero": "840",
+    "quartos": 2,
+    "rua": "R. Belo Horizonte",
+    "total": 1500.0,
+    "url": "https://www.veneza.com.br/imovel/apartamento-2-quartos-centro-londrina-1-vaga-87m2-locacao-rs-1500/5770/09949.001",
+    "vagas": 1
+   },
+   "desde": "2026-11-18",
+   "ok": true,
    "visto": "2026-11-18"
   },
   "imobiliaria-wn:AP0006-WETI": {
@@ -13831,6 +13869,11 @@
    "chave": "chaves-na-mao:46356190",
    "data": "11/11"
   },
+  "r belo horizonte|840|2|1500": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:09949.001",
+   "data": "18/11"
+  },
   "r mossoro|130|2|1950": {
    "anunciante": "Imobiliária Veneza",
    "chave": "imobiliaria-veneza:07509.002",
@@ -14093,16 +14136,17 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 15,
-  "Camponesa Imóveis": 15,
-  "Imob3M": 15,
-  "Imobiliária Europa": 15,
-  "Imobiliária Humaitá": 15,
-  "Imobiliária Inglaterra": 106,
-  "Imobiliária Londrina Norte": 15,
-  "Imobiliária Monaco": 15,
-  "Imobiliária WN": 15,
-  "RD One": 15
+  "Barreto Imóveis": 16,
+  "Camponesa Imóveis": 16,
+  "Imob3M": 16,
+  "Imobiliária Europa": 16,
+  "Imobiliária Humaitá": 16,
+  "Imobiliária Inglaterra": 107,
+  "Imobiliária Londrina Norte": 16,
+  "Imobiliária Monaco": 16,
+  "Imobiliária WN": 16,
+  "Patrimônio Imóveis": 1,
+  "RD One": 16
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14160,6 +14204,10 @@
   "mato grosso londrina": [
    -23.3164302,
    -51.1564031
+  ],
+  "r belo horizonte londrina": [
+   -23.318011,
+   -51.1666727
   ],
   "r mossoro londrina": [
    -23.3065968,
@@ -14656,6 +14704,10 @@
    14.6,
    1097
   ],
+  "-23.31169,-51.16686": [
+   14.0,
+   1052
+  ],
   "-23.31170,-51.16797": [
    15.5,
    1163
@@ -14686,7 +14738,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795023769
+  "Catuaí Imóveis": 1795026885
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
