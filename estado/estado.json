@@ -13986,8 +13986,16 @@
   }
  },
  "falhas": {
-  "Human Imóveis": 2,
-  "Imobiliária Inglaterra": 91
+  "Barreto Imóveis": 1,
+  "Camponesa Imóveis": 1,
+  "Imob3M": 1,
+  "Imobiliária Europa": 1,
+  "Imobiliária Humaitá": 1,
+  "Imobiliária Inglaterra": 92,
+  "Imobiliária Londrina Norte": 1,
+  "Imobiliária Monaco": 1,
+  "Imobiliária WN": 1,
+  "RD One": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14563,7 +14571,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794963511
+  "Catuaí Imóveis": 1794968046
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
