@@ -2246,11 +2246,11 @@
    "visto": "2026-11-12"
   },
   "century-21-class:AP7459": {
-   "aluguel": 3210.0,
+   "aluguel": 3200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "century-21-class:AP7495": {
    "aluguel": 2500.0,
@@ -3581,7 +3581,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-18"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -10614,6 +10614,13 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-santamerica:56344": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-18",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -14015,16 +14022,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 9,
-  "Camponesa Imóveis": 9,
-  "Imob3M": 9,
-  "Imobiliária Europa": 9,
-  "Imobiliária Humaitá": 9,
-  "Imobiliária Inglaterra": 100,
-  "Imobiliária Londrina Norte": 9,
-  "Imobiliária Monaco": 9,
-  "Imobiliária WN": 9,
-  "RD One": 9
+  "Barreto Imóveis": 10,
+  "Camponesa Imóveis": 10,
+  "Imob3M": 10,
+  "Imobiliária Europa": 10,
+  "Imobiliária Humaitá": 10,
+  "Imobiliária Inglaterra": 101,
+  "Imobiliária Londrina Norte": 10,
+  "Imobiliária Monaco": 10,
+  "Imobiliária WN": 10,
+  "RD One": 10
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14608,7 +14615,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795002714
+  "Catuaí Imóveis": 1795006054
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
