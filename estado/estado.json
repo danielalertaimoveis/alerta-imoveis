@@ -1,8 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-16": 2,
   "2026-11-17": 11,
-  "2026-11-18": 1
+  "2026-11-18": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -4450,9 +4449,9 @@
    "visto": "2026-11-18"
   },
   "chaves-na-mao:48511894": {
-   "aluguel": 2350.0,
+   "aluguel": 2200.0,
    "dados": {
-    "aluguel": 2350.0,
+    "aluguel": 2200.0,
     "anunciante": "IMOBILIÁRIA RAUL FULGENCIO",
     "area": 70,
     "avisos": [
@@ -4465,8 +4464,8 @@
     "minutos": 13.6,
     "quartos": 3,
     "titulo": "Apartamento 3 quartos sendo uma suite para alugar na regiao Central de Londrina",
-    "total": 2800.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-124m2-RS2350/id-48511894/",
+    "total": 2650.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-filipin-124m2-RS2200/id-48511894/",
     "vagas": 1
    },
    "desde": "2026-11-17",
@@ -14016,16 +14015,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 8,
-  "Camponesa Imóveis": 8,
-  "Imob3M": 8,
-  "Imobiliária Europa": 8,
-  "Imobiliária Humaitá": 8,
-  "Imobiliária Inglaterra": 99,
-  "Imobiliária Londrina Norte": 8,
-  "Imobiliária Monaco": 8,
-  "Imobiliária WN": 8,
-  "RD One": 8
+  "Barreto Imóveis": 9,
+  "Camponesa Imóveis": 9,
+  "Imob3M": 9,
+  "Imobiliária Europa": 9,
+  "Imobiliária Humaitá": 9,
+  "Imobiliária Inglaterra": 100,
+  "Imobiliária Londrina Norte": 9,
+  "Imobiliária Monaco": 9,
+  "Imobiliária WN": 9,
+  "RD One": 9
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14609,8 +14608,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794999189
+  "Catuaí Imóveis": 1795002714
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
- "ultimo_status": "2026-11-17"
+ "ultimo_status": "2026-11-18"
 }
