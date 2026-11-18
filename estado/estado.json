@@ -201,6 +201,13 @@
    "ok": true,
    "visto": "2026-11-18"
   },
+  "88-imoveis:AP3152_OOIMOB": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-18",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "ag-prime-imoveis:554": {
    "aluguel": 5200.0,
    "desde": "2026-11-14",
@@ -2051,6 +2058,20 @@
   "century-21-class:AP12339": {
    "aluguel": 2700.0,
    "desde": "2026-11-17",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
+  "century-21-class:AP12340": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-18",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
+  "century-21-class:AP12342": {
+   "aluguel": 1750.0,
+   "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-18"
@@ -10722,6 +10743,13 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-santamerica:56354": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-18",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -14159,16 +14187,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 17,
-  "Camponesa Imóveis": 17,
-  "Imob3M": 17,
-  "Imobiliária Europa": 17,
-  "Imobiliária Humaitá": 17,
-  "Imobiliária Inglaterra": 108,
-  "Imobiliária Londrina Norte": 17,
-  "Imobiliária Monaco": 17,
-  "Imobiliária WN": 17,
-  "RD One": 17
+  "Barreto Imóveis": 18,
+  "Camponesa Imóveis": 18,
+  "Imob3M": 18,
+  "Imobiliária Europa": 18,
+  "Imobiliária Humaitá": 18,
+  "Imobiliária Inglaterra": 109,
+  "Imobiliária Londrina Norte": 18,
+  "Imobiliária Monaco": 18,
+  "Imobiliária WN": 18,
+  "RD One": 18
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14764,7 +14792,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795030699
+  "Catuaí Imóveis": 1795033931
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
