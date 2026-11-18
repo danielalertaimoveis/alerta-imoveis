@@ -1834,6 +1834,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP12221": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-17",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-17"
+  },
   "century-21-class:AP12226": {
    "aluguel": 6500.0,
    "desde": "2026-11-11",
@@ -13979,7 +13986,8 @@
   }
  },
  "falhas": {
-  "Imobiliária Inglaterra": 89
+  "Human Imóveis": 1,
+  "Imobiliária Inglaterra": 90
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14555,7 +14563,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1794957588
+  "Catuaí Imóveis": 1794960473
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-17"
