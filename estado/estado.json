@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-17": 11,
-  "2026-11-18": 2
+  "2026-11-18": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1993,6 +1993,13 @@
   "century-21-class:AP12335": {
    "aluguel": 4500.0,
    "desde": "2026-11-16",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
+  "century-21-class:AP12336": {
+   "aluguel": 12000.0,
+   "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-18"
@@ -4968,7 +4975,7 @@
    "visto": "2026-11-18"
   },
   "cmsouza:AP3005": {
-   "aluguel": 2900.0,
+   "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
@@ -5510,6 +5517,13 @@
    "aluguel": 2600.0,
    "desde": "2026-11-16",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
+  "cmsouza:AP7003": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-18",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-18"
   },
@@ -10621,6 +10635,35 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-santamerica:56345": {
+   "aluguel": 2700.0,
+   "dados": {
+    "aluguel": 2700.0,
+    "anunciante": "Imobiliária Santamérica",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "elevador": true,
+    "fonte": "Imobiliária Santamérica",
+    "quartos": 2,
+    "titulo": "Apartamento para locação no Edifício Venice Downtown, Centro de Londrina",
+    "total": 2700.0,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Centro/56345",
+    "vagas": 1
+   },
+   "desde": "2026-11-18",
+   "ok": true,
+   "visto": "2026-11-18"
+  },
+  "imobiliaria-santamerica:56347": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-18",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-18"
+  },
   "imobiliaria-senador:AP0105": {
    "aluguel": 1250.0,
    "desde": "2026-11-12",
@@ -10824,7 +10867,7 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-18"
   },
   "imobiliaria-senador:AP1148": {
    "aluguel": 3300.0,
@@ -10982,6 +11025,13 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-14"
+  },
+  "imobiliaria-veneza:06287.001": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-18",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-18"
   },
   "imobiliaria-veneza:06783.001": {
    "aluguel": 1650.0,
@@ -14022,16 +14072,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 10,
-  "Camponesa Imóveis": 10,
-  "Imob3M": 10,
-  "Imobiliária Europa": 10,
-  "Imobiliária Humaitá": 10,
-  "Imobiliária Inglaterra": 101,
-  "Imobiliária Londrina Norte": 10,
-  "Imobiliária Monaco": 10,
-  "Imobiliária WN": 10,
-  "RD One": 10
+  "Barreto Imóveis": 11,
+  "Camponesa Imóveis": 11,
+  "Imob3M": 11,
+  "Imobiliária Europa": 11,
+  "Imobiliária Humaitá": 11,
+  "Imobiliária Inglaterra": 102,
+  "Imobiliária Londrina Norte": 11,
+  "Imobiliária Monaco": 11,
+  "Imobiliária WN": 11,
+  "RD One": 11
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14615,7 +14665,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795006054
+  "Catuaí Imóveis": 1795010413
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
