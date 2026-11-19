@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-18": 5,
-  "2026-11-19": 2
+  "2026-11-19": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1744,6 +1744,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-17"
+  },
+  "century-21-class:AP12010": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
   },
   "century-21-class:AP12045": {
    "aluguel": 7000.0,
@@ -5510,6 +5517,20 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "cmsouza:AP6855": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "cmsouza:AP6860": {
+   "aluguel": 3350.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "cmsouza:AP6863": {
    "aluguel": 2400.0,
    "desde": "2026-11-12",
@@ -5694,6 +5715,13 @@
   },
   "cmsouza:AP7006": {
    "aluguel": 4500.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "cmsouza:AP7008": {
+   "aluguel": 6950.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -6584,6 +6612,26 @@
     "vagas": 1
    },
    "desde": "2026-11-11",
+   "ok": true,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-atual:10141.001": {
+   "aluguel": 1500.0,
+   "dados": {
+    "aluguel": 1500.0,
+    "anunciante": "Imobiliária Atual",
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Atual",
+    "quartos": 2,
+    "total": 1500.0,
+    "url": "https://www.imobiliariaatual.com.br/imovel/apartamento-2-quartos-centro-londrina-com-garagem-locacao-rs-1500",
+    "vagas": 1
+   },
+   "desde": "2026-11-19",
    "ok": true,
    "visto": "2026-11-19"
   },
@@ -9388,6 +9436,13 @@
    "aluguel": 2100.0,
    "desde": "2026-11-19",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-raul-fulgencio:23620": {
+   "aluguel": 8000.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
@@ -12427,6 +12482,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "jr3-negocios-imobiliarios:191470": {
+   "aluguel": 6800.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -14375,18 +14437,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 38,
-  "Camponesa Imóveis": 38,
-  "Imob3M": 38,
-  "Imobiliária Europa": 38,
-  "Imobiliária Humaitá": 38,
-  "Imobiliária Inglaterra": 129,
-  "Imobiliária Londrina Norte": 38,
-  "Imobiliária Monaco": 38,
-  "Imobiliária Santamérica": 5,
-  "Imobiliária WN": 38,
-  "Patrimônio Imóveis": 5,
-  "RD One": 38
+  "Barreto Imóveis": 39,
+  "Camponesa Imóveis": 39,
+  "Imob3M": 39,
+  "Imobiliária Europa": 39,
+  "Imobiliária Humaitá": 39,
+  "Imobiliária Inglaterra": 130,
+  "Imobiliária Londrina Norte": 39,
+  "Imobiliária Monaco": 39,
+  "Imobiliária Santamérica": 6,
+  "Imobiliária WN": 39,
+  "Patrimônio Imóveis": 6,
+  "RD One": 39
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14990,7 +15052,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795110513
+  "Catuaí Imóveis": 1795113727
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
