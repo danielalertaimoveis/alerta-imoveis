@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-18": 5,
-  "2026-11-19": 3
+  "2026-11-19": 4
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -8973,6 +8973,29 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-natal:AP0204_NATA": {
+   "aluguel": 1500.0,
+   "dados": {
+    "aluguel": 1500.0,
+    "anunciante": "Imobiliária Natal",
+    "area": 0,
+    "bairro": "Jardim Agari",
+    "condominio": 365.0,
+    "fonte": "Imobiliária Natal",
+    "metros": 662,
+    "minutos": 8.8,
+    "numero": "169",
+    "quartos": 3,
+    "rua": "Rua Porto Alegre",
+    "titulo": "Apartamento Residencial para locação, Jardim Agari, Londrina - AP0106.",
+    "total": 1865.0,
+    "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/jardim-agari/AP0204_NATA",
+    "vagas": 1
+   },
+   "desde": "2026-11-19",
+   "ok": true,
+   "visto": "2026-11-19"
+  },
   "imobiliaria-natal:AP0428_NATA": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
@@ -9455,6 +9478,13 @@
   },
   "imobiliaria-raul-fulgencio:23621": {
    "aluguel": 5500.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-raul-fulgencio:23623": {
+   "aluguel": 6800.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -13063,7 +13093,7 @@
    "visto": "2026-11-18"
   },
   "premier-imoveis:AP1473": {
-   "aluguel": 4200.0,
+   "aluguel": 4195.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -14364,6 +14394,11 @@
    "chave": "88-imoveis:AP3133_OOIMOB",
    "data": "12/11"
   },
+  "rua porto alegre|169|3|1500": {
+   "anunciante": "Imobiliária Natal",
+   "chave": "imobiliaria-natal:AP0204_NATA",
+   "data": "19/11"
+  },
   "rua prefeito hugo cabral|238|2|2600": {
    "anunciante": "Chaves na Mão",
    "chave": "chaves-na-mao:47775392",
@@ -14451,18 +14486,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 40,
-  "Camponesa Imóveis": 40,
-  "Imob3M": 40,
-  "Imobiliária Europa": 40,
-  "Imobiliária Humaitá": 40,
-  "Imobiliária Inglaterra": 131,
-  "Imobiliária Londrina Norte": 40,
-  "Imobiliária Monaco": 40,
-  "Imobiliária Santamérica": 7,
-  "Imobiliária WN": 40,
-  "Patrimônio Imóveis": 7,
-  "RD One": 40
+  "Barreto Imóveis": 41,
+  "Camponesa Imóveis": 41,
+  "Imob3M": 41,
+  "Imobiliária Europa": 41,
+  "Imobiliária Humaitá": 41,
+  "Imobiliária Inglaterra": 132,
+  "Imobiliária Londrina Norte": 41,
+  "Imobiliária Monaco": 41,
+  "Imobiliária Santamérica": 8,
+  "Imobiliária WN": 41,
+  "Patrimônio Imóveis": 8,
+  "RD One": 41
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14727,6 +14762,10 @@
   "-23.30037,-51.16026": [
    13.7,
    1022
+  ],
+  "-23.30106,-51.17204": [
+   8.8,
+   662
   ],
   "-23.30180,-51.16006": [
    13.0,
@@ -15066,7 +15105,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795117770
+  "Catuaí Imóveis": 1795120799
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
