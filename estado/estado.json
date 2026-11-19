@@ -1788,11 +1788,11 @@
    "visto": "2026-11-12"
   },
   "century-21-class:AP12117": {
-   "aluguel": 3001.01,
+   "aluguel": 2500.0,
    "desde": "2026-11-11",
-   "motivo": "aluguel acima do limite",
+   "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-16"
+   "visto": "2026-11-19"
   },
   "century-21-class:AP12120": {
    "aluguel": 3000.0,
@@ -1802,7 +1802,7 @@
    "visto": "2026-11-19"
   },
   "century-21-class:AP12159": {
-   "aluguel": 2601.01,
+   "aluguel": 2500.0,
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
    "ok": false,
@@ -2098,7 +2098,7 @@
    "visto": "2026-11-13"
   },
   "century-21-class:AP2296": {
-   "aluguel": 2700.0,
+   "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
@@ -9122,6 +9122,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "imobiliaria-perez:5817": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-19",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "imobiliaria-perez:6349": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
@@ -9208,6 +9215,13 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-17"
+  },
+  "imobiliaria-raul-fulgencio:200": {
+   "aluguel": 1950.0,
+   "desde": "2026-11-19",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
   },
   "imobiliaria-raul-fulgencio:23195": {
    "aluguel": 5200.0,
@@ -9318,6 +9332,13 @@
    "aluguel": 2400.0,
    "desde": "2026-11-17",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-raul-fulgencio:23608": {
+   "aluguel": 6780.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
@@ -12357,6 +12378,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "jr3-negocios-imobiliarios:191468": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-19",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -14305,16 +14333,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 33,
-  "Camponesa Imóveis": 33,
-  "Imob3M": 33,
-  "Imobiliária Europa": 33,
-  "Imobiliária Humaitá": 33,
-  "Imobiliária Inglaterra": 124,
-  "Imobiliária Londrina Norte": 33,
-  "Imobiliária Monaco": 33,
-  "Imobiliária WN": 33,
-  "RD One": 33
+  "Barreto Imóveis": 34,
+  "Camponesa Imóveis": 34,
+  "Imob3M": 34,
+  "Imobiliária Europa": 34,
+  "Imobiliária Humaitá": 34,
+  "Imobiliária Inglaterra": 125,
+  "Imobiliária Londrina Norte": 34,
+  "Imobiliária Monaco": 34,
+  "Imobiliária Santamérica": 1,
+  "Imobiliária WN": 34,
+  "Patrimônio Imóveis": 1,
+  "RD One": 34
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14918,7 +14948,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795092581
+  "Catuaí Imóveis": 1795097001
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
