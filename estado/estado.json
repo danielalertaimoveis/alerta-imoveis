@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-18": 5,
-  "2026-11-19": 4
+  "2026-11-19": 5
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -8974,9 +8974,9 @@
    "visto": "2026-11-17"
   },
   "imobiliaria-natal:AP0204_NATA": {
-   "aluguel": 1500.0,
+   "aluguel": 1400.0,
    "dados": {
-    "aluguel": 1500.0,
+    "aluguel": 1400.0,
     "anunciante": "Imobiliária Natal",
     "area": 0,
     "bairro": "Jardim Agari",
@@ -8988,7 +8988,7 @@
     "quartos": 3,
     "rua": "Rua Porto Alegre",
     "titulo": "Apartamento Residencial para locação, Jardim Agari, Londrina - AP0106.",
-    "total": 1865.0,
+    "total": 1765.0,
     "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/jardim-agari/AP0204_NATA",
     "vagas": 1
    },
@@ -14394,6 +14394,11 @@
    "chave": "88-imoveis:AP3133_OOIMOB",
    "data": "12/11"
   },
+  "rua porto alegre|169|3|1400": {
+   "anunciante": "Imobiliária Natal",
+   "chave": "imobiliaria-natal:AP0204_NATA",
+   "data": "19/11"
+  },
   "rua porto alegre|169|3|1500": {
    "anunciante": "Imobiliária Natal",
    "chave": "imobiliaria-natal:AP0204_NATA",
@@ -14486,18 +14491,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 41,
-  "Camponesa Imóveis": 41,
-  "Imob3M": 41,
-  "Imobiliária Europa": 41,
-  "Imobiliária Humaitá": 41,
-  "Imobiliária Inglaterra": 132,
-  "Imobiliária Londrina Norte": 41,
-  "Imobiliária Monaco": 41,
-  "Imobiliária Santamérica": 8,
-  "Imobiliária WN": 41,
-  "Patrimônio Imóveis": 8,
-  "RD One": 41
+  "Barreto Imóveis": 42,
+  "Camponesa Imóveis": 42,
+  "Imob3M": 42,
+  "Imobiliária Europa": 42,
+  "Imobiliária Humaitá": 42,
+  "Imobiliária Inglaterra": 133,
+  "Imobiliária Londrina Norte": 42,
+  "Imobiliária Monaco": 42,
+  "Imobiliária Santamérica": 9,
+  "Imobiliária WN": 42,
+  "Patrimônio Imóveis": 9,
+  "RD One": 42
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15105,7 +15110,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795120799
+  "Catuaí Imóveis": 1795123776
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
