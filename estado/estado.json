@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-17": 11,
-  "2026-11-18": 5
+  "2026-11-18": 5,
+  "2026-11-19": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1661,6 +1661,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "century-21-class:AP11547": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "century-21-class:AP11592": {
    "aluguel": 1400.0,
    "desde": "2026-11-16",
@@ -2472,7 +2479,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:15304197": {
    "aluguel": 2100.0,
@@ -2894,7 +2901,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:37033391": {
    "aluguel": 1200.0,
@@ -3029,7 +3036,7 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:41675915": {
    "aluguel": 2600.0,
@@ -3312,7 +3319,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:44866307": {
    "aluguel": 1800.0,
@@ -4100,7 +4107,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:47264452": {
    "aluguel": 2300.0,
@@ -4610,7 +4617,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:48544460": {
    "aluguel": 2000.0,
@@ -4953,7 +4960,7 @@
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "chaves-na-mao:48863948": {
    "aluguel": 2100.0,
@@ -5653,6 +5660,13 @@
   "cmsouza:AP7005": {
    "aluguel": 4700.0,
    "desde": "2026-11-18",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "cmsouza:AP7006": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
@@ -8877,30 +8891,30 @@
    "visto": "2026-11-17"
   },
   "imobiliaria-natal:AP0428_NATA": {
-   "aluguel": 2699.0,
+   "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
   "imobiliaria-natal:AP0441_NATA": {
-   "aluguel": 3499.0,
+   "aluguel": 3500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
   "imobiliaria-natal:AP0459_NATA": {
-   "aluguel": 1950.0,
+   "aluguel": 1900.0,
    "desde": "2026-11-12",
    "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-19"
   },
   "imobiliaria-natal:AP0460_NATA": {
-   "aluguel": 1950.0,
+   "aluguel": 1900.0,
    "dados": {
-    "aluguel": 1950.0,
+    "aluguel": 1900.0,
     "anunciante": "Imobiliária Natal",
     "area": 140,
     "avisos": [
@@ -8916,7 +8930,7 @@
     "minutos": 11.2,
     "quartos": 3,
     "titulo": "LOCAÇÃO APARTAMENTO REGIÃO CENTRAL DE LONDRINA, RUA BENJAMIN CONSTANT, 3 QUARTOS, 2 BANHEIRO",
-    "total": 2410.0,
+    "total": 2360.0,
     "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/centro/AP0460_NATA"
    },
    "desde": "2026-11-12",
@@ -8924,16 +8938,16 @@
    "visto": "2026-11-19"
   },
   "imobiliaria-natal:AP0517_NATA": {
-   "aluguel": 4499.0,
+   "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
   "imobiliaria-natal:AP0531_NATA": {
-   "aluguel": 2190.0,
+   "aluguel": 2200.0,
    "dados": {
-    "aluguel": 2190.0,
+    "aluguel": 2200.0,
     "anunciante": "Imobiliária Natal",
     "area": 71,
     "bairro": "Vila Filipin",
@@ -8946,7 +8960,7 @@
     "quartos": 2,
     "rua": "Rua Amapá",
     "titulo": "LOCAÇÃO ED NOVITTA , TOTALMENTE MOBILIADO, PROX TERMINAL CENTRAL, 2 QUARTOS, 1 SUITE, 2 BANHEIROS , 1 VAGA.",
-    "total": 2690.0,
+    "total": 2700.0,
     "url": "https://www.imobiliarianatal.com.br/imovel/apartamento/locacao/londrina/pr/vila-filipin/AP0531_NATA",
     "vagas": 1
    },
@@ -9319,7 +9333,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:50537": {
    "aluguel": 1800.0,
@@ -9343,7 +9357,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:50722": {
    "aluguel": 2300.0,
@@ -9365,7 +9379,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:50912": {
    "aluguel": 2700.0,
@@ -9388,7 +9402,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:51722": {
    "aluguel": 2400.0,
@@ -9411,7 +9425,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:52211": {
    "aluguel": 2200.0,
@@ -9434,21 +9448,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:53669": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:53677": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:54049": {
    "aluguel": 2700.0,
@@ -9470,7 +9484,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:54415": {
    "aluguel": 3500.0,
@@ -9506,7 +9520,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:54696": {
    "aluguel": 2400.0,
@@ -9528,7 +9542,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:54927": {
    "aluguel": 2500.0,
@@ -9551,7 +9565,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:54994": {
    "aluguel": 2800.0,
@@ -9573,7 +9587,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55269": {
    "aluguel": 2800.0,
@@ -9596,7 +9610,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-18"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55437": {
    "aluguel": 2500.0,
@@ -9822,7 +9836,7 @@
    "desde": "2026-11-15",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55821": {
    "aluguel": 4200.0,
@@ -9843,7 +9857,7 @@
    "desde": "2026-11-15",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55842": {
    "aluguel": 1600.0,
@@ -9857,14 +9871,14 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55856": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55858": {
    "aluguel": 2350.0,
@@ -9873,47 +9887,54 @@
    "ok": false,
    "visto": "2026-11-11"
   },
+  "imobiliaria-santamerica:55861": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-19",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "imobiliaria-santamerica:55867": {
    "aluguel": 3400.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55878": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55880": {
    "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55889": {
    "aluguel": 3900.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55892": {
    "aluguel": 1350.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55894": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55903": {
    "aluguel": 2800.0,
@@ -9943,42 +9964,42 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55908": {
    "aluguel": 2350.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55918": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55919": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55921": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55925": {
    "aluguel": 1300.0,
    "desde": "2026-11-15",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55930": {
    "aluguel": 2200.0,
@@ -10008,7 +10029,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55966": {
    "aluguel": 3300.0,
@@ -10022,42 +10043,42 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55982": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55994": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:55995": {
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56000": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56014": {
    "aluguel": 3100.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56016": {
    "aluguel": 2700.0,
@@ -10087,7 +10108,7 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56033": {
    "aluguel": 3800.0,
@@ -10101,49 +10122,49 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56058": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56061": {
    "aluguel": 1000.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56062": {
    "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56068": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56069": {
    "aluguel": 3200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56082": {
    "aluguel": 1350.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56083": {
    "aluguel": 4500.0,
@@ -10164,14 +10185,14 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56093": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56094": {
    "aluguel": 1100.0,
@@ -10205,14 +10226,14 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56117": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56118": {
    "aluguel": 1250.0,
@@ -10234,7 +10255,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56119": {
    "aluguel": 1600.0,
@@ -10278,7 +10299,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56133": {
    "aluguel": 3900.0,
@@ -10292,7 +10313,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56139": {
    "aluguel": 1400.0,
@@ -10306,7 +10327,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56143": {
    "aluguel": 1800.0,
@@ -10343,70 +10364,70 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56150": {
    "aluguel": 4300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56151": {
    "aluguel": 1400.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56154": {
    "aluguel": 1100.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56158": {
    "aluguel": 1850.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56161": {
    "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56165": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56166": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56167": {
    "aluguel": 1400.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56168": {
    "aluguel": 4800.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56177": {
    "aluguel": 2100.0,
@@ -10420,7 +10441,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56182": {
    "aluguel": 2400.0,
@@ -10434,35 +10455,35 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56189": {
    "aluguel": 3100.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56190": {
    "aluguel": 7500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56195": {
    "aluguel": 1100.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56196": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56199": {
    "aluguel": 2500.0,
@@ -10492,28 +10513,28 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56207": {
    "aluguel": 5200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56208": {
    "aluguel": 1300.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56211": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56221": {
    "aluguel": 4000.0,
@@ -10527,21 +10548,21 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56223": {
    "aluguel": 3600.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56226": {
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-19"
   },
   "imobiliaria-santamerica:56233": {
    "aluguel": 3500.0,
@@ -11598,28 +11619,28 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:190859": {
    "aluguel": 2800.0,
    "desde": "2026-11-14",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:190879": {
    "aluguel": 3300.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:190952": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:190953": {
    "aluguel": 3000.0,
@@ -11633,7 +11654,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:190965": {
    "aluguel": 3000.0,
@@ -11647,28 +11668,28 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191060": {
    "aluguel": 2200.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191093": {
    "aluguel": 6400.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191098": {
    "aluguel": 3600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191100": {
    "aluguel": 6300.0,
@@ -11682,7 +11703,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191113": {
    "aluguel": 10000.0,
@@ -11696,49 +11717,49 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191118": {
    "aluguel": 3500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191123": {
    "aluguel": 3800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191128": {
    "aluguel": 9850.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191135": {
    "aluguel": 4700.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191136": {
    "aluguel": 2000.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191142": {
    "aluguel": 12000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191159": {
    "aluguel": 1500.0,
@@ -11763,7 +11784,7 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191160": {
    "aluguel": 1500.0,
@@ -11788,35 +11809,35 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191161": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191177": {
    "aluguel": 6000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191183": {
    "aluguel": 5600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191185": {
    "aluguel": 5400.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191188": {
    "aluguel": 2900.0,
@@ -11830,42 +11851,42 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191201": {
    "aluguel": 4000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191204": {
    "aluguel": 4990.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191207": {
    "aluguel": 8000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191212": {
    "aluguel": 5200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191213": {
    "aluguel": 4850.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191223": {
    "aluguel": 3900.0,
@@ -11879,7 +11900,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191243": {
    "aluguel": 1800.0,
@@ -11900,7 +11921,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191277": {
    "aluguel": 4500.0,
@@ -11921,63 +11942,63 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191299": {
    "aluguel": 6200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191301": {
    "aluguel": 3800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191307": {
    "aluguel": 2600.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191309": {
    "aluguel": 6500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191310": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191314": {
    "aluguel": 3890.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191316": {
    "aluguel": 11000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191317": {
    "aluguel": 24000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191319": {
    "aluguel": 5800.0,
@@ -12012,21 +12033,21 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191343": {
    "aluguel": 6000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191344": {
    "aluguel": 4400.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191345": {
    "aluguel": 11000.0,
@@ -12040,21 +12061,21 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191358": {
    "aluguel": 3600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191360": {
    "aluguel": 14000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191363": {
    "aluguel": 4000.0,
@@ -12068,84 +12089,84 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191365": {
    "aluguel": 4200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191369": {
    "aluguel": 3500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191373": {
    "aluguel": 4990.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191374": {
    "aluguel": 2200.0,
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191375": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191383": {
    "aluguel": 4900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191385": {
    "aluguel": 6900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191389": {
    "aluguel": 15000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191392": {
    "aluguel": 14000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191394": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191401": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191402": {
    "aluguel": 1800.0,
@@ -12159,14 +12180,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191405": {
    "aluguel": 5000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191406": {
    "aluguel": 1980.0,
@@ -12180,21 +12201,21 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191408": {
    "aluguel": 5000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191409": {
    "aluguel": 7500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "jr3-negocios-imobiliarios:191412": {
    "aluguel": 1450.0,
@@ -12306,14 +12327,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:1049": {
    "aluguel": 3500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:1068": {
    "aluguel": 6200.0,
@@ -12334,7 +12355,7 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:1098": {
    "aluguel": 5500.0,
@@ -12724,56 +12745,56 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:625": {
    "aluguel": 3800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:775": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:836": {
    "aluguel": 3200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:878": {
    "aluguel": 1100.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:890": {
    "aluguel": 1850.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:936": {
    "aluguel": 2900.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:939": {
    "aluguel": 3400.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:961": {
    "aluguel": 2600.0,
@@ -12802,14 +12823,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:973": {
    "aluguel": 1750.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-19"
   },
   "patrimonio-imoveis:997": {
    "aluguel": 4500.0,
@@ -14007,6 +14028,11 @@
    "chave": "chaves-na-mao:18980817",
    "data": "11/11"
   },
+  "rua amapa|1000|2|2200": {
+   "anunciante": "Imobiliária Natal",
+   "chave": "imobiliaria-natal:AP0531_NATA",
+   "data": "19/11"
+  },
   "rua amapa|1000|2|2500": {
    "anunciante": "88 IMÓVEIS",
    "chave": "chaves-na-mao:48863797",
@@ -14244,16 +14270,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 31,
-  "Camponesa Imóveis": 31,
-  "Imob3M": 31,
-  "Imobiliária Europa": 31,
-  "Imobiliária Humaitá": 31,
-  "Imobiliária Inglaterra": 122,
-  "Imobiliária Londrina Norte": 31,
-  "Imobiliária Monaco": 31,
-  "Imobiliária WN": 31,
-  "RD One": 31
+  "Barreto Imóveis": 32,
+  "Camponesa Imóveis": 32,
+  "Imob3M": 32,
+  "Imobiliária Europa": 32,
+  "Imobiliária Humaitá": 32,
+  "Imobiliária Inglaterra": 123,
+  "Imobiliária Londrina Norte": 32,
+  "Imobiliária Monaco": 32,
+  "Imobiliária WN": 32,
+  "RD One": 32
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14857,8 +14883,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795085489
+  "Catuaí Imóveis": 1795089015
  },
- "ultimo_resumo_disponiveis": "2026-11-17",
- "ultimo_status": "2026-11-18"
+ "ultimo_resumo_disponiveis": "2026-11-19",
+ "ultimo_status": "2026-11-19"
 }
