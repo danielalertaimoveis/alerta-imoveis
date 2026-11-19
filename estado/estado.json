@@ -13962,7 +13962,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 34
+  "approx:19/187611/297065": 35
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -14237,16 +14237,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 23,
-  "Camponesa Imóveis": 23,
-  "Imob3M": 23,
-  "Imobiliária Europa": 23,
-  "Imobiliária Humaitá": 23,
-  "Imobiliária Inglaterra": 114,
-  "Imobiliária Londrina Norte": 23,
-  "Imobiliária Monaco": 23,
-  "Imobiliária WN": 23,
-  "RD One": 23
+  "Barreto Imóveis": 24,
+  "Camponesa Imóveis": 24,
+  "Imob3M": 24,
+  "Imobiliária Europa": 24,
+  "Imobiliária Humaitá": 24,
+  "Imobiliária Inglaterra": 115,
+  "Imobiliária Londrina Norte": 24,
+  "Imobiliária Monaco": 24,
+  "Imobiliária WN": 24,
+  "RD One": 24
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14842,7 +14842,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795049886
+  "Catuaí Imóveis": 1795054287
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
