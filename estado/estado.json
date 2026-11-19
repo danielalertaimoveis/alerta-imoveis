@@ -5356,6 +5356,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP6285": {
+   "aluguel": 6300.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "cmsouza:AP6351": {
    "aluguel": 5700.0,
    "desde": "2026-11-15",
@@ -10913,6 +10920,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "imobiliaria-senador:AP0217": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-19",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "imobiliaria-senador:AP0486": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
@@ -11266,7 +11280,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-19"
   },
   "imobiliaria-veneza:06287.001": {
    "aluguel": 1100.0,
@@ -14361,19 +14375,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 37,
-  "Camponesa Imóveis": 37,
-  "Imob3M": 37,
-  "Imobiliária Europa": 37,
-  "Imobiliária Humaitá": 37,
-  "Imobiliária Inglaterra": 128,
-  "Imobiliária Londrina Norte": 37,
-  "Imobiliária Monaco": 37,
-  "Imobiliária Santamérica": 4,
-  "Imobiliária WN": 37,
-  "JR3 Negócios Imobiliários": 1,
-  "Patrimônio Imóveis": 4,
-  "RD One": 37
+  "Barreto Imóveis": 38,
+  "Camponesa Imóveis": 38,
+  "Imob3M": 38,
+  "Imobiliária Europa": 38,
+  "Imobiliária Humaitá": 38,
+  "Imobiliária Inglaterra": 129,
+  "Imobiliária Londrina Norte": 38,
+  "Imobiliária Monaco": 38,
+  "Imobiliária Santamérica": 5,
+  "Imobiliária WN": 38,
+  "Patrimônio Imóveis": 5,
+  "RD One": 38
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14977,7 +14990,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795107357
+  "Catuaí Imóveis": 1795110513
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
