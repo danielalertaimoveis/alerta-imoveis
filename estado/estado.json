@@ -5048,6 +5048,13 @@
    "ok": true,
    "visto": "2026-11-19"
   },
+  "chaves-na-mao:49029568": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-19",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
    "desde": "2026-11-15",
@@ -14237,16 +14244,16 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 29,
-  "Camponesa Imóveis": 29,
-  "Imob3M": 29,
-  "Imobiliária Europa": 29,
-  "Imobiliária Humaitá": 29,
-  "Imobiliária Inglaterra": 120,
-  "Imobiliária Londrina Norte": 29,
-  "Imobiliária Monaco": 29,
-  "Imobiliária WN": 29,
-  "RD One": 29
+  "Barreto Imóveis": 30,
+  "Camponesa Imóveis": 30,
+  "Imob3M": 30,
+  "Imobiliária Europa": 30,
+  "Imobiliária Humaitá": 30,
+  "Imobiliária Inglaterra": 121,
+  "Imobiliária Londrina Norte": 30,
+  "Imobiliária Monaco": 30,
+  "Imobiliária WN": 30,
+  "RD One": 30
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14442,6 +14449,10 @@
    -23.3007454,
    -51.1670976
   ],
+  "rua tomazina londrina": [
+   -23.3035507,
+   -51.177426
+  ],
   "rua tupi londrina": [
    -23.3109707,
    -51.1680545
@@ -14587,6 +14598,10 @@
   "-23.30335,-51.17606": [
    17.3,
    1292
+  ],
+  "-23.30343,-51.17719": [
+   18.7,
+   1398
   ],
   "-23.30348,-51.17482": [
    15.5,
@@ -14842,7 +14857,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795076613
+  "Catuaí Imóveis": 1795082223
  },
  "ultimo_resumo_disponiveis": "2026-11-17",
  "ultimo_status": "2026-11-18"
