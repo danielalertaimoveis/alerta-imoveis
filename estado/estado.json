@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-18": 5,
-  "2026-11-19": 5
+  "2026-11-19": 6
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -4870,9 +4870,9 @@
    "visto": "2026-11-19"
   },
   "chaves-na-mao:48805661": {
-   "aluguel": 2400.0,
+   "aluguel": 1950.0,
    "dados": {
-    "aluguel": 2400.0,
+    "aluguel": 1950.0,
     "anunciante": "LEMOS E BARROS CORRETORES DE IMÓVEIS",
     "area": 140,
     "avisos": [
@@ -4889,8 +4889,8 @@
     "quartos": 3,
     "rua": "Rua Benjamin Constant",
     "titulo": "Apartamento para ALUGAR no centro| podendo ser locação residencial ou comercial",
-    "total": 2713.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-140m2-RS2400/id-48805661/"
+    "total": 2263.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-pr-londrina-centro-140m2-RS1950/id-48805661/"
    },
    "desde": "2026-11-12",
    "ok": true,
@@ -9204,6 +9204,13 @@
    "aluguel": 850.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-perez:5634": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
   },
@@ -14491,18 +14498,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 42,
-  "Camponesa Imóveis": 42,
-  "Imob3M": 42,
-  "Imobiliária Europa": 42,
-  "Imobiliária Humaitá": 42,
-  "Imobiliária Inglaterra": 133,
-  "Imobiliária Londrina Norte": 42,
-  "Imobiliária Monaco": 42,
-  "Imobiliária Santamérica": 9,
-  "Imobiliária WN": 42,
-  "Patrimônio Imóveis": 9,
-  "RD One": 42
+  "Barreto Imóveis": 43,
+  "Camponesa Imóveis": 43,
+  "Imob3M": 43,
+  "Imobiliária Europa": 43,
+  "Imobiliária Humaitá": 43,
+  "Imobiliária Inglaterra": 134,
+  "Imobiliária Londrina Norte": 43,
+  "Imobiliária Monaco": 43,
+  "Imobiliária Santamérica": 10,
+  "Imobiliária WN": 43,
+  "Patrimônio Imóveis": 10,
+  "RD One": 43
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15110,7 +15117,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795123776
+  "Catuaí Imóveis": 1795126859
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
