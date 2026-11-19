@@ -2297,7 +2297,7 @@
    "visto": "2026-11-19"
   },
   "century-21-class:AP6826": {
-   "aluguel": 5700.0,
+   "aluguel": 5500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -12385,6 +12385,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "jr3-negocios-imobiliarios:191469": {
+   "aluguel": 13500.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -14333,18 +14340,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 34,
-  "Camponesa Imóveis": 34,
-  "Imob3M": 34,
-  "Imobiliária Europa": 34,
-  "Imobiliária Humaitá": 34,
-  "Imobiliária Inglaterra": 125,
-  "Imobiliária Londrina Norte": 34,
-  "Imobiliária Monaco": 34,
-  "Imobiliária Santamérica": 1,
-  "Imobiliária WN": 34,
-  "Patrimônio Imóveis": 1,
-  "RD One": 34
+  "Barreto Imóveis": 35,
+  "Camponesa Imóveis": 35,
+  "Imob3M": 35,
+  "Imobiliária Europa": 35,
+  "Imobiliária Humaitá": 35,
+  "Imobiliária Inglaterra": 126,
+  "Imobiliária Londrina Norte": 35,
+  "Imobiliária Monaco": 35,
+  "Imobiliária Santamérica": 2,
+  "Imobiliária WN": 35,
+  "Patrimônio Imóveis": 2,
+  "RD One": 35
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -14948,7 +14955,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795097001
+  "Catuaí Imóveis": 1795100333
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
