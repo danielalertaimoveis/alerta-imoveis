@@ -5720,6 +5720,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "cmsouza:AP7007": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-19",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "cmsouza:AP7008": {
    "aluguel": 6950.0,
    "desde": "2026-11-19",
@@ -9441,6 +9448,13 @@
   },
   "imobiliaria-raul-fulgencio:23620": {
    "aluguel": 8000.0,
+   "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "imobiliaria-raul-fulgencio:23621": {
+   "aluguel": 5500.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -14437,18 +14451,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 39,
-  "Camponesa Imóveis": 39,
-  "Imob3M": 39,
-  "Imobiliária Europa": 39,
-  "Imobiliária Humaitá": 39,
-  "Imobiliária Inglaterra": 130,
-  "Imobiliária Londrina Norte": 39,
-  "Imobiliária Monaco": 39,
-  "Imobiliária Santamérica": 6,
-  "Imobiliária WN": 39,
-  "Patrimônio Imóveis": 6,
-  "RD One": 39
+  "Barreto Imóveis": 40,
+  "Camponesa Imóveis": 40,
+  "Imob3M": 40,
+  "Imobiliária Europa": 40,
+  "Imobiliária Humaitá": 40,
+  "Imobiliária Inglaterra": 131,
+  "Imobiliária Londrina Norte": 40,
+  "Imobiliária Monaco": 40,
+  "Imobiliária Santamérica": 7,
+  "Imobiliária WN": 40,
+  "Patrimônio Imóveis": 7,
+  "RD One": 40
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15052,7 +15066,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795113727
+  "Catuaí Imóveis": 1795117770
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
