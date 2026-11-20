@@ -4185,6 +4185,13 @@
    "ok": true,
    "visto": "2026-11-17"
   },
+  "chaves-na-mao:47609673": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-19",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
   "chaves-na-mao:47723075": {
    "aluguel": 1600.0,
    "dados": {
@@ -5085,6 +5092,13 @@
   },
   "chaves-na-mao:49036796": {
    "aluguel": 2600.0,
+   "desde": "2026-11-19",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-19"
+  },
+  "chaves-na-mao:49065137": {
+   "aluguel": 1950.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
@@ -14208,7 +14222,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 36
+  "approx:19/187611/297065": 37
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -14498,18 +14512,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 48,
-  "Camponesa Imóveis": 48,
-  "Imob3M": 48,
-  "Imobiliária Europa": 48,
-  "Imobiliária Humaitá": 48,
-  "Imobiliária Inglaterra": 139,
-  "Imobiliária Londrina Norte": 48,
-  "Imobiliária Monaco": 48,
-  "Imobiliária Santamérica": 15,
-  "Imobiliária WN": 48,
-  "Patrimônio Imóveis": 15,
-  "RD One": 48
+  "Barreto Imóveis": 49,
+  "Camponesa Imóveis": 49,
+  "Imob3M": 49,
+  "Imobiliária Europa": 49,
+  "Imobiliária Humaitá": 49,
+  "Imobiliária Inglaterra": 140,
+  "Imobiliária Londrina Norte": 49,
+  "Imobiliária Monaco": 49,
+  "Imobiliária Santamérica": 16,
+  "Imobiliária WN": 49,
+  "Patrimônio Imóveis": 16,
+  "RD One": 49
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15117,7 +15131,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795140126
+  "Catuaí Imóveis": 1795142869
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
