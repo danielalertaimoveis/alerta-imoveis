@@ -1,6 +1,5 @@
 {
  "alertas_por_dia": {
-  "2026-11-18": 5,
   "2026-11-19": 6
  },
  "anuncios": {
@@ -3686,7 +3685,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -14526,18 +14525,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 56,
-  "Camponesa Imóveis": 56,
-  "Imob3M": 56,
-  "Imobiliária Europa": 56,
-  "Imobiliária Humaitá": 56,
-  "Imobiliária Inglaterra": 147,
-  "Imobiliária Londrina Norte": 56,
-  "Imobiliária Monaco": 56,
-  "Imobiliária Santamérica": 23,
-  "Imobiliária WN": 56,
-  "Patrimônio Imóveis": 23,
-  "RD One": 56
+  "Barreto Imóveis": 57,
+  "Camponesa Imóveis": 57,
+  "Imob3M": 57,
+  "Imobiliária Europa": 57,
+  "Imobiliária Humaitá": 57,
+  "Imobiliária Inglaterra": 148,
+  "Imobiliária Londrina Norte": 57,
+  "Imobiliária Monaco": 57,
+  "Imobiliária Santamérica": 24,
+  "Imobiliária WN": 57,
+  "Patrimônio Imóveis": 24,
+  "RD One": 57
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15145,8 +15144,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795171912
+  "Catuaí Imóveis": 1795175303
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
- "ultimo_status": "2026-11-19"
+ "ultimo_status": "2026-11-20"
 }
