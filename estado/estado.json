@@ -9,7 +9,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP0345_OOIMOB": {
    "aluguel": 1700.0,
@@ -32,7 +32,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP1149_OOIMOB": {
    "aluguel": 2500.0,
@@ -58,7 +58,7 @@
    },
    "desde": "2026-11-13",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP1733_OOIMOB": {
    "aluguel": 2500.0,
@@ -82,70 +82,70 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP1904_OOIMOB": {
    "aluguel": 2750.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP1953_OOIMOB": {
    "aluguel": 3500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2017_OOIMOB": {
    "aluguel": 8700.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2088_OOIMOB": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2188_OOIMOB": {
    "aluguel": 1700.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2238_OOIMOB": {
    "aluguel": 2600.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2753_OOIMOB": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP2838_OOIMOB": {
    "aluguel": 2900.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP3078_OOIMOB": {
    "aluguel": 2100.0,
    "desde": "2026-11-12",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP3117_OOIMOB": {
    "aluguel": 1400.0,
@@ -176,7 +176,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP3151_OOIMOB": {
    "aluguel": 2500.0,
@@ -199,21 +199,21 @@
    },
    "desde": "2026-11-18",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "88-imoveis:AP3152_OOIMOB": {
    "aluguel": 1500.0,
    "desde": "2026-11-18",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:554": {
    "aluguel": 5200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:609": {
    "aluguel": 5000.0,
@@ -227,42 +227,42 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:623": {
    "aluguel": 16000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:643": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:646": {
    "aluguel": 8000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:650": {
    "aluguel": 1700.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "ag-prime-imoveis:651": {
    "aluguel": 3200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP0912-BAUV": {
    "aluguel": 5800.0,
@@ -1433,28 +1433,28 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-a-venda-e-locacao-sunset-boulevard-londrina": {
    "aluguel": 5800.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-aqua-jardim-londrina-3": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-arkadia-londrina": {
    "aluguel": 10200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-coimbra-londrina": {
    "aluguel": 3200.0,
@@ -1468,84 +1468,84 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-manhattan-residence-londrina": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-odyssey-londrina-7": {
    "aluguel": 4400.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-residencial-florenza-londrina": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-santos-1250-londrina": {
    "aluguel": 4100.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-slaviero-flat-hotel-londrina": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-solar-rembrandt-londrina": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-3": {
    "aluguel": 2990.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-5": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-spot-residence-londrina-6": {
    "aluguel": 2750.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "catuai-imoveis:apartamento-para-alugar-terralis-jardin-londrina-3": {
    "aluguel": 2950.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP0425": {
    "aluguel": 3650.0,
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP0474": {
    "aluguel": 2310.0,
@@ -1652,28 +1652,28 @@
    },
    "desde": "2026-11-13",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11540": {
    "aluguel": 2500.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11547": {
    "aluguel": 3500.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11562": {
    "aluguel": 1700.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11592": {
    "aluguel": 1400.0,
@@ -1722,21 +1722,21 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11992": {
    "aluguel": 4500.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP11993": {
    "aluguel": 3950.0,
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12007": {
    "aluguel": 10001.01,
@@ -1750,21 +1750,21 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12045": {
    "aluguel": 7000.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12063": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12079": {
    "aluguel": 3500.0,
@@ -1799,49 +1799,49 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12120": {
    "aluguel": 3000.0,
    "desde": "2026-11-17",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12159": {
    "aluguel": 2500.0,
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12161": {
    "aluguel": 2800.0,
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12165": {
    "aluguel": 6300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12167": {
    "aluguel": 2101.01,
    "desde": "2026-11-14",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12168": {
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12169": {
    "aluguel": 3801.01,
@@ -1862,7 +1862,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12202": {
    "aluguel": 4700.0,
@@ -1883,7 +1883,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12209": {
    "aluguel": 1300.0,
@@ -1897,7 +1897,7 @@
    "desde": "2026-11-17",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12226": {
    "aluguel": 6500.0,
@@ -1941,7 +1941,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12256": {
    "aluguel": 1700.0,
@@ -1962,7 +1962,7 @@
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12273": {
    "aluguel": 3800.0,
@@ -2011,7 +2011,7 @@
    "desde": "2026-11-17",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12310": {
    "aluguel": 3900.0,
@@ -2032,7 +2032,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12325": {
    "aluguel": 3300.0,
@@ -2067,35 +2067,35 @@
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12337": {
    "aluguel": 6400.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12339": {
    "aluguel": 2700.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12340": {
    "aluguel": 2500.0,
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP12342": {
    "aluguel": 1750.0,
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP1237": {
    "aluguel": 2100.0,
@@ -2109,21 +2109,21 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP2418": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP2502": {
    "aluguel": 3000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP3603": {
    "aluguel": 3300.0,
@@ -2137,14 +2137,14 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP3693": {
    "aluguel": 2300.0,
    "desde": "2026-11-16",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP4044": {
    "aluguel": 2100.0,
@@ -2168,7 +2168,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP4066": {
    "aluguel": 3301.01,
@@ -2182,14 +2182,14 @@
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP4168": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP4401": {
    "aluguel": 2751.01,
@@ -2217,7 +2217,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP5044": {
    "aluguel": 1450.0,
@@ -2238,7 +2238,7 @@
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP5605": {
    "aluguel": 2500.0,
@@ -2259,28 +2259,28 @@
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP5999": {
    "aluguel": 2400.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP6020": {
    "aluguel": 2200.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP6052": {
    "aluguel": 2801.01,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP6371": {
    "aluguel": 2200.0,
@@ -2308,14 +2308,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP6920": {
    "aluguel": 6000.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP7192": {
    "aluguel": 4700.0,
@@ -2329,14 +2329,14 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP7459": {
    "aluguel": 3200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP7495": {
    "aluguel": 2500.0,
@@ -2359,7 +2359,7 @@
    },
    "desde": "2026-11-13",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP7853": {
    "aluguel": 2480.0,
@@ -2380,7 +2380,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP8468": {
    "aluguel": 6000.0,
@@ -2417,14 +2417,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP9266": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP9589": {
    "aluguel": 24000.0,
@@ -2469,7 +2469,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:13974673": {
    "aluguel": 2500.0,
@@ -2507,14 +2507,14 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:17628175": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:18758536": {
    "aluguel": 2200.0,
@@ -2545,7 +2545,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:19046806": {
    "aluguel": 2600.0,
@@ -2569,7 +2569,7 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:19794754": {
    "aluguel": 1280.0,
@@ -2595,7 +2595,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:23661495": {
    "aluguel": 1300.0,
@@ -2646,7 +2646,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:23698582": {
    "aluguel": 2000.0,
@@ -2670,7 +2670,7 @@
    },
    "desde": "2026-11-18",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:25098593": {
    "aluguel": 1600.0,
@@ -2703,14 +2703,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:26681723": {
    "aluguel": 2950.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:2704760": {
    "aluguel": 1300.0,
@@ -2734,21 +2734,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:28456660": {
    "aluguel": 2600.0,
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:28997714": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:30469948": {
    "aluguel": 2200.0,
@@ -2774,14 +2774,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:30628085": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:31009984": {
    "aluguel": 1800.0,
@@ -2807,28 +2807,28 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:31010787": {
    "aluguel": 1900.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:32622027": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:32640546": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:34136361": {
    "aluguel": 1400.0,
@@ -2853,21 +2853,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:34141951": {
    "aluguel": 2750.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:34329650": {
    "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:35450312": {
    "aluguel": 1200.0,
@@ -2941,14 +2941,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:39035813": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:39103221": {
    "aluguel": 2200.0,
@@ -2976,14 +2976,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:40694740": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:40745051": {
    "aluguel": 3000.0,
@@ -3010,14 +3010,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:41527990": {
    "aluguel": 2950.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:41571504": {
    "aluguel": 1900.0,
@@ -3057,14 +3057,14 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:41707935": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42123369": {
    "aluguel": 2400.0,
@@ -3085,21 +3085,21 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42371224": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42658145": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42713208": {
    "aluguel": 2751.01,
@@ -3113,28 +3113,28 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42814674": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:42991208": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43044579": {
    "aluguel": 2150.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43078166": {
    "aluguel": 2500.0,
@@ -3159,63 +3159,63 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43080265": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43128279": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43172243": {
    "aluguel": 2300.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43179260": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43204481": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43287874": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43318586": {
    "aluguel": 2801.01,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43544522": {
    "aluguel": 2390.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43622063": {
    "aluguel": 1650.0,
@@ -3241,28 +3241,28 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43841808": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:43841810": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44237958": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44250260": {
    "aluguel": 2300.0,
@@ -3286,28 +3286,28 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44319093": {
    "aluguel": 2699.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44409942": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44492207": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44573763": {
    "aluguel": 2100.0,
@@ -3340,14 +3340,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44886552": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44910011": {
    "aluguel": 2500.0,
@@ -3373,7 +3373,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44918491": {
    "aluguel": 1900.0,
@@ -3399,7 +3399,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:44964221": {
    "aluguel": 3000.0,
@@ -3413,14 +3413,14 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45072652": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45140771": {
    "aluguel": 2500.0,
@@ -3451,7 +3451,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45191322": {
    "aluguel": 1850.0,
@@ -3477,7 +3477,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45191325": {
    "aluguel": 1850.0,
@@ -3503,7 +3503,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45209454": {
    "aluguel": 2000.0,
@@ -3527,49 +3527,49 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45250058": {
    "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45250059": {
    "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45269828": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45269829": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45270444": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45385248": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45477753": {
    "aluguel": 970.0,
@@ -3593,7 +3593,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45591322": {
    "aluguel": 2100.0,
@@ -3617,7 +3617,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45682592": {
    "aluguel": 1500.0,
@@ -3641,7 +3641,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45682593": {
    "aluguel": 1500.0,
@@ -3665,21 +3665,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45699587": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45858907": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45879356": {
    "aluguel": 2500.0,
@@ -3711,35 +3711,35 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46026471": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46031284": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46037372": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46037461": {
    "aluguel": 2300.0,
@@ -3763,28 +3763,28 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46069790": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46070123": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46075597": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46132539": {
    "aluguel": 1650.0,
@@ -3810,21 +3810,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46160434": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46206232": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46285391": {
    "aluguel": 3000.0,
@@ -3838,7 +3838,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46356190": {
    "aluguel": 2200.0,
@@ -3862,14 +3862,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46393230": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46404915": {
    "aluguel": 2900.0,
@@ -3895,14 +3895,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46469564": {
    "aluguel": 2250.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46658066": {
    "aluguel": 2390.0,
@@ -3928,21 +3928,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46675275": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46751142": {
    "aluguel": 1980.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46752246": {
    "aluguel": 2350.0,
@@ -3956,7 +3956,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46799866": {
    "aluguel": 2500.0,
@@ -3970,21 +3970,21 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46850523": {
    "aluguel": 1980.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46884451": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46889565": {
    "aluguel": 1500.0,
@@ -4032,35 +4032,35 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46895410": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46895452": {
    "aluguel": 2250.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46963054": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:46983462": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47025455": {
    "aluguel": 2200.0,
@@ -4086,21 +4086,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47104979": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47182772": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47226916": {
    "aluguel": 1700.0,
@@ -4114,7 +4114,7 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47264450": {
    "aluguel": 2700.0,
@@ -4128,7 +4128,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47328583": {
    "aluguel": 1450.0,
@@ -4152,14 +4152,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47364201": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47545271": {
    "aluguel": 2500.0,
@@ -4190,7 +4190,7 @@
    "desde": "2026-11-19",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47723075": {
    "aluguel": 1600.0,
@@ -4215,7 +4215,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47772787": {
    "aluguel": 2300.0,
@@ -4239,42 +4239,42 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47775392": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47790435": {
    "aluguel": 2300.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47797990": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47825064": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47851587": {
    "aluguel": 2950.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47921596": {
    "aluguel": 970.0,
@@ -4338,14 +4338,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47943954": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:4797388": {
    "aluguel": 2000.0,
@@ -4369,28 +4369,28 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47982615": {
    "aluguel": 1250.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:47982623": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48006882": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48034695": {
    "aluguel": 1950.0,
@@ -4417,7 +4417,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48034696": {
    "aluguel": 1950.0,
@@ -4444,7 +4444,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48070691": {
    "aluguel": 1800.0,
@@ -4470,14 +4470,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48073588": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48320287": {
    "aluguel": 2050.0,
@@ -4503,14 +4503,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48359841": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48378899": {
    "aluguel": 2200.0,
@@ -4536,14 +4536,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48378903": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48378908": {
    "aluguel": 2200.0,
@@ -4569,14 +4569,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48501631": {
    "aluguel": 1000.0,
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48511894": {
    "aluguel": 2200.0,
@@ -4600,14 +4600,14 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48512415": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48541323": {
    "aluguel": 1200.0,
@@ -4631,7 +4631,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48544403": {
    "aluguel": 2700.0,
@@ -4662,7 +4662,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48544470": {
    "aluguel": 2300.0,
@@ -4686,7 +4686,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48544490": {
    "aluguel": 2000.0,
@@ -4710,7 +4710,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48544618": {
    "aluguel": 1300.0,
@@ -4734,7 +4734,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48544667": {
    "aluguel": 2500.0,
@@ -4747,14 +4747,14 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48563234": {
    "aluguel": 2500.0,
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48585401": {
    "aluguel": 2000.0,
@@ -4778,7 +4778,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48585404": {
    "aluguel": 2500.0,
@@ -4792,28 +4792,28 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48610185": {
    "aluguel": 2300.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48620112": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48622086": {
    "aluguel": 1350.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48625747": {
    "aluguel": 1700.0,
@@ -4839,7 +4839,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48709244": {
    "aluguel": 3000.0,
@@ -4853,28 +4853,28 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48738676": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48792418": {
    "aluguel": 2500.0,
    "desde": "2026-11-12",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48800894": {
    "aluguel": 2500.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48805661": {
    "aluguel": 1950.0,
@@ -4901,7 +4901,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48823630": {
    "aluguel": 1100.0,
@@ -4915,28 +4915,28 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863559": {
    "aluguel": 2800.0,
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863570": {
    "aluguel": 2500.0,
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863595": {
    "aluguel": 2600.0,
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863797": {
    "aluguel": 2500.0,
@@ -4960,21 +4960,21 @@
    },
    "desde": "2026-11-13",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863817": {
    "aluguel": 2900.0,
    "desde": "2026-11-18",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863822": {
    "aluguel": 2750.0,
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863890": {
    "aluguel": 2700.0,
@@ -4988,21 +4988,21 @@
    "desde": "2026-11-13",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48863986": {
    "aluguel": 2500.0,
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48874692": {
    "aluguel": 2400.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48876314": {
    "aluguel": 2500.0,
@@ -5029,7 +5029,7 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48884496": {
    "aluguel": 2950.0,
@@ -5050,7 +5050,7 @@
    "desde": "2026-11-15",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:48959124": {
    "aluguel": 2190.0,
@@ -5074,35 +5074,42 @@
    },
    "desde": "2026-11-17",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
+  },
+  "chaves-na-mao:49027683": {
+   "aluguel": 2850.0,
+   "desde": "2026-11-20",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:49029568": {
    "aluguel": 2300.0,
    "desde": "2026-11-19",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:49036793": {
    "aluguel": 2100.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:49036796": {
    "aluguel": 2600.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "chaves-na-mao:49065137": {
    "aluguel": 1950.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
@@ -5123,7 +5130,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP2470": {
    "aluguel": 3700.0,
@@ -5137,7 +5144,7 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP3456": {
    "aluguel": 3700.0,
@@ -5165,7 +5172,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP3771": {
    "aluguel": 3800.0,
@@ -5214,7 +5221,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5032": {
    "aluguel": 3400.0,
@@ -5263,14 +5270,14 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5273": {
    "aluguel": 3800.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5396": {
    "aluguel": 2500.0,
@@ -5298,7 +5305,7 @@
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5581": {
    "aluguel": 3900.0,
@@ -5319,7 +5326,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5834": {
    "aluguel": 3800.0,
@@ -5340,7 +5347,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP5957": {
    "aluguel": 4990.0,
@@ -5361,7 +5368,7 @@
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6149": {
    "aluguel": 4000.0,
@@ -5382,7 +5389,7 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6351": {
    "aluguel": 5700.0,
@@ -5417,7 +5424,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6535": {
    "aluguel": 9850.0,
@@ -5431,7 +5438,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6616": {
    "aluguel": 3600.0,
@@ -5445,7 +5452,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6674": {
    "aluguel": 2300.0,
@@ -5473,7 +5480,7 @@
    "desde": "2026-11-16",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6783": {
    "aluguel": 11900.0,
@@ -5487,7 +5494,7 @@
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6803": {
    "aluguel": 4900.0,
@@ -5508,14 +5515,14 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6834": {
    "aluguel": 6400.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6841": {
    "aluguel": 3300.0,
@@ -5536,21 +5543,21 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6860": {
    "aluguel": 3350.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6863": {
    "aluguel": 2400.0,
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6871": {
    "aluguel": 12500.0,
@@ -5578,28 +5585,28 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6898": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6901": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6914": {
    "aluguel": 3200.0,
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6921": {
    "aluguel": 3450.0,
@@ -5613,7 +5620,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6936": {
    "aluguel": 7500.0,
@@ -5627,7 +5634,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6951": {
    "aluguel": 5600.0,
@@ -5641,7 +5648,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6957": {
    "aluguel": 4000.0,
@@ -5655,7 +5662,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6960": {
    "aluguel": 4600.0,
@@ -5690,7 +5697,7 @@
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP6999": {
    "aluguel": 2500.0,
@@ -5704,49 +5711,49 @@
    "desde": "2026-11-16",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7003": {
    "aluguel": 4500.0,
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7004": {
    "aluguel": 4800.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7005": {
    "aluguel": 4700.0,
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7006": {
    "aluguel": 4500.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7007": {
    "aluguel": 2800.0,
    "desde": "2026-11-19",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cmsouza:AP7008": {
    "aluguel": 6950.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
@@ -5770,21 +5777,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP0011_CRV": {
    "aluguel": 1850.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP0900_CRV": {
    "aluguel": 3200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP1455_CRV": {
    "aluguel": 2200.0,
@@ -5807,14 +5814,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP1513_CRV": {
    "aluguel": 1900.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP1518_CRV": {
    "aluguel": 2200.0,
@@ -5837,14 +5844,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP2069_CRV": {
    "aluguel": 3200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP2588_CRV": {
    "aluguel": 1400.0,
@@ -5858,35 +5865,35 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP2657_CRV": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP3031_CRV": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP4673_CRV": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP4690_CRV": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "crv-imobiliaria:AP4695_CRV": {
    "aluguel": 3000.0,
@@ -5900,77 +5907,77 @@
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI270": {
    "aluguel": 2100.0,
    "desde": "2026-11-14",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI294": {
    "aluguel": 2600.0,
    "desde": "2026-11-14",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI300": {
    "aluguel": 3000.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI352": {
    "aluguel": 10900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI355": {
    "aluguel": 8000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI357": {
    "aluguel": 3500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI366": {
    "aluguel": 2700.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI386": {
    "aluguel": 3800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI399": {
    "aluguel": 1800.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "cube-imoveis:CI448": {
    "aluguel": 3700.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "human-imoveis:AP3171_HMN": {
    "aluguel": 3500.0,
@@ -5984,7 +5991,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "human-imoveis:AP6255_HMN": {
    "aluguel": 8000.0,
@@ -5998,14 +6005,14 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "human-imoveis:AP6321_HMN": {
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imob3m:AP0120-IMZ1": {
    "aluguel": 3270.0,
@@ -6571,7 +6578,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-atual:01167.001": {
    "aluguel": 1800.0,
@@ -6592,7 +6599,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-atual:05043.001": {
    "aluguel": 2500.0,
@@ -6613,7 +6620,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-atual:05115.001": {
    "aluguel": 2310.0,
@@ -6634,7 +6641,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-atual:10141.001": {
    "aluguel": 1500.0,
@@ -6654,7 +6661,7 @@
    },
    "desde": "2026-11-19",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP0089-EURW": {
    "aluguel": 2650.0,
@@ -9008,28 +9015,28 @@
    },
    "desde": "2026-11-19",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0428_NATA": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0441_NATA": {
    "aluguel": 3500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0459_NATA": {
    "aluguel": 1900.0,
    "desde": "2026-11-12",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0460_NATA": {
    "aluguel": 1900.0,
@@ -9055,14 +9062,14 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0517_NATA": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0531_NATA": {
    "aluguel": 2200.0,
@@ -9086,161 +9093,161 @@
    },
    "desde": "2026-11-16",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:10506": {
    "aluguel": 2200.0,
    "desde": "2026-11-13",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:11542": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:11543": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:11725": {
    "aluguel": 4000.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12133": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12228": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12295": {
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12567": {
    "aluguel": 1980.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12621": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12752": {
    "aluguel": 2300.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12762": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12825": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12827": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12857": {
    "aluguel": 3900.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12921": {
    "aluguel": 2600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12936": {
    "aluguel": 1900.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:12948": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:1687": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:273": {
    "aluguel": 850.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:5634": {
    "aluguel": 3300.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:5817": {
    "aluguel": 1900.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:6349": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:7706": {
    "aluguel": 1500.0,
@@ -9264,21 +9271,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:8902": {
    "aluguel": 1700.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:9501": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-perez:9868": {
    "aluguel": 1300.0,
@@ -9299,7 +9306,7 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:13816": {
    "aluguel": 3500.0,
@@ -9320,7 +9327,7 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:14979": {
    "aluguel": 2700.0,
@@ -9341,7 +9348,7 @@
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23195": {
    "aluguel": 5200.0,
@@ -9474,42 +9481,42 @@
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23613": {
    "aluguel": 4200.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23615": {
    "aluguel": 2100.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23620": {
    "aluguel": 8000.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23621": {
    "aluguel": 5500.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:23623": {
    "aluguel": 6800.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-raul-fulgencio:348": {
    "aluguel": 2350.0,
@@ -11038,7 +11045,7 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0217": {
    "aluguel": 1200.0,
@@ -11052,14 +11059,14 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0493": {
    "aluguel": 1350.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0575": {
    "aluguel": 1350.0,
@@ -11092,35 +11099,35 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0646": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0706": {
    "aluguel": 1690.0,
    "desde": "2026-11-12",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0803": {
    "aluguel": 1100.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP0819": {
    "aluguel": 1000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1006": {
    "aluguel": 1200.0,
@@ -11145,28 +11152,28 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1042": {
    "aluguel": 1300.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1056": {
    "aluguel": 1600.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1077": {
    "aluguel": 1200.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1097": {
    "aluguel": 6700.0,
@@ -11180,105 +11187,105 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1100": {
    "aluguel": 2200.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1102": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1115": {
    "aluguel": 1100.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1122": {
    "aluguel": 6000.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1132": {
    "aluguel": 3800.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1139": {
    "aluguel": 1980.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1141": {
    "aluguel": 1650.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1146": {
    "aluguel": 1700.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1147": {
    "aluguel": 650.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1148": {
    "aluguel": 3300.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1151": {
    "aluguel": 4000.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1152": {
    "aluguel": 3200.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1153": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1154": {
    "aluguel": 1600.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1156": {
    "aluguel": 2500.0,
@@ -11299,21 +11306,21 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1166": {
    "aluguel": 2000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-senador:AP1169": {
    "aluguel": 2400.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:00221.003": {
    "aluguel": 1300.0,
@@ -11337,14 +11344,14 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:00285.001": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:00867.006": {
    "aluguel": 950.0,
@@ -11358,21 +11365,21 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:01423.001": {
    "aluguel": 1390.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:01770.007": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:01923.011": {
    "aluguel": 1650.0,
@@ -11393,14 +11400,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:04916.001": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:06287.001": {
    "aluguel": 1100.0,
@@ -11414,7 +11421,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:07193.001": {
    "aluguel": 2000.0,
@@ -11445,7 +11452,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:07509.002": {
    "aluguel": 1950.0,
@@ -11469,7 +11476,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:07849.001": {
    "aluguel": 2650.0,
@@ -11493,7 +11500,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:08461.001": {
    "aluguel": 1380.0,
@@ -11517,21 +11524,21 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:08541.001": {
    "aluguel": 2100.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:08851.001": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:08877.002": {
    "aluguel": 2050.0,
@@ -11545,7 +11552,7 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09785.001": {
    "aluguel": 1890.0,
@@ -11559,56 +11566,56 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09872.001": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09884.001": {
    "aluguel": 3300.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09903.001": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09911.001": {
    "aluguel": 2000.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09933.001": {
    "aluguel": 1400.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09943.001": {
    "aluguel": 2000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09944.001": {
    "aluguel": 2550.0,
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-veneza:09949.001": {
    "aluguel": 1500.0,
@@ -11632,7 +11639,7 @@
    },
    "desde": "2026-11-18",
    "ok": true,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0006-WETI": {
    "aluguel": 1850.0,
@@ -11823,7 +11830,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:190670": {
    "aluguel": 25000.0,
@@ -11858,7 +11865,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:190957": {
    "aluguel": 6000.0,
@@ -11907,7 +11914,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191108": {
    "aluguel": 5300.0,
@@ -11921,7 +11928,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191116": {
    "aluguel": 6000.0,
@@ -12055,7 +12062,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191200": {
    "aluguel": 10000.0,
@@ -12118,7 +12125,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191244": {
    "aluguel": 2100.0,
@@ -12146,7 +12153,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191295": {
    "aluguel": 6200.0,
@@ -12216,7 +12223,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191326": {
    "aluguel": 4800.0,
@@ -12230,7 +12237,7 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191331": {
    "aluguel": 8800.0,
@@ -12265,7 +12272,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191354": {
    "aluguel": 4500.0,
@@ -12384,7 +12391,7 @@
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191403": {
    "aluguel": 4800.0,
@@ -12433,14 +12440,14 @@
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191414": {
    "aluguel": 7900.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191416": {
    "aluguel": 5450.0,
@@ -12454,105 +12461,105 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191419": {
    "aluguel": 5600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191422": {
    "aluguel": 4000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191423": {
    "aluguel": 3200.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191436": {
    "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191438": {
    "aluguel": 2700.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191448": {
    "aluguel": 2300.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191453": {
    "aluguel": 6900.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191454": {
    "aluguel": 4400.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191456": {
    "aluguel": 10500.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191458": {
    "aluguel": 8500.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191459": {
    "aluguel": 3650.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191468": {
    "aluguel": 2700.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191469": {
    "aluguel": 13500.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:191470": {
    "aluguel": 6800.0,
    "desde": "2026-11-19",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
@@ -13076,35 +13083,35 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP0845": {
    "aluguel": 2750.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1117": {
    "aluguel": 2600.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1255": {
    "aluguel": 4900.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1362": {
    "aluguel": 2000.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1438": {
    "aluguel": 2250.0,
@@ -13118,14 +13125,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1474": {
    "aluguel": 4200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1481": {
    "aluguel": 3000.0,
@@ -13146,7 +13153,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1507": {
    "aluguel": 2950.0,
@@ -13160,70 +13167,70 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1516": {
    "aluguel": 3890.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1517": {
    "aluguel": 1980.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1518": {
    "aluguel": 24000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1519": {
    "aluguel": 2500.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1522": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1523": {
    "aluguel": 4500.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1525": {
    "aluguel": 1600.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1526": {
    "aluguel": 3300.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "premier-imoveis:AP1529": {
    "aluguel": 2500.0,
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "rd-one:AP0169-MOS8": {
    "aluguel": 2000.0,
@@ -14222,7 +14229,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37
+  "approx:19/187611/297065": 36
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -14512,18 +14519,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 49,
-  "Camponesa Imóveis": 49,
-  "Imob3M": 49,
-  "Imobiliária Europa": 49,
-  "Imobiliária Humaitá": 49,
-  "Imobiliária Inglaterra": 140,
-  "Imobiliária Londrina Norte": 49,
-  "Imobiliária Monaco": 49,
-  "Imobiliária Santamérica": 16,
-  "Imobiliária WN": 49,
-  "Patrimônio Imóveis": 16,
-  "RD One": 49
+  "Barreto Imóveis": 50,
+  "Camponesa Imóveis": 50,
+  "Imob3M": 50,
+  "Imobiliária Europa": 50,
+  "Imobiliária Humaitá": 50,
+  "Imobiliária Inglaterra": 141,
+  "Imobiliária Londrina Norte": 50,
+  "Imobiliária Monaco": 50,
+  "Imobiliária Santamérica": 17,
+  "Imobiliária WN": 50,
+  "Patrimônio Imóveis": 17,
+  "RD One": 50
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15131,7 +15138,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795142869
+  "Catuaí Imóveis": 1795146510
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
