@@ -1572,7 +1572,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP10388": {
    "aluguel": 8000.0,
@@ -1614,7 +1614,7 @@
    "desde": "2026-11-16",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-20"
   },
   "century-21-class:AP10871": {
    "aluguel": 3801.01,
@@ -15180,7 +15180,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795203807
+  "Catuaí Imóveis": 1795206734
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
