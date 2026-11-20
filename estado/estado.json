@@ -9511,6 +9511,13 @@
    "ok": false,
    "visto": "2026-11-20"
   },
+  "imobiliaria-raul-fulgencio:23622": {
+   "aluguel": 9500.0,
+   "desde": "2026-11-20",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-20"
+  },
   "imobiliaria-raul-fulgencio:23623": {
    "aluguel": 6800.0,
    "desde": "2026-11-19",
@@ -14519,18 +14526,18 @@
   }
  },
  "falhas": {
-  "Barreto Imóveis": 52,
-  "Camponesa Imóveis": 52,
-  "Imob3M": 52,
-  "Imobiliária Europa": 52,
-  "Imobiliária Humaitá": 52,
-  "Imobiliária Inglaterra": 143,
-  "Imobiliária Londrina Norte": 52,
-  "Imobiliária Monaco": 52,
-  "Imobiliária Santamérica": 19,
-  "Imobiliária WN": 52,
-  "Patrimônio Imóveis": 19,
-  "RD One": 52
+  "Barreto Imóveis": 53,
+  "Camponesa Imóveis": 53,
+  "Imob3M": 53,
+  "Imobiliária Europa": 53,
+  "Imobiliária Humaitá": 53,
+  "Imobiliária Inglaterra": 144,
+  "Imobiliária Londrina Norte": 53,
+  "Imobiliária Monaco": 53,
+  "Imobiliária Santamérica": 20,
+  "Imobiliária WN": 53,
+  "Patrimônio Imóveis": 20,
+  "RD One": 53
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15138,7 +15145,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795154236
+  "Catuaí Imóveis": 1795158087
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-19"
