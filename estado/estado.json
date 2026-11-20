@@ -5327,6 +5327,13 @@
    "ok": false,
    "visto": "2026-11-20"
   },
+  "cmsouza:AP5826": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-20",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-20"
+  },
   "cmsouza:AP5834": {
    "aluguel": 3800.0,
    "desde": "2026-11-14",
@@ -5366,6 +5373,13 @@
    "aluguel": 3650.0,
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-20"
+  },
+  "cmsouza:AP6136": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-20",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-20"
   },
@@ -8589,7 +8603,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP1281-MONA": {
    "aluguel": 1950.0,
@@ -8610,7 +8624,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2051-MONA": {
    "aluguel": 1980.0,
@@ -8659,7 +8673,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2838-MONA": {
    "aluguel": 1500.0,
@@ -8694,7 +8708,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP3370-MONA": {
    "aluguel": 2500.0,
@@ -8907,14 +8921,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4549-MONA": {
    "aluguel": 1100.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4572-MONA": {
    "aluguel": 4500.0,
@@ -15159,7 +15173,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795193088
+  "Catuaí Imóveis": 1795196556
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
