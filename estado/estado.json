@@ -1,6 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-19": 6
+  "2026-11-19": 6,
+  "2026-11-20": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -3288,7 +3289,7 @@
    "visto": "2026-11-20"
   },
   "chaves-na-mao:44319093": {
-   "aluguel": 2699.0,
+   "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
@@ -3529,14 +3530,14 @@
    "visto": "2026-11-20"
   },
   "chaves-na-mao:45250058": {
-   "aluguel": 1950.0,
+   "aluguel": 1900.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-20"
   },
   "chaves-na-mao:45250059": {
-   "aluguel": 1950.0,
+   "aluguel": 1900.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -5059,9 +5060,9 @@
    "visto": "2026-11-20"
   },
   "chaves-na-mao:48959124": {
-   "aluguel": 2190.0,
+   "aluguel": 2200.0,
    "dados": {
-    "aluguel": 2190.0,
+    "aluguel": 2200.0,
     "anunciante": "IMOBILIÁRIA NATAL",
     "area": 71,
     "bairro": "Vila Filipin",
@@ -5074,8 +5075,8 @@
     "quartos": 2,
     "rua": "Rua Amapá",
     "titulo": "Locação ed novitta , totalmente mobiliado, prox terminal central, 2 quartos, 1 suite, 2 banheiros ,",
-    "total": 2690.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-filipin-RS2190/id-48959124/",
+    "total": 2700.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-filipin-RS2200/id-48959124/",
     "vagas": 1
    },
    "desde": "2026-11-17",
@@ -5115,6 +5116,30 @@
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
+   "visto": "2026-11-20"
+  },
+  "chaves-na-mao:49088143": {
+   "aluguel": 1400.0,
+   "dados": {
+    "aluguel": 1400.0,
+    "anunciante": "IMOBILIÁRIA NATAL",
+    "area": 100,
+    "bairro": "Jardim Agari",
+    "condominio": 365.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 593,
+    "minutos": 7.9,
+    "numero": "169",
+    "quartos": 3,
+    "rua": "Rua Porto Alegre",
+    "titulo": "Apartamento Residencial para locação, Jardim Agari, Londrina - AP0106.",
+    "total": 1765.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-jardim-agari-RS1400/id-49088143/",
+    "vagas": 1
+   },
+   "desde": "2026-11-20",
+   "ok": true,
    "visto": "2026-11-20"
   },
   "cmsouza:AP0834": {
@@ -14573,9 +14598,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -14843,6 +14866,10 @@
   "-23.30106,-51.17204": [
    8.8,
    662
+  ],
+  "-23.30153,-51.17157": [
+   7.9,
+   593
   ],
   "-23.30180,-51.16006": [
    13.0,
@@ -15182,7 +15209,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795212929
+  "Catuaí Imóveis": 1795215763
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
