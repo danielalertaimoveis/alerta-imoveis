@@ -289,7 +289,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP2792-BAUV": {
    "aluguel": 14000.0,
@@ -303,14 +303,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP2920-BAUV": {
    "aluguel": 2000.0,
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP2985-BAUV": {
    "aluguel": 10000.0,
@@ -331,7 +331,7 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3122-BAUV": {
    "aluguel": 4000.0,
@@ -359,7 +359,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3169-BAUV": {
    "aluguel": 5900.0,
@@ -436,7 +436,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3469-BAUV": {
    "aluguel": 6500.0,
@@ -548,14 +548,14 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3689-BAUV": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3690-BAUV": {
    "aluguel": 3500.0,
@@ -569,7 +569,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3698-BAUV": {
    "aluguel": 3599.0,
@@ -632,7 +632,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3766-BAUV": {
    "aluguel": 4100.0,
@@ -660,14 +660,14 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3815-BAUV": {
    "aluguel": 2700.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3822-BAUV": {
    "aluguel": 3900.0,
@@ -709,7 +709,7 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3850-BAUV": {
    "aluguel": 28000.0,
@@ -737,7 +737,7 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3863-BAUV": {
    "aluguel": 4500.0,
@@ -758,14 +758,14 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3877-BAUV": {
    "aluguel": 2600.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3881-BAUV": {
    "aluguel": 5500.0,
@@ -831,25 +831,25 @@
    "visto": "2026-11-17"
   },
   "barreto-imoveis:AP3899-BAUV": {
-   "aluguel": 1700.0,
+   "aluguel": 1650.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3904-BAUV": {
    "aluguel": 2500.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3906-BAUV": {
    "aluguel": 2300.0,
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3911-BAUV": {
    "aluguel": 3600.0,
@@ -898,7 +898,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3935-BAUV": {
    "aluguel": 3600.0,
@@ -933,7 +933,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3948-BAUV": {
    "aluguel": 5500.0,
@@ -954,28 +954,28 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3959-BAUV": {
    "aluguel": 2400.0,
    "desde": "2026-11-13",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "barreto-imoveis:AP3962-BAUV": {
    "aluguel": 2400.0,
    "desde": "2026-11-17",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP0223-CAPC": {
    "aluguel": 950.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP0361-CAPC": {
    "aluguel": 2000.0,
@@ -998,7 +998,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP0492-CAPC": {
    "aluguel": 1800.0,
@@ -1019,7 +1019,7 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP0930-CAPC": {
    "aluguel": 2600.0,
@@ -1048,28 +1048,28 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1261-CAPC": {
    "aluguel": 900.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1322-CAPC": {
    "aluguel": 1350.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1393-CAPC": {
    "aluguel": 1650.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1513-CAPC": {
    "aluguel": 4800.0,
@@ -1149,11 +1149,11 @@
    "visto": "2026-11-17"
   },
   "camponesa-imoveis:AP1697-CAPC": {
-   "aluguel": 2400.0,
+   "aluguel": 2200.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1699-CAPC": {
    "aluguel": 2900.0,
@@ -1167,28 +1167,28 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1704-CAPC": {
    "aluguel": 890.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1707-CAPC": {
    "aluguel": 2100.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1709-CAPC": {
    "aluguel": 1350.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1710-CAPC": {
    "aluguel": 1980.0,
@@ -1234,14 +1234,14 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1718-CAPC": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1721-CAPC": {
    "aluguel": 2400.0,
@@ -1299,14 +1299,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1739-CAPC": {
-   "aluguel": 1100.0,
+   "aluguel": 950.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1742-CAPC": {
    "aluguel": 2400.0,
@@ -1320,14 +1320,14 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1745-CAPC": {
    "aluguel": 1800.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1746-CAPC": {
    "aluguel": 1450.0,
@@ -1355,21 +1355,21 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1750-CAPC": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1751-CAPC": {
    "aluguel": 2000.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1753-CAPC": {
    "aluguel": 5200.0,
@@ -1397,14 +1397,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1763-CAPC": {
    "aluguel": 1800.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1766-CAPC": {
    "aluguel": 3200.0,
@@ -1414,11 +1414,11 @@
    "visto": "2026-11-17"
   },
   "camponesa-imoveis:AP1767-CAPC": {
-   "aluguel": 1750.0,
+   "aluguel": 1730.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "camponesa-imoveis:AP1768-CAPC": {
    "aluguel": 2900.0,
@@ -6018,14 +6018,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP0408-IMZ1": {
    "aluguel": 3700.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP0428-IMZ1": {
    "aluguel": 2150.0,
@@ -6094,7 +6094,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP0889-IMZ1": {
    "aluguel": 1300.0,
@@ -6137,7 +6137,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1161-IMZ1": {
    "aluguel": 1200.0,
@@ -6187,21 +6187,21 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1356-IMZ1": {
    "aluguel": 2599.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1434-IMZ1": {
    "aluguel": 5500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1436-IMZ1": {
    "aluguel": 1500.0,
@@ -6215,7 +6215,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1512-IMZ1": {
    "aluguel": 2200.0,
@@ -6287,7 +6287,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1753-IMZ1": {
    "aluguel": 1750.0,
@@ -6301,7 +6301,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1815-IMZ1": {
    "aluguel": 2400.0,
@@ -6322,14 +6322,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1836-IMZ1": {
    "aluguel": 5200.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1843-IMZ1": {
    "aluguel": 2000.0,
@@ -6359,28 +6359,28 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1845-IMZ1": {
    "aluguel": 3000.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1846-IMZ1": {
    "aluguel": 3000.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1847-IMZ1": {
    "aluguel": 2850.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1850-IMZ1": {
    "aluguel": 2300.0,
@@ -6415,14 +6415,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1894-IMZ1": {
    "aluguel": 2800.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1904-IMZ1": {
    "aluguel": 2500.0,
@@ -6436,7 +6436,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1921-IMZ1": {
    "aluguel": 1350.0,
@@ -6491,21 +6491,21 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1951-IMZ1": {
    "aluguel": 4000.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1960-IMZ1": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1971-IMZ1": {
    "aluguel": 1850.0,
@@ -6542,14 +6542,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1978-IMZ1": {
    "aluguel": 2700.0,
    "desde": "2026-11-16",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imob3m:AP1979-IMZ1": {
    "aluguel": 1500.0,
@@ -6674,35 +6674,35 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2081-EURW": {
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2175-EURW": {
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2279-EURW": {
    "aluguel": 2900.0,
    "desde": "2026-11-16",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2312-EURW": {
    "aluguel": 1200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2458-EURW": {
    "aluguel": 2500.0,
@@ -6716,14 +6716,14 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2636-EURW": {
    "aluguel": 5500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2657-EURW": {
    "aluguel": 9500.0,
@@ -6744,14 +6744,14 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2797-EURW": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2907-EURW": {
    "aluguel": 3200.0,
@@ -6781,7 +6781,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2943-EURW": {
    "aluguel": 2750.0,
@@ -6845,7 +6845,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2966-EURW": {
    "aluguel": 1980.0,
@@ -6925,14 +6925,14 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP2999-EURW": {
    "aluguel": 4200.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3002-EURW": {
    "aluguel": 4990.0,
@@ -6946,21 +6946,21 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3012-EURW": {
    "aluguel": 2900.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3015-EURW": {
    "aluguel": 2700.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3017-EURW": {
    "aluguel": 5300.0,
@@ -6974,14 +6974,14 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3025-EURW": {
    "aluguel": 1500.0,
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3029-EURW": {
    "aluguel": 1950.0,
@@ -7004,7 +7004,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3030-EURW": {
    "aluguel": 1950.0,
@@ -7028,7 +7028,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3040-EURW": {
    "aluguel": 2200.0,
@@ -7042,77 +7042,77 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3045-EURW": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3057-EURW": {
-   "aluguel": 0.0,
+   "aluguel": null,
    "desde": "2026-11-11",
-   "motivo": "bairro fora da região",
+   "motivo": "sem valor de aluguel",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-europa:AP3059-EURW": {
    "aluguel": 2310.0,
    "desde": "2026-11-13",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0390-HUMO": {
    "aluguel": 3850.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0504-HUMO": {
    "aluguel": 1490.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0609-HUMO": {
    "aluguel": 5100.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0633-HUMO": {
    "aluguel": 2300.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0724-HUMO": {
    "aluguel": 30000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0752-HUMO": {
    "aluguel": 2400.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0760-HUMO": {
    "aluguel": 3500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0848-HUMO": {
    "aluguel": 2500.0,
@@ -7126,77 +7126,84 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0923-HUMO": {
    "aluguel": 2390.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0947-HUMO": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0951-HUMO": {
    "aluguel": 3000.0,
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0955-HUMO": {
    "aluguel": 3300.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0958-HUMO": {
    "aluguel": 2100.0,
    "desde": "2026-11-14",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0979-HUMO": {
    "aluguel": 5500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0984-HUMO": {
    "aluguel": 2100.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0988-HUMO": {
    "aluguel": 2000.0,
    "desde": "2026-11-14",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
+  },
+  "imobiliaria-humaita:AP0989-HUMO": {
+   "aluguel": 8000.0,
+   "desde": "2026-11-20",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0990-HUMO": {
    "aluguel": 3300.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP0996-HUMO": {
    "aluguel": 5600.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP1009-HUMO": {
    "aluguel": 3500.0,
@@ -7210,14 +7217,21 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-humaita:AP1011-HUMO": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
+  },
+  "imobiliaria-humaita:AP1015-HUMO": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-20",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-20"
   },
   "imobiliaria-inglaterra:AP0373-INIC": {
    "aluguel": 3200.0,
@@ -8258,7 +8272,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0363-LONF": {
    "aluguel": 580.0,
@@ -8272,7 +8286,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0432-LONF": {
    "aluguel": 990.0,
@@ -8286,7 +8300,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0498-LONF": {
    "aluguel": 780.0,
@@ -8337,35 +8351,35 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0681-LONF": {
    "aluguel": 1100.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0694-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0695-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0697-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0703-LONF": {
    "aluguel": 650.0,
@@ -8379,56 +8393,56 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0752-LONF": {
    "aluguel": 3700.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0754-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0764-LONF": {
    "aluguel": 1350.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0770-LONF": {
    "aluguel": 2350.0,
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0771-LONF": {
    "aluguel": 2200.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0774-LONF": {
    "aluguel": 1300.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0783-LONF": {
    "aluguel": 1600.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0789-LONF": {
    "aluguel": 790.0,
@@ -8470,7 +8484,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0827-LONF": {
    "aluguel": 1000.0,
@@ -8484,7 +8498,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0830-LONF": {
    "aluguel": 750.0,
@@ -8498,28 +8512,28 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0833-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0835-LONF": {
    "aluguel": 990.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0839-LONF": {
    "aluguel": 1050.0,
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-londrina-norte:AP0841-LONF": {
    "aluguel": 990.0,
@@ -8533,7 +8547,14 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
+  },
+  "imobiliaria-londrina-norte:AP0844-LONF": {
+   "aluguel": 1950.0,
+   "desde": "2026-11-20",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP0066-MONA": {
    "aluguel": 1900.0,
@@ -8547,21 +8568,21 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP0899-MONA": {
-   "aluguel": 3300.0,
+   "aluguel": 3100.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP0947-MONA": {
    "aluguel": 2750.0,
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP1116-MONA": {
    "aluguel": 1400.0,
@@ -8575,7 +8596,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP1651-MONA": {
    "aluguel": 1700.0,
@@ -8596,7 +8617,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2326-MONA": {
    "aluguel": 2200.0,
@@ -8617,7 +8638,7 @@
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2565-MONA": {
    "aluguel": 1500.0,
@@ -8631,7 +8652,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2767-MONA": {
    "aluguel": 1250.0,
@@ -8645,14 +8666,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2855-MONA": {
    "aluguel": 1500.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP2901-MONA": {
    "aluguel": 3400.0,
@@ -8666,7 +8687,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP3350-MONA": {
    "aluguel": 1000.0,
@@ -8750,7 +8771,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4434-MONA": {
    "aluguel": 7000.0,
@@ -8822,7 +8843,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4507-MONA": {
    "aluguel": 2000.0,
@@ -8858,7 +8879,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4516-MONA": {
    "aluguel": 5900.0,
@@ -8872,7 +8893,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4540-MONA": {
    "aluguel": 1000.0,
@@ -8914,7 +8935,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4583-MONA": {
    "aluguel": 1200.0,
@@ -8942,7 +8963,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4600-MONA": {
    "aluguel": 1400.0,
@@ -8963,7 +8984,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4614-MONA": {
    "aluguel": 9200.0,
@@ -8984,14 +9005,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-monaco:AP4637-MONA": {
    "aluguel": 2000.0,
    "desde": "2026-11-17",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-natal:AP0204_NATA": {
    "aluguel": 1400.0,
@@ -11668,7 +11689,7 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0010-WETI": {
    "aluguel": 1950.0,
@@ -11690,14 +11711,14 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0043-WETI": {
    "aluguel": 1350.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0044-WETI": {
    "aluguel": 1300.0,
@@ -11720,35 +11741,35 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0080-WETI": {
    "aluguel": 2200.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0084-WETI": {
    "aluguel": 1590.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0094-WETI": {
    "aluguel": 1300.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0110-WETI": {
    "aluguel": 2490.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0111-WETI": {
    "aluguel": 2100.0,
@@ -11771,28 +11792,28 @@
    },
    "desde": "2026-11-14",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0134-WETI": {
    "aluguel": 1100.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0135-WETI": {
    "aluguel": 2600.0,
    "desde": "2026-11-14",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0143-WETI": {
    "aluguel": 6500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0144-WETI": {
    "aluguel": 4900.0,
@@ -11806,7 +11827,7 @@
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "imobiliaria-wn:AP0151-WETI": {
    "aluguel": 1600.0,
@@ -11829,7 +11850,7 @@
    },
    "desde": "2026-11-16",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "jr3-negocios-imobiliarios:190650": {
    "aluguel": 4480.0,
@@ -13250,7 +13271,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP0354-MOS8": {
    "aluguel": 5300.0,
@@ -13264,7 +13285,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP0715-MOS8": {
    "aluguel": 1600.0,
@@ -13278,7 +13299,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP0763-MOS8": {
    "aluguel": 3500.0,
@@ -13292,7 +13313,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP1023-MOS8": {
    "aluguel": 4800.0,
@@ -13306,7 +13327,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP1160-MOS8": {
    "aluguel": 2300.0,
@@ -13320,7 +13341,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP1497-MOS8": {
    "aluguel": 2950.0,
@@ -13377,7 +13398,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP1921-MOS8": {
    "aluguel": 1800.0,
@@ -13412,7 +13433,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2125-MOS8": {
    "aluguel": 3300.0,
@@ -13433,7 +13454,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2199-MOS8": {
    "aluguel": 3500.0,
@@ -13447,7 +13468,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2322-MOS8": {
    "aluguel": 4200.0,
@@ -13475,7 +13496,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2446-MOS8": {
    "aluguel": 2500.0,
@@ -13560,7 +13581,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2638-MOS8": {
    "aluguel": 2500.0,
@@ -13588,7 +13609,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2696-MOS8": {
    "aluguel": 3900.0,
@@ -13700,7 +13721,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2831-MOS8": {
    "aluguel": 4000.0,
@@ -13714,14 +13735,14 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2833-MOS8": {
    "aluguel": 8700.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2839-MOS8": {
    "aluguel": 3500.0,
@@ -13834,7 +13855,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2912-MOS8": {
    "aluguel": 4200.0,
@@ -13869,7 +13890,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2938-MOS8": {
    "aluguel": 3200.0,
@@ -13932,7 +13953,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2967-MOS8": {
    "aluguel": 4800.0,
@@ -13983,7 +14004,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2983-MOS8": {
    "aluguel": 2800.0,
@@ -14018,7 +14039,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP2991-MOS8": {
    "aluguel": 3900.0,
@@ -14053,7 +14074,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-20"
   },
   "rd-one:AP3002-MOS8": {
    "aluguel": 2300.0,
@@ -14230,6 +14251,13 @@
    "motivo": "quartos a menos",
    "ok": false,
    "visto": "2026-11-17"
+  },
+  "rd-one:AP3074-MOS8": {
+   "aluguel": 5800.0,
+   "desde": "2026-11-20",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-20"
   }
  },
  "cnm_grupos": {
@@ -14524,20 +14552,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "Barreto Imóveis": 61,
-  "Camponesa Imóveis": 61,
-  "Imob3M": 61,
-  "Imobiliária Europa": 61,
-  "Imobiliária Humaitá": 61,
-  "Imobiliária Inglaterra": 152,
-  "Imobiliária Londrina Norte": 61,
-  "Imobiliária Monaco": 61,
-  "Imobiliária Santamérica": 28,
-  "Imobiliária WN": 61,
-  "Patrimônio Imóveis": 28,
-  "RD One": 61
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15144,7 +15159,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795189701
+  "Catuaí Imóveis": 1795193088
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
