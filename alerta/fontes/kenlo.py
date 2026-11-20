@@ -21,7 +21,11 @@ def _ler_pagina(html):
     m = re.search(r"window\.markoVars\['listings-[0-9a-z]+'\]\s*=\s*", html)
     if not m:
         raise RuntimeError("lista de imóveis não encontrada na página")
-    dados = json.JSONDecoder().raw_decode(html, m.end())[0]
+    # os dados vêm direto ou, desde nov/2026, como argumento de uma função: (function(o,p,f){...})({...}, ...)
+    inicio = html.find('{"settings"', m.end())
+    if inicio < 0:
+        raise RuntimeError("lista de imóveis não encontrada na página")
+    dados = json.JSONDecoder().raw_decode(html, inicio)[0]
     return dados["settings"]["listings"]
 
 

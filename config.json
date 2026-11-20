@@ -28,7 +28,7 @@
   "fontes": [
     { "tipo": "chavesnamao", "nome": "Chaves na Mão", "cidade": "pr-londrina" },
 
-    { "tipo": "kenlo", "nome": "Imobiliária Inglaterra", "base": "https://www.imobiliariainglaterra.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
+    { "tipo": "kenlo", "nome": "Imobiliária Inglaterra", "base": "https://www.imobiliariainglaterra.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina", "ativa": false, "motivo": "o site mudou em nov/2026 e passou a carregar os imóveis só por JavaScript" },
     { "tipo": "kenlo", "nome": "Imobiliária Europa", "base": "https://www.imobiliariaeuropa.com.br", "caminho": "/imoveis/para-alugar/apartamento" },
     { "tipo": "kenlo", "nome": "Imobiliária Londrina Norte", "base": "https://www.londrinanorte.com.br", "caminho": "/imoveis/para-alugar/apartamento" },
     { "tipo": "kenlo", "nome": "Imob3M", "base": "https://www.imob3m.com.br", "caminho": "/imoveis/para-alugar/apartamento/londrina" },
@@ -51,9 +51,9 @@
     { "tipo": "flip", "nome": "CMSouza", "base": "https://www.cmsouza.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
     { "tipo": "flip", "nome": "Imobiliária Senador", "base": "https://www.imobiliariasenador.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
     { "tipo": "flip", "nome": "Premier Imóveis", "base": "https://www.imobiliariapremier.com.br", "paginas": ["/buscar/locacao/apartamento/londrina-pr-brasil/centro", "/buscar/locacao/apartamento/londrina-pr-brasil"] },
-    { "tipo": "santamerica", "nome": "Patrimônio Imóveis", "base": "https://www.patrimonioimoveisprontos.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"] },
+    { "tipo": "santamerica", "nome": "Patrimônio Imóveis", "base": "https://www.patrimonioimoveisprontos.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"], "ativa": false, "motivo": "o site passou a recusar acesso automatizado às páginas de aluguel (erro 403), em nov/2026" },
     { "tipo": "msys", "nome": "AG Prime Imóveis", "base": "https://agprimeimoveis.com" },
-    { "tipo": "santamerica", "nome": "Imobiliária Santamérica", "base": "https://www.santamerica.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"] },
+    { "tipo": "santamerica", "nome": "Imobiliária Santamérica", "base": "https://www.santamerica.com.br", "paginas": ["/alugar/Londrina/Apartamento/Padrao/Centro/", "/alugar/Londrina/Apartamento/Padrao/"], "ativa": false, "motivo": "o site passou a recusar acesso automatizado às páginas de aluguel (erro 403), em nov/2026" },
     { "tipo": "alugaflex", "nome": "Alugaflex", "base": "https://www.alugaflex.com.br", "caminho": "/buscar/imovel/pr/londrina/", "ativa": false, "motivo": "o site recusa acesso vindo dos servidores do GitHub (erro 403)" },
     { "tipo": "casasoft", "nome": "Imobiliária Veneza", "base": "https://www.veneza.com.br", "paginas": ["/imoveis/alugar-apartamento-2-quartos-em-londrina-no-centro", "/imoveis/alugar-apartamento-3-quartos-em-londrina-no-centro"] },
 

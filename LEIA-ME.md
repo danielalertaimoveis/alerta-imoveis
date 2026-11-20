@@ -49,6 +49,10 @@ funcionam a partir de um computador no Brasil, mas recusam o acesso vindo dos se
 GitHub. Os anúncios delas que também vão para o Chaves na Mão continuam chegando por lá.
 Para religar uma fonte, apague o `"ativa": false` da linha dela.
 
+Em novembro de 2026 também foram desligadas: Santamérica e Patrimônio (os dois sites passaram a
+recusar acesso automatizado às páginas de aluguel) e Inglaterra (o site novo carrega os imóveis
+só por JavaScript). O motivo de cada uma está escrito na linha dela no `config.json`.
+
 Viva Real, ZAP, OLX e Imovelweb bloqueiam programas e ficaram de fora. No ZAP e no Viva Real
 dá para criar um alerta próprio do site (botão "Criar alerta" na página de uma busca), que
 manda e-mail quando entra anúncio novo.
