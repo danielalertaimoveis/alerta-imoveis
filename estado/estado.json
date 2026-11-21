@@ -8614,7 +8614,7 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-21"
   },
   "imobiliaria-monaco:AP0899-MONA": {
    "aluguel": 3100.0,
@@ -8698,7 +8698,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-21"
   },
   "imobiliaria-monaco:AP2767-MONA": {
    "aluguel": 1250.0,
@@ -8719,7 +8719,7 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-21"
   },
   "imobiliaria-monaco:AP2901-MONA": {
    "aluguel": 3400.0,
@@ -9030,7 +9030,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-21"
   },
   "imobiliaria-monaco:AP4614-MONA": {
    "aluguel": 9200.0,
@@ -11125,7 +11125,7 @@
    "desde": "2026-11-19",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-21"
   },
   "imobiliaria-senador:AP0486": {
    "aluguel": 1500.0,
@@ -15209,7 +15209,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795232824
+  "Catuaí Imóveis": 1795236726
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
