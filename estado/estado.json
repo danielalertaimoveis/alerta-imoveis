@@ -5821,6 +5821,13 @@
    "ok": false,
    "visto": "2026-11-21"
   },
+  "cmsouza:AP7009": {
+   "aluguel": 4400.0,
+   "desde": "2026-11-21",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-21"
+  },
   "crv-imobiliaria:AP0009_CRV": {
    "aluguel": 1850.0,
    "dados": {
@@ -11698,7 +11705,7 @@
    "visto": "2026-11-21"
   },
   "imobiliaria-veneza:09903.001": {
-   "aluguel": 1800.0,
+   "aluguel": 1700.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -14705,9 +14712,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15318,7 +15323,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795263084
+  "Catuaí Imóveis": 1795266087
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-21"
