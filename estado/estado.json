@@ -14748,7 +14748,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "AG Prime Imóveis": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15367,7 +15369,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795291436
+  "Catuaí Imóveis": 1795294090
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-21"
