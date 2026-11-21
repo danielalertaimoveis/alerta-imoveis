@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-20": 2,
-  "2026-11-21": 1
+  "2026-11-21": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1741,6 +1741,13 @@
   "century-21-class:AP11898": {
    "aluguel": 5301.01,
    "desde": "2026-11-11",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-21"
+  },
+  "century-21-class:AP11940": {
+   "aluguel": 30000.0,
+   "desde": "2026-11-21",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-21"
@@ -11538,6 +11545,30 @@
    "ok": false,
    "visto": "2026-11-18"
   },
+  "imobiliaria-veneza:06292.001": {
+   "aluguel": 1600.0,
+   "dados": {
+    "aluguel": 1600.0,
+    "anunciante": "Imobiliária Veneza",
+    "area": 144,
+    "avisos": [
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Veneza",
+    "metros": 761,
+    "minutos": 10.1,
+    "numero": "1056",
+    "quartos": 3,
+    "rua": "R. Mato Grosso",
+    "total": 1600.0,
+    "url": "https://www.veneza.com.br/imovel/apartamento-3-quartos-centro-londrina-1-vaga-144m2-locacao-rs-1600/5770/06292.001",
+    "vagas": 1
+   },
+   "desde": "2026-11-21",
+   "ok": true,
+   "visto": "2026-11-21"
+  },
   "imobiliaria-veneza:06783.001": {
    "aluguel": 1650.0,
    "desde": "2026-11-11",
@@ -14436,6 +14467,11 @@
    "chave": "imobiliaria-veneza:09949.001",
    "data": "18/11"
   },
+  "r mato grosso|1056|3|1600": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:06292.001",
+   "data": "21/11"
+  },
   "r mossoro|130|2|1950": {
    "anunciante": "Imobiliária Veneza",
    "chave": "imobiliaria-veneza:07509.002",
@@ -14773,6 +14809,10 @@
   "r belo horizonte londrina": [
    -23.318011,
    -51.1666727
+  ],
+  "r mato grosso londrina": [
+   -23.3164302,
+   -51.1564031
   ],
   "r mossoro londrina": [
    -23.3065968,
@@ -15193,6 +15233,10 @@
    10.4,
    778
   ],
+  "-23.30816,-51.16912": [
+   10.1,
+   761
+  ],
   "-23.30851,-51.17619": [
    19.6,
    1464
@@ -15323,7 +15367,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795266087
+  "Catuaí Imóveis": 1795269491
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-21"
