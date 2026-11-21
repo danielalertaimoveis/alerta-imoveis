@@ -14598,9 +14598,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15211,7 +15209,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795244308
+  "Catuaí Imóveis": 1795248490
  },
  "ultimo_resumo_disponiveis": "2026-11-19",
  "ultimo_status": "2026-11-20"
