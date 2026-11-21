@@ -3707,7 +3707,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-21"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -14705,7 +14705,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "JR3 Negócios Imobiliários": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15316,7 +15318,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795260548
+  "Catuaí Imóveis": 1795263084
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-21"
