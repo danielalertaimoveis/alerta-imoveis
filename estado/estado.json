@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-20": 2,
-  "2026-11-21": 2
+  "2026-11-21": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -2946,9 +2946,9 @@
    "visto": "2026-11-21"
   },
   "chaves-na-mao:37033391": {
-   "aluguel": 1200.0,
+   "aluguel": 1000.0,
    "dados": {
-    "aluguel": 1200.0,
+    "aluguel": 1000.0,
     "anunciante": "IMOBILIÁRIA SENADOR",
     "area": 45,
     "avisos": [
@@ -2963,8 +2963,8 @@
     "quartos": 2,
     "rua": "Rua Rio Turvo",
     "titulo": "Apartamento para alugar em Londrina, Tietê, com 2 quartos, com 45 m²",
-    "total": 1550.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-tiete-57m2-RS1200/id-37033391/",
+    "total": 1350.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-tiete-57m2-RS1000/id-37033391/",
     "vagas": 1
    },
    "desde": "2026-11-11",
@@ -14749,7 +14749,7 @@
   }
  },
  "falhas": {
-  "AG Prime Imóveis": 1
+  "AG Prime Imóveis": 2
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -15369,7 +15369,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795294090
+  "Catuaí Imóveis": 1795296392
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-21"
