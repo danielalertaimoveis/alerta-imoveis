@@ -5169,6 +5169,13 @@
    "ok": true,
    "visto": "2026-11-22"
   },
+  "chaves-na-mao:49109819": {
+   "aluguel": 1950.0,
+   "desde": "2026-11-22",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-22"
+  },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
    "desde": "2026-11-15",
@@ -15366,7 +15373,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795349270
+  "Catuaí Imóveis": 1795352252
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-22"
