@@ -3713,7 +3713,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-21"
+   "visto": "2026-11-22"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -15366,7 +15366,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795346820
+  "Catuaí Imóveis": 1795349270
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-22"
