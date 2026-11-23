@@ -4899,7 +4899,7 @@
    "visto": "2026-11-13"
   },
   "chaves-na-mao:48595002": {
-   "aluguel": 2200.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
@@ -12909,6 +12909,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "jr3-negocios-imobiliarios:191475": {
+   "aluguel": 5600.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -14649,7 +14656,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37
+  "approx:19/187611/297065": 38
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -14943,9 +14950,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15564,7 +15569,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795468441
+  "Catuaí Imóveis": 1795471682
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
