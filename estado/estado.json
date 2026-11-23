@@ -1446,6 +1446,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "camponesa-imoveis:AP1771-CAPC": {
+   "aluguel": 950.0,
+   "desde": "2026-11-23",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "catuai-imoveis:apartamento-a-venda-e-locacao-solar-saint-honore-londrina": {
    "aluguel": 7400.0,
    "desde": "2026-11-11",
@@ -1810,7 +1817,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-23"
   },
   "century-21-class:AP12096": {
    "aluguel": 1000.0,
@@ -2434,6 +2441,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-14"
+  },
+  "century-21-class:AP8574": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-23",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
   },
   "century-21-class:AP9204": {
    "aluguel": 2150.0,
@@ -3732,7 +3746,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-22"
+   "visto": "2026-11-23"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -5863,6 +5877,13 @@
   "cmsouza:AP7009": {
    "aluguel": 4400.0,
    "desde": "2026-11-21",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "cmsouza:AP7010": {
+   "aluguel": 10500.0,
+   "desde": "2026-11-23",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-23"
@@ -9516,7 +9537,7 @@
    "desde": "2026-11-17",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-23"
   },
   "imobiliaria-raul-fulgencio:23530": {
    "aluguel": 4200.0,
@@ -15399,7 +15420,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795434386
+  "Catuaí Imóveis": 1795438159
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
