@@ -1940,6 +1940,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP12218": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "century-21-class:AP12221": {
    "aluguel": 2200.0,
    "desde": "2026-11-17",
@@ -5814,11 +5821,11 @@
    "visto": "2026-11-15"
   },
   "cmsouza:AP6965": {
-   "aluguel": 2700.0,
+   "aluguel": 2600.0,
    "desde": "2026-11-13",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-16"
+   "visto": "2026-11-23"
   },
   "cmsouza:AP6991": {
    "aluguel": 3900.0,
@@ -6896,6 +6903,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-europa:AP2669-EURW": {
+   "aluguel": 2950.0,
+   "desde": "2026-11-23",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "imobiliaria-europa:AP2748-EURW": {
    "aluguel": 1500.0,
    "desde": "2026-11-11",
@@ -7394,6 +7408,13 @@
    "aluguel": 2350.0,
    "desde": "2026-11-20",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "imobiliaria-humaita:AP1016-HUMO": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-23",
+   "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-23"
   },
@@ -15443,7 +15464,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795443052
+  "Catuaí Imóveis": 1795446734
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
