@@ -1948,11 +1948,11 @@
    "visto": "2026-11-16"
   },
   "century-21-class:AP12203": {
-   "aluguel": 2410.0,
+   "aluguel": 2250.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-16"
+   "visto": "2026-11-23"
   },
   "century-21-class:AP12208": {
    "aluguel": 1950.0,
@@ -2066,7 +2066,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-23"
   },
   "century-21-class:AP12293": {
    "aluguel": 3600.0,
@@ -2286,7 +2286,7 @@
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-13"
+   "visto": "2026-11-23"
   },
   "century-21-class:AP4658": {
    "aluguel": 4300.0,
@@ -9356,6 +9356,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-perez:1058": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-23",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "imobiliaria-perez:11542": {
    "aluguel": 2800.0,
    "desde": "2026-11-11",
@@ -9786,6 +9793,13 @@
    "ok": false,
    "visto": "2026-11-20"
   },
+  "imobiliaria-raul-fulgencio:23637": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "imobiliaria-raul-fulgencio:348": {
    "aluguel": 2350.0,
    "desde": "2026-11-12",
@@ -9806,6 +9820,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-17"
+  },
+  "imobiliaria-raul-fulgencio:8866": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-23",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-23"
   },
   "imobiliaria-santamerica:47777": {
    "aluguel": 3800.0,
@@ -15534,7 +15555,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795457985
+  "Catuaí Imóveis": 1795461942
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
