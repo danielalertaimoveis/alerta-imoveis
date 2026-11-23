@@ -327,7 +327,7 @@
    "visto": "2026-11-23"
   },
   "barreto-imoveis:AP3074-BAUV": {
-   "aluguel": 2000.0,
+   "aluguel": 2100.0,
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
@@ -1032,6 +1032,13 @@
    "aluguel": 2300.0,
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "camponesa-imoveis:AP0798-CAPC": {
+   "aluguel": 1400.0,
+   "desde": "2026-11-23",
+   "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-23"
   },
@@ -9469,7 +9476,7 @@
    "visto": "2026-11-23"
   },
   "imobiliaria-perez:12948": {
-   "aluguel": 2200.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -15555,7 +15562,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795461942
+  "Catuaí Imóveis": 1795465238
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
