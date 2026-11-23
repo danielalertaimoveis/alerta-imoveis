@@ -2295,6 +2295,13 @@
    "ok": false,
    "visto": "2026-11-22"
   },
+  "century-21-class:AP5991": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-22",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-22"
+  },
   "century-21-class:AP5999": {
    "aluguel": 2400.0,
    "desde": "2026-11-17",
@@ -2408,6 +2415,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-17"
+  },
+  "century-21-class:AP8416": {
+   "aluguel": 4700.0,
+   "desde": "2026-11-22",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-22"
   },
   "century-21-class:AP8421": {
    "aluguel": 2600.0,
@@ -15380,7 +15394,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795395189
+  "Catuaí Imóveis": 1795399956
  },
  "ultimo_resumo_disponiveis": "2026-11-21",
  "ultimo_status": "2026-11-22"
