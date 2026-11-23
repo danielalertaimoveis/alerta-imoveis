@@ -1,5 +1,7 @@
 {
- "alertas_por_dia": {},
+ "alertas_por_dia": {
+  "2026-11-23": 1
+ },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
    "aluguel": 2800.0,
@@ -1585,6 +1587,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-18"
+  },
+  "century-21-class:AP10136": {
+   "aluguel": 5350.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
   },
   "century-21-class:AP10150": {
    "aluguel": 4400.0,
@@ -11312,9 +11321,9 @@
    "visto": "2026-11-23"
   },
   "imobiliaria-senador:AP1006": {
-   "aluguel": 1200.0,
+   "aluguel": 1000.0,
    "dados": {
-    "aluguel": 1200.0,
+    "aluguel": 1000.0,
     "anunciante": "Imobiliária Senador",
     "area": 45,
     "avisos": [
@@ -11328,13 +11337,13 @@
     "quartos": 2,
     "rua": "Rua Rio Turvo",
     "titulo": "Apartamento para alugar em Londrina, Tietê, com 2 quartos, com 45 m²",
-    "total": 1550.0,
+    "total": 1350.0,
     "url": "https://www.imobiliariasenador.com.br/imoveis/apartamento-locacao-2-dormitorios-1-vaga-45m2-londrina-tiete-AP1006",
     "vagas": 1
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-21"
+   "visto": "2026-11-23"
   },
   "imobiliaria-senador:AP1042": {
    "aluguel": 1300.0,
@@ -11432,7 +11441,7 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-22"
+   "visto": "2026-11-23"
   },
   "imobiliaria-senador:AP1148": {
    "aluguel": 3300.0,
@@ -11580,6 +11589,13 @@
   "imobiliaria-veneza:02962.003": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "imobiliaria-veneza:04002.003": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-23",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-23"
@@ -12257,7 +12273,7 @@
    "visto": "2026-11-23"
   },
   "jr3-negocios-imobiliarios:191185": {
-   "aluguel": 5400.0,
+   "aluguel": 5200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -12763,6 +12779,13 @@
   "jr3-negocios-imobiliarios:191470": {
    "aluguel": 6800.0,
    "desde": "2026-11-19",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "jr3-negocios-imobiliarios:191472": {
+   "aluguel": 12500.0,
+   "desde": "2026-11-23",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-23"
@@ -15420,7 +15443,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795438159
+  "Catuaí Imóveis": 1795443052
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
