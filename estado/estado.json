@@ -1665,6 +1665,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP11306": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "century-21-class:AP11386": {
    "aluguel": 2500.0,
    "dados": {
@@ -1927,7 +1934,7 @@
    "visto": "2026-11-16"
   },
   "century-21-class:AP12208": {
-   "aluguel": 2200.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
@@ -5251,7 +5258,7 @@
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-23"
   },
   "cmsouza:AP3005": {
    "aluguel": 2900.0,
@@ -5589,6 +5596,13 @@
    "ok": false,
    "visto": "2026-11-15"
   },
+  "cmsouza:AP6731": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "cmsouza:AP6732": {
    "aluguel": 8750.0,
    "desde": "2026-11-15",
@@ -5743,12 +5757,26 @@
    "ok": false,
    "visto": "2026-11-21"
   },
+  "cmsouza:AP6918": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-23",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "cmsouza:AP6921": {
    "aluguel": 3450.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-15"
+  },
+  "cmsouza:AP6928": {
+   "aluguel": 3000.0,
+   "desde": "2026-11-23",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
   },
   "cmsouza:AP6931": {
    "aluguel": 5400.0,
@@ -11565,6 +11593,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-veneza:00781.003": {
+   "aluguel": 1100.0,
+   "desde": "2026-11-23",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "imobiliaria-veneza:00867.006": {
    "aluguel": 950.0,
    "desde": "2026-11-17",
@@ -15464,7 +15499,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795451015
+  "Catuaí Imóveis": 1795454884
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
