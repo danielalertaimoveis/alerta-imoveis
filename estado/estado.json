@@ -1723,6 +1723,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "century-21-class:AP11644": {
+   "aluguel": 5500.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "century-21-class:AP11685": {
    "aluguel": 4500.0,
    "desde": "2026-11-12",
@@ -1905,6 +1912,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "century-21-class:AP12175": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "century-21-class:AP12183": {
    "aluguel": 1900.0,
    "desde": "2026-11-12",
@@ -1916,6 +1930,13 @@
    "aluguel": 5800.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "century-21-class:AP12198": {
+   "aluguel": 1350.0,
+   "desde": "2026-11-23",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-23"
   },
@@ -9569,6 +9590,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-raul-fulgencio:16051": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
   "imobiliaria-raul-fulgencio:167": {
    "aluguel": 1900.0,
    "desde": "2026-11-12",
@@ -11559,6 +11587,13 @@
    "aluguel": 2400.0,
    "desde": "2026-11-12",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-23"
+  },
+  "imobiliaria-senador:AP1173": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-23"
   },
@@ -15499,7 +15534,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795454884
+  "Catuaí Imóveis": 1795457985
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
