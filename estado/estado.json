@@ -14950,7 +14950,11 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "AG Prime Imóveis": 1,
+  "Imobiliária Monaco": 1,
+  "Imobiliária Raul Fulgêncio": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15569,7 +15573,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795477445
+  "Catuaí Imóveis": 1795480735
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
