@@ -2180,12 +2180,26 @@
    "ok": false,
    "visto": "2026-11-24"
   },
+  "century-21-class:AP12341": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "century-21-class:AP12342": {
    "aluguel": 1750.0,
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-23"
+  },
+  "century-21-class:AP12345": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
   },
   "century-21-class:AP1237": {
    "aluguel": 2100.0,
@@ -3797,7 +3811,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -5256,6 +5270,13 @@
   "chaves-na-mao:49109819": {
    "aluguel": 1950.0,
    "desde": "2026-11-22",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "chaves-na-mao:49152740": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-24",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-24"
@@ -15576,7 +15597,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795520570
+  "Catuaí Imóveis": 1795524623
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
