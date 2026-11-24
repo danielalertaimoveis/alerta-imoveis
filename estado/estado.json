@@ -15233,7 +15233,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Monaco": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15864,7 +15866,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795560279
+  "Catuaí Imóveis": 1795563388
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
