@@ -2253,6 +2253,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "century-21-class:AP2265": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "century-21-class:AP2296": {
    "aluguel": 2500.0,
    "desde": "2026-11-11",
@@ -2452,6 +2459,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "century-21-class:AP6533": {
+   "aluguel": 1750.0,
+   "desde": "2026-11-24",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "century-21-class:AP6559": {
    "aluguel": 1200.0,
    "desde": "2026-11-16",
@@ -2515,6 +2529,13 @@
    },
    "desde": "2026-11-13",
    "ok": true,
+   "visto": "2026-11-24"
+  },
+  "century-21-class:AP7621": {
+   "aluguel": 3400.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
    "visto": "2026-11-24"
   },
   "century-21-class:AP7853": {
@@ -5323,6 +5344,13 @@
    "aluguel": 2300.0,
    "desde": "2026-11-24",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "chaves-na-mao:49173383": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-24",
+   "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-24"
   },
@@ -15247,6 +15275,10 @@
    -23.3199182,
    -51.1652867
   ],
+  "avenida parana londrina": [
+   -23.3109288,
+   -51.1647392
+  ],
   "celso garcia cid londrina": [
    -23.2767503,
    -51.2394347
@@ -15774,6 +15806,10 @@
    15.2,
    1141
   ],
+  "-23.31094,-51.16065": [
+   18.6,
+   1380
+  ],
   "-23.31106,-51.16672": [
    13.1,
    982
@@ -15828,7 +15864,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795553920
+  "Catuaí Imóveis": 1795557069
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
