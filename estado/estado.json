@@ -11969,6 +11969,13 @@
    "ok": true,
    "visto": "2026-11-23"
   },
+  "imobiliaria-veneza:08087.004": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-veneza:08461.001": {
    "aluguel": 1380.0,
    "dados": {
@@ -12026,7 +12033,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-24"
   },
   "imobiliaria-veneza:09841.001": {
    "aluguel": 1800.0,
@@ -12690,7 +12697,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "jr3-negocios-imobiliarios:191319": {
    "aluguel": 5800.0,
@@ -13045,6 +13052,13 @@
   "jr3-negocios-imobiliarios:191475": {
    "aluguel": 5600.0,
    "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "jr3-negocios-imobiliarios:191478": {
+   "aluguel": 11500.0,
+   "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-24"
@@ -15702,7 +15716,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795540687
+  "Catuaí Imóveis": 1795543721
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
