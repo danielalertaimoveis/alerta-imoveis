@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-23": 1,
-  "2026-11-24": 1
+  "2026-11-24": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -5389,6 +5389,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "cmsouza:AP3763": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "cmsouza:AP3771": {
    "aluguel": 3800.0,
    "desde": "2026-11-17",
@@ -6070,6 +6077,13 @@
   },
   "cmsouza:AP7012": {
    "aluguel": 12500.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "cmsouza:AP7014": {
+   "aluguel": 11500.0,
    "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -9632,6 +9646,29 @@
    "ok": false,
    "visto": "2026-11-24"
   },
+  "imobiliaria-perez:1951": {
+   "aluguel": 1800.0,
+   "dados": {
+    "aluguel": 1800.0,
+    "anunciante": "Imobiliária Perez",
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio",
+     "condomínio não informado, o total pode passar do limite"
+    ],
+    "bairro": "Centro",
+    "fonte": "Imobiliária Perez",
+    "metros": 1089,
+    "minutos": 14.6,
+    "quartos": 3,
+    "titulo": "Apartamento para alugar no Edifício Panorama , no centro de Londrina",
+    "total": 1800.0,
+    "url": "https://www.imobiliariaperez.com.br/imovel/apartamento-para-alugar-3-quartos-2-banheiros-1-vaga-centro-londrina-pr-cod-1951",
+    "vagas": 1
+   },
+   "desde": "2026-11-24",
+   "ok": true,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-perez:273": {
    "aluguel": 850.0,
    "desde": "2026-11-11",
@@ -11789,6 +11826,13 @@
    "ok": false,
    "visto": "2026-11-24"
   },
+  "imobiliaria-senador:AP1174": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-24",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-veneza:00221.003": {
    "aluguel": 1300.0,
    "dados": {
@@ -12137,9 +12181,9 @@
    "visto": "2026-11-24"
   },
   "imobiliaria-veneza:09949.001": {
-   "aluguel": 1500.0,
+   "aluguel": 1400.0,
    "dados": {
-    "aluguel": 1500.0,
+    "aluguel": 1400.0,
     "anunciante": "Imobiliária Veneza",
     "area": 87,
     "avisos": [
@@ -12152,8 +12196,8 @@
     "numero": "840",
     "quartos": 2,
     "rua": "R. Belo Horizonte",
-    "total": 1500.0,
-    "url": "https://www.veneza.com.br/imovel/apartamento-2-quartos-centro-londrina-1-vaga-87m2-locacao-rs-1500/5770/09949.001",
+    "total": 1400.0,
+    "url": "https://www.veneza.com.br/imovel/apartamento-2-quartos-centro-londrina-1-vaga-87m2-locacao-rs-1400/5770/09949.001",
     "vagas": 1
    },
    "desde": "2026-11-18",
@@ -14856,6 +14900,11 @@
    "chave": "chaves-na-mao:46356190",
    "data": "11/11"
   },
+  "r belo horizonte|840|2|1400": {
+   "anunciante": "Imobiliária Veneza",
+   "chave": "imobiliaria-veneza:09949.001",
+   "data": "24/11"
+  },
   "r belo horizonte|840|2|1500": {
    "anunciante": "Imobiliária Veneza",
    "chave": "imobiliaria-veneza:09949.001",
@@ -15699,6 +15748,10 @@
    16.4,
    1221
   ],
+  "-23.31076,-51.16432": [
+   14.6,
+   1089
+  ],
   "-23.31082,-51.16384": [
    14.2,
    1054
@@ -15761,7 +15814,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795547096
+  "Catuaí Imóveis": 1795550864
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
