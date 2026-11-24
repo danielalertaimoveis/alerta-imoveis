@@ -9798,6 +9798,20 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-raul-fulgencio:18498": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "imobiliaria-raul-fulgencio:19423": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-raul-fulgencio:200": {
    "aluguel": 1950.0,
    "desde": "2026-11-19",
@@ -11946,7 +11960,7 @@
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-24"
   },
   "imobiliaria-veneza:06292.001": {
    "aluguel": 1600.0,
@@ -15814,7 +15828,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795550864
+  "Catuaí Imóveis": 1795553920
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
