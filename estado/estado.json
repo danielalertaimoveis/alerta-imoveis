@@ -1745,11 +1745,11 @@
    "visto": "2026-11-16"
   },
   "century-21-class:AP11724": {
-   "aluguel": 2401.01,
+   "aluguel": 2400.0,
    "desde": "2026-11-11",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-24"
   },
   "century-21-class:AP11750": {
    "aluguel": 2600.0,
@@ -1990,11 +1990,11 @@
    "visto": "2026-11-23"
   },
   "century-21-class:AP12226": {
-   "aluguel": 6500.0,
+   "aluguel": 6400.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-24"
   },
   "century-21-class:AP12236": {
    "aluguel": 2300.0,
@@ -2484,7 +2484,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-24"
   },
   "century-21-class:AP8468": {
    "aluguel": 6000.0,
@@ -3087,7 +3087,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:40694740": {
    "aluguel": 3000.0,
@@ -3121,7 +3121,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:41527990": {
    "aluguel": 2950.0,
@@ -3284,14 +3284,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:43172243": {
    "aluguel": 2300.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:43179260": {
    "aluguel": 2800.0,
@@ -3305,7 +3305,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:43287874": {
    "aluguel": 2800.0,
@@ -3326,7 +3326,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:43622063": {
    "aluguel": 1650.0,
@@ -4060,7 +4060,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:46761626": {
    "aluguel": 2101.01,
@@ -4621,7 +4621,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:48378899": {
    "aluguel": 2200.0,
@@ -5113,7 +5113,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:48876314": {
    "aluguel": 2500.0,
@@ -5199,7 +5199,7 @@
    "desde": "2026-11-20",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:49029568": {
    "aluguel": 2300.0,
@@ -5213,21 +5213,21 @@
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:49036796": {
    "aluguel": 2600.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:49065137": {
    "aluguel": 1950.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "chaves-na-mao:49088143": {
    "aluguel": 1400.0,
@@ -5819,6 +5819,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-18"
+  },
+  "cmsouza:AP6939": {
+   "aluguel": 3100.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6945": {
    "aluguel": 4900.0,
@@ -7311,7 +7318,7 @@
    "desde": "2026-11-14",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "imobiliaria-humaita:AP0609-HUMO": {
    "aluguel": 5100.0,
@@ -14656,7 +14663,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37
+  "approx:19/187611/297065": 36
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -15569,8 +15576,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795517363
+  "Catuaí Imóveis": 1795520570
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
- "ultimo_status": "2026-11-23"
+ "ultimo_status": "2026-11-24"
 }
