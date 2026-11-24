@@ -5370,14 +5370,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP4359": {
    "aluguel": 14000.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP4590": {
    "aluguel": 10000.0,
@@ -5475,7 +5475,7 @@
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP5516": {
    "aluguel": 2500.0,
@@ -5575,6 +5575,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP6206": {
+   "aluguel": 8000.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "cmsouza:AP6285": {
    "aluguel": 6300.0,
    "desde": "2026-11-19",
@@ -5588,6 +5595,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
+  },
+  "cmsouza:AP6466": {
+   "aluguel": 16000.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6473": {
    "aluguel": 2350.0,
@@ -5622,7 +5636,7 @@
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6614": {
    "aluguel": 4500.0,
@@ -5664,7 +5678,7 @@
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6745": {
    "aluguel": 5500.0,
@@ -5736,6 +5750,13 @@
    "ok": false,
    "visto": "2026-11-13"
   },
+  "cmsouza:AP6849": {
+   "aluguel": 8500.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "cmsouza:AP6851": {
    "aluguel": 6700.0,
    "desde": "2026-11-15",
@@ -5769,7 +5790,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-14"
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6874": {
    "aluguel": 4500.0,
@@ -5784,6 +5805,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-19"
+  },
+  "cmsouza:AP6887": {
+   "aluguel": 11000.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
   },
   "cmsouza:AP6894": {
    "aluguel": 6000.0,
@@ -5991,6 +6019,13 @@
   "cmsouza:AP7010": {
    "aluguel": 10500.0,
    "desde": "2026-11-23",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
+  "cmsouza:AP7012": {
+   "aluguel": 12500.0,
+   "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-24"
@@ -9681,6 +9716,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-raul-fulgencio:23436": {
+   "aluguel": 4800.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-raul-fulgencio:23516": {
    "aluguel": 2500.0,
    "desde": "2026-11-17",
@@ -11444,7 +11486,7 @@
    },
    "desde": "2026-11-12",
    "ok": true,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "imobiliaria-senador:AP0646": {
    "aluguel": 1500.0,
@@ -15006,7 +15048,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Century 21 Class": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15625,7 +15669,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795529185
+  "Catuaí Imóveis": 1795532888
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
