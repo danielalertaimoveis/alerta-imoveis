@@ -14950,10 +14950,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "Imobiliária Monaco": 1,
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -15572,7 +15569,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795503827
+  "Catuaí Imóveis": 1795508930
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-23"
