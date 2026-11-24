@@ -1835,6 +1835,13 @@
    "ok": false,
    "visto": "2026-11-24"
   },
+  "century-21-class:AP12078": {
+   "aluguel": 25100.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "century-21-class:AP12079": {
    "aluguel": 3500.0,
    "desde": "2026-11-13",
@@ -8599,6 +8606,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-londrina-norte:AP0116-LONF": {
+   "aluguel": 980.0,
+   "desde": "2026-11-24",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-londrina-norte:AP0351-LONF": {
    "aluguel": 3500.0,
    "desde": "2026-11-11",
@@ -11562,6 +11576,13 @@
    "ok": false,
    "visto": "2026-11-24"
   },
+  "imobiliaria-senador:AP1074": {
+   "aluguel": 1200.0,
+   "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-24"
+  },
   "imobiliaria-senador:AP1077": {
    "aluguel": 1200.0,
    "desde": "2026-11-12",
@@ -11588,7 +11609,7 @@
    "desde": "2026-11-12",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-24"
   },
   "imobiliaria-senador:AP1102": {
    "aluguel": 4500.0,
@@ -12284,6 +12305,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-23"
+  },
+  "jr3-negocios-imobiliarios:190704": {
+   "aluguel": 3450.0,
+   "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-24"
   },
   "jr3-negocios-imobiliarios:190859": {
    "aluguel": 2800.0,
@@ -15674,7 +15702,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795536980
+  "Catuaí Imóveis": 1795540687
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
