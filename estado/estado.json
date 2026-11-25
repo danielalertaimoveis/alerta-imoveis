@@ -3905,7 +3905,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-24"
+   "visto": "2026-11-25"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -4598,7 +4598,7 @@
    "visto": "2026-11-25"
   },
   "chaves-na-mao:47982623": {
-   "aluguel": 2200.0,
+   "aluguel": 1950.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
@@ -5066,6 +5066,13 @@
    "motivo": "mais de 15 min a pé",
    "ok": false,
    "visto": "2026-11-18"
+  },
+  "chaves-na-mao:48727121": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-25",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
   },
   "chaves-na-mao:48735081": {
    "aluguel": 2600.0,
@@ -5931,6 +5938,13 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "cmsouza:AP6865": {
+   "aluguel": 2350.0,
+   "desde": "2026-11-25",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "cmsouza:AP6871": {
    "aluguel": 12500.0,
    "desde": "2026-11-12",
@@ -6037,18 +6051,18 @@
    "visto": "2026-11-25"
   },
   "cmsouza:AP6951": {
-   "aluguel": 5600.0,
+   "aluguel": 5200.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-25"
   },
   "cmsouza:AP6953": {
    "aluguel": 7950.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-20"
+   "visto": "2026-11-25"
   },
   "cmsouza:AP6957": {
    "aluguel": 4000.0,
@@ -6156,7 +6170,7 @@
    "visto": "2026-11-25"
   },
   "cmsouza:AP7009": {
-   "aluguel": 4400.0,
+   "aluguel": 3900.0,
    "desde": "2026-11-21",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -12264,6 +12278,13 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "imobiliaria-veneza:09811.007": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "imobiliaria-veneza:09841.001": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
@@ -12627,7 +12648,7 @@
    "visto": "2026-11-25"
   },
   "jr3-negocios-imobiliarios:191108": {
-   "aluguel": 5300.0,
+   "aluguel": 5000.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -13174,7 +13195,7 @@
    "visto": "2026-11-25"
   },
   "jr3-negocios-imobiliarios:191419": {
-   "aluguel": 5600.0,
+   "aluguel": 5200.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -13223,7 +13244,7 @@
    "visto": "2026-11-25"
   },
   "jr3-negocios-imobiliarios:191454": {
-   "aluguel": 4400.0,
+   "aluguel": 3900.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -16019,7 +16040,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795607234
+  "Catuaí Imóveis": 1795611140
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
