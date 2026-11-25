@@ -1936,6 +1936,13 @@
    "ok": false,
    "visto": "2026-11-20"
   },
+  "century-21-class:AP12139": {
+   "aluguel": 10500.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "century-21-class:AP12159": {
    "aluguel": 2500.0,
    "desde": "2026-11-14",
@@ -5441,6 +5448,13 @@
    "ok": false,
    "visto": "2026-11-15"
   },
+  "cmsouza:AP1515": {
+   "aluguel": 3400.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "cmsouza:AP1618": {
    "aluguel": 9800.0,
    "desde": "2026-11-12",
@@ -6468,7 +6482,7 @@
    "visto": "2026-11-16"
   },
   "human-imoveis:AP3339_HMN": {
-   "aluguel": 8400.0,
+   "aluguel": 7900.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -9892,6 +9906,13 @@
   "imobiliaria-perez:8902": {
    "aluguel": 1700.0,
    "desde": "2026-11-12",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
+  "imobiliaria-perez:8921": {
+   "aluguel": 1800.0,
+   "desde": "2026-11-25",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-25"
@@ -16075,7 +16096,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795620308
+  "Catuaí Imóveis": 1795624544
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
