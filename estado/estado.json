@@ -2608,6 +2608,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "century-21-class:AP8022": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "century-21-class:AP8416": {
    "aluguel": 4700.0,
    "desde": "2026-11-22",
@@ -10043,6 +10050,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-raul-fulgencio:2197": {
+   "aluguel": 4700.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "imobiliaria-raul-fulgencio:23195": {
    "aluguel": 5200.0,
    "desde": "2026-11-13",
@@ -12114,7 +12128,7 @@
    "desde": "2026-11-23",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-24"
+   "visto": "2026-11-25"
   },
   "imobiliaria-veneza:00867.006": {
    "aluguel": 950.0,
@@ -15499,7 +15513,11 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "CMSouza": 1,
+  "Imobiliária Senador": 1,
+  "Premier Imóveis": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16142,7 +16160,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795636369
+  "Catuaí Imóveis": 1795639537
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
