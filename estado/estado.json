@@ -278,6 +278,13 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "ag-prime-imoveis:666": {
+   "aluguel": 3300.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "barreto-imoveis:AP0912-BAUV": {
    "aluguel": 5800.0,
    "desde": "2026-11-12",
@@ -5714,6 +5721,13 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "cmsouza:AP5907": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-25",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "cmsouza:AP5940": {
    "aluguel": 4400.0,
    "desde": "2026-11-12",
@@ -9702,6 +9716,13 @@
    "ok": true,
    "visto": "2026-11-25"
   },
+  "imobiliaria-natal:AP0540_NATA": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-25",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "imobiliaria-perez:10269": {
    "aluguel": 2000.0,
    "desde": "2026-11-25",
@@ -13383,6 +13404,13 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "jr3-negocios-imobiliarios:191480": {
+   "aluguel": 4400.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -15840,6 +15868,10 @@
    18.7,
    1398
   ],
+  "-23.30346,-51.17767": [
+   21.6,
+   1612
+  ],
   "-23.30348,-51.17482": [
    15.5,
    1158
@@ -16110,7 +16142,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795630236
+  "Catuaí Imóveis": 1795633208
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
