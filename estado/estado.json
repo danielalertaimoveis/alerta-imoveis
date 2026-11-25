@@ -2,7 +2,7 @@
  "alertas_por_dia": {
   "2026-11-23": 1,
   "2026-11-24": 3,
-  "2026-11-25": 1
+  "2026-11-25": 2
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -5187,6 +5187,30 @@
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
+   "visto": "2026-11-25"
+  },
+  "chaves-na-mao:48864134": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "88 IMÓVEIS",
+    "area": 57,
+    "bairro": "Centro",
+    "condominio": 400.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 729,
+    "minutos": 9.8,
+    "numero": "250",
+    "quartos": 2,
+    "rua": "Rua Prefeito Hugo Cabral",
+    "titulo": "Apartamento com 2 dormitórios, 57 m² - venda por R$ 450.000 ou aluguel por R$ 2.500/mês - Centro -",
+    "total": 2900.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-centro-100m2-RS2500/id-48864134/",
+    "vagas": 1
+   },
+   "desde": "2026-11-25",
+   "ok": true,
    "visto": "2026-11-25"
   },
   "chaves-na-mao:48874692": {
@@ -15897,7 +15921,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795597146
+  "Catuaí Imóveis": 1795601109
  },
  "ultimo_resumo_disponiveis": "2026-11-23",
  "ultimo_status": "2026-11-24"
