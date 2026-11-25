@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-24": 3,
-  "2026-11-25": 2
+  "2026-11-25": 3
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -2254,7 +2254,7 @@
    "visto": "2026-11-19"
   },
   "century-21-class:AP12336": {
-   "aluguel": 12000.0,
+   "aluguel": 15000.0,
    "desde": "2026-11-18",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -2873,7 +2873,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-17"
+   "visto": "2026-11-25"
   },
   "chaves-na-mao:23669605": {
    "aluguel": 1150.0,
@@ -3239,6 +3239,31 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "chaves-na-mao:40437618": {
+   "aluguel": 800.0,
+   "dados": {
+    "aluguel": 800.0,
+    "anunciante": "IMOBILIÁRIA PEREZ",
+    "area": 64,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Tietê",
+    "condominio": 300.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 375,
+    "minutos": 5.1,
+    "quartos": 2,
+    "titulo": "Apartamento",
+    "total": 1100.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-tiete-64m2-RS800/id-40437618/",
+    "vagas": 1
+   },
+   "desde": "2026-11-25",
+   "ok": true,
+   "visto": "2026-11-25"
+  },
   "chaves-na-mao:40694740": {
    "aluguel": 3000.0,
    "desde": "2026-11-11",
@@ -3339,7 +3364,7 @@
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-25"
   },
   "chaves-na-mao:42337764": {
    "aluguel": 2300.0,
@@ -5670,7 +5695,7 @@
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-25"
   },
   "cmsouza:AP5451": {
    "aluguel": 10000.0,
@@ -6247,7 +6272,7 @@
    "visto": "2026-11-25"
   },
   "cmsouza:AP7012": {
-   "aluguel": 12500.0,
+   "aluguel": 15000.0,
    "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -15214,7 +15239,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 36
+  "approx:19/187611/297065": 37
  },
  "enderecos": {
   "avenida juscelino kubitschek|635|3|2200": {
@@ -15513,11 +15538,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "CMSouza": 1,
-  "Imobiliária Senador": 1,
-  "Premier Imóveis": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16160,7 +16181,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795639537
+  "Catuaí Imóveis": 1795643078
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
