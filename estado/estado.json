@@ -1724,6 +1724,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP11244": {
+   "aluguel": 3600.0,
+   "desde": "2026-11-25",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "century-21-class:AP11306": {
    "aluguel": 3800.0,
    "desde": "2026-11-23",
@@ -1776,11 +1783,11 @@
    "visto": "2026-11-24"
   },
   "century-21-class:AP11592": {
-   "aluguel": 1400.0,
+   "aluguel": 1300.0,
    "desde": "2026-11-16",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-25"
   },
   "century-21-class:AP11644": {
    "aluguel": 5500.0,
@@ -9653,6 +9660,13 @@
    "ok": true,
    "visto": "2026-11-25"
   },
+  "imobiliaria-perez:10269": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-25",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
   "imobiliaria-perez:10506": {
    "aluguel": 2200.0,
    "desde": "2026-11-13",
@@ -10152,6 +10166,13 @@
    "aluguel": 7500.0,
    "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-25"
+  },
+  "imobiliaria-raul-fulgencio:3072": {
+   "aluguel": 1550.0,
+   "desde": "2026-11-25",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-25"
   },
@@ -15401,7 +15422,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Monaco": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16040,7 +16063,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795611140
+  "Catuaí Imóveis": 1795615951
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
