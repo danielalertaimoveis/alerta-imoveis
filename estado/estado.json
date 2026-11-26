@@ -9215,7 +9215,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP1281-MONA": {
    "aluguel": 1950.0,
@@ -9236,7 +9236,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP2051-MONA": {
    "aluguel": 1980.0,
@@ -9264,7 +9264,7 @@
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP2565-MONA": {
    "aluguel": 1500.0,
@@ -9285,7 +9285,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP2838-MONA": {
    "aluguel": 1500.0,
@@ -9313,14 +9313,14 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP3350-MONA": {
    "aluguel": 1000.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP3370-MONA": {
    "aluguel": 2500.0,
@@ -9519,7 +9519,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP4540-MONA": {
    "aluguel": 1000.0,
@@ -9533,14 +9533,14 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP4549-MONA": {
    "aluguel": 1100.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP4572-MONA": {
    "aluguel": 4500.0,
@@ -9561,7 +9561,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP4583-MONA": {
    "aluguel": 1200.0,
@@ -9631,7 +9631,7 @@
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-monaco:AP4637-MONA": {
    "aluguel": 2000.0,
@@ -16182,7 +16182,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795665261
+  "Catuaí Imóveis": 1795669229
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
