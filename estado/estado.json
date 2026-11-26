@@ -7265,7 +7265,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-europa:AP2175-EURW": {
    "aluguel": 1500.0,
@@ -7321,7 +7321,7 @@
    "desde": "2026-11-23",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-europa:AP2748-EURW": {
    "aluguel": 1500.0,
@@ -7379,7 +7379,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-europa:AP2954-EURW": {
    "aluguel": 5200.0,
@@ -7661,7 +7661,7 @@
    "desde": "2026-11-24",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-humaita:AP0390-HUMO": {
    "aluguel": 3850.0,
@@ -16182,7 +16182,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795672662
+  "Catuaí Imóveis": 1795676760
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-25"
