@@ -1738,6 +1738,13 @@
    "ok": false,
    "visto": "2026-11-16"
   },
+  "century-21-class:AP10996": {
+   "aluguel": 15001.01,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "century-21-class:AP11125": {
    "aluguel": 1300.0,
    "desde": "2026-11-24",
@@ -2578,6 +2585,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "century-21-class:AP6949": {
+   "aluguel": 3650.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "century-21-class:AP7192": {
    "aluguel": 4700.0,
    "desde": "2026-11-11",
@@ -2636,6 +2650,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "century-21-class:AP7918": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "century-21-class:AP8018": {
    "aluguel": 3401.01,
    "desde": "2026-11-14",
@@ -2647,6 +2668,13 @@
    "aluguel": 4000.0,
    "desde": "2026-11-25",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "century-21-class:AP8390": {
+   "aluguel": 2800.0,
+   "desde": "2026-11-26",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-26"
   },
@@ -5529,6 +5557,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "cmsouza:AP0031": {
+   "aluguel": 3650.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
    "desde": "2026-11-15",
@@ -5751,7 +5786,7 @@
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-24"
+   "visto": "2026-11-26"
   },
   "cmsouza:AP5581": {
    "aluguel": 3900.0,
@@ -5761,11 +5796,11 @@
    "visto": "2026-11-15"
   },
   "cmsouza:AP5614": {
-   "aluguel": 4800.0,
+   "aluguel": 4370.0,
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-15"
+   "visto": "2026-11-26"
   },
   "cmsouza:AP5707": {
    "aluguel": 5800.0,
@@ -6981,7 +7016,7 @@
    "visto": "2026-11-26"
   },
   "imob3m:AP1845-IMZ1": {
-   "aluguel": 3000.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
@@ -7120,7 +7155,7 @@
    "visto": "2026-11-26"
   },
   "imob3m:AP1951-IMZ1": {
-   "aluguel": 4000.0,
+   "aluguel": 3900.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -10175,6 +10210,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "imobiliaria-raul-fulgencio:23069": {
+   "aluguel": 3650.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-raul-fulgencio:23195": {
    "aluguel": 4800.0,
    "desde": "2026-11-13",
@@ -12304,6 +12346,13 @@
    "ok": false,
    "visto": "2026-11-12"
   },
+  "imobiliaria-veneza:02629.003": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-veneza:02962.003": {
    "aluguel": 2100.0,
    "desde": "2026-11-11",
@@ -14238,6 +14287,13 @@
   "premier-imoveis:AP1529": {
    "aluguel": 2500.0,
    "desde": "2026-11-14",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "premier-imoveis:AP1531": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-26",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-26"
@@ -16314,7 +16370,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795713321
+  "Catuaí Imóveis": 1795716362
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
