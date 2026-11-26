@@ -6885,7 +6885,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imob3m:AP1702-IMZ1": {
    "aluguel": 750.0,
@@ -6988,7 +6988,7 @@
    "visto": "2026-11-26"
   },
   "imob3m:AP1846-IMZ1": {
-   "aluguel": 3000.0,
+   "aluguel": 2900.0,
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
@@ -16314,7 +16314,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795709299
+  "Catuaí Imóveis": 1795713321
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
