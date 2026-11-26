@@ -1,6 +1,5 @@
 {
  "alertas_por_dia": {
-  "2026-11-24": 3,
   "2026-11-25": 3
  },
  "anuncios": {
@@ -2090,6 +2089,20 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "century-21-class:AP12229": {
+   "aluguel": 7990.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "century-21-class:AP12230": {
+   "aluguel": 8800.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "century-21-class:AP12236": {
    "aluguel": 2300.0,
    "dados": {
@@ -2299,6 +2312,20 @@
    "aluguel": 2700.0,
    "desde": "2026-11-24",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "century-21-class:AP12348": {
+   "aluguel": 1990.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "century-21-class:AP12351": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-26"
   },
@@ -3237,7 +3264,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:40437618": {
    "aluguel": 800.0,
@@ -3296,7 +3323,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:41527990": {
    "aluguel": 2950.0,
@@ -3459,14 +3486,14 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:43172243": {
    "aluguel": 2300.0,
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:43179260": {
    "aluguel": 2800.0,
@@ -3480,7 +3507,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:43287874": {
    "aluguel": 2800.0,
@@ -3501,7 +3528,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:43622063": {
    "aluguel": 1650.0,
@@ -4235,7 +4262,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:46761626": {
    "aluguel": 2101.01,
@@ -4796,7 +4823,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:48378899": {
    "aluguel": 2200.0,
@@ -5319,7 +5346,7 @@
    "desde": "2026-11-14",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:48876314": {
    "aluguel": 2500.0,
@@ -5405,7 +5432,7 @@
    "desde": "2026-11-20",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:49029568": {
    "aluguel": 2300.0,
@@ -5419,21 +5446,21 @@
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:49036796": {
    "aluguel": 2600.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:49065137": {
    "aluguel": 1950.0,
    "desde": "2026-11-19",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:49088143": {
    "aluguel": 1400.0,
@@ -10083,15 +10110,22 @@
    "visto": "2026-11-26"
   },
   "imobiliaria-raul-fulgencio:23195": {
-   "aluguel": 5200.0,
+   "aluguel": 4800.0,
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-26"
   },
   "imobiliaria-raul-fulgencio:23436": {
    "aluguel": 4800.0,
    "desde": "2026-11-24",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "imobiliaria-raul-fulgencio:23440": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-26",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-26"
@@ -13423,7 +13457,7 @@
    "visto": "2026-11-26"
   },
   "jr3-negocios-imobiliarios:191472": {
-   "aluguel": 12500.0,
+   "aluguel": 15000.0,
    "desde": "2026-11-23",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -15239,7 +15273,7 @@
  "cnm_grupos": {
   "19/187630/297067@391295:250": 11,
   "approx:19/187611/297059": 9,
-  "approx:19/187611/297065": 37,
+  "approx:19/187611/297065": 36,
   "approx:19/187638/297056": 9
  },
  "enderecos": {
@@ -16182,8 +16216,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795690312
+  "Catuaí Imóveis": 1795693523
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
- "ultimo_status": "2026-11-25"
+ "ultimo_status": "2026-11-26"
 }
