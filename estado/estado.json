@@ -1391,7 +1391,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "camponesa-imoveis:AP1744-CAPC": {
    "aluguel": 1800.0,
@@ -2279,7 +2279,7 @@
    "desde": "2026-11-16",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-19"
+   "visto": "2026-11-26"
   },
   "century-21-class:AP12336": {
    "aluguel": 15000.0,
@@ -5557,6 +5557,20 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "chaves-na-mao:49248172": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-26",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "chaves-na-mao:49248176": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-26",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "cmsouza:AP0031": {
    "aluguel": 3650.0,
    "desde": "2026-11-26",
@@ -7023,7 +7037,7 @@
    "visto": "2026-11-25"
   },
   "imob3m:AP1844-IMZ1": {
-   "aluguel": 4200.0,
+   "aluguel": 3900.0,
    "desde": "2026-11-12",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -9269,6 +9283,13 @@
   "imobiliaria-londrina-norte:AP0845-LONF": {
    "aluguel": 1000.0,
    "desde": "2026-11-24",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "imobiliaria-londrina-norte:AP0848-LONF": {
+   "aluguel": 1700.0,
+   "desde": "2026-11-26",
    "motivo": "bairro fora da região",
    "ok": false,
    "visto": "2026-11-26"
@@ -13516,11 +13537,11 @@
    "visto": "2026-11-25"
   },
   "jr3-negocios-imobiliarios:191423": {
-   "aluguel": 3200.0,
+   "aluguel": 3300.0,
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "jr3-negocios-imobiliarios:191436": {
    "aluguel": 4500.0,
@@ -16391,7 +16412,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795719721
+  "Catuaí Imóveis": 1795723802
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
