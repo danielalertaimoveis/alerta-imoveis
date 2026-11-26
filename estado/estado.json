@@ -13718,6 +13718,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "jr3-negocios-imobiliarios:191486": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "jr3-negocios-imobiliarios:191487": {
    "aluguel": 9000.0,
    "desde": "2026-11-26",
@@ -15828,7 +15835,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Monaco": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16475,7 +16484,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795733205
+  "Catuaí Imóveis": 1795736511
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
