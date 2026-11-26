@@ -1,6 +1,7 @@
 {
  "alertas_por_dia": {
-  "2026-11-25": 3
+  "2026-11-25": 3,
+  "2026-11-26": 1
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1075,7 +1076,7 @@
    "desde": "2026-11-12",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "camponesa-imoveis:AP0798-CAPC": {
    "aluguel": 1400.0,
@@ -3999,7 +4000,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -9265,6 +9266,29 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "imobiliaria-monaco:AP1859-MONA": {
+   "aluguel": 2500.0,
+   "dados": {
+    "aluguel": 2500.0,
+    "anunciante": "Imobiliária Monaco",
+    "area": 106,
+    "avisos": [
+     "distância não calculada: o anúncio não traz endereço completo"
+    ],
+    "bairro": "Centro",
+    "condominio": 500.0,
+    "elevador": true,
+    "fonte": "Imobiliária Monaco",
+    "quartos": 3,
+    "titulo": "Apartamento de 107 m² Centro - Londrina, aluguel por R$ 2.500/mês",
+    "total": 3000.0,
+    "url": "https://www.imobiliariamonaco.com.br/imovel/apartamento-londrina-3-quartos-107-m/AP1859-MONA",
+    "vagas": 1
+   },
+   "desde": "2026-11-26",
+   "ok": true,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-monaco:AP2051-MONA": {
    "aluguel": 1980.0,
    "desde": "2026-11-12",
@@ -12201,7 +12225,7 @@
    "desde": "2026-11-11",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-veneza:01423.001": {
    "aluguel": 1390.0,
@@ -13484,6 +13508,20 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "jr3-negocios-imobiliarios:191482": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-26",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "jr3-negocios-imobiliarios:191483": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-26",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -14152,6 +14190,13 @@
    "aluguel": 2500.0,
    "desde": "2026-11-14",
    "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "premier-imoveis:AP1532": {
+   "aluguel": 5800.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-26"
   },
@@ -16216,7 +16261,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795693523
+  "Catuaí Imóveis": 1795697502
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
