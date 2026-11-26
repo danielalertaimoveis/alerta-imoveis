@@ -1041,6 +1041,13 @@
    "ok": false,
    "visto": "2026-11-25"
   },
+  "barreto-imoveis:AP3981-BAUV": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-26",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "camponesa-imoveis:AP0223-CAPC": {
    "aluguel": 950.0,
    "desde": "2026-11-12",
@@ -2692,6 +2699,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "century-21-class:AP8460": {
+   "aluguel": 2400.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "century-21-class:AP8468": {
    "aluguel": 6000.0,
    "desde": "2026-11-11",
@@ -2810,7 +2824,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:15304197": {
    "aluguel": 2100.0,
@@ -3232,7 +3246,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:37033391": {
    "aluguel": 1000.0,
@@ -3268,9 +3282,9 @@
    "visto": "2026-11-26"
   },
   "chaves-na-mao:39035813": {
-   "aluguel": 2800.0,
+   "aluguel": 2600.0,
    "desde": "2026-11-11",
-   "motivo": "mais de 15 min a pé",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-26"
   },
@@ -3682,7 +3696,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:44866307": {
    "aluguel": 1800.0,
@@ -4061,6 +4075,13 @@
    "desde": "2026-11-17",
    "ok": true,
    "visto": "2026-11-25"
+  },
+  "chaves-na-mao:45920901": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:45984710": {
    "aluguel": 2500.0,
@@ -4451,6 +4472,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "chaves-na-mao:47218507": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "chaves-na-mao:47226916": {
    "aluguel": 1700.0,
    "desde": "2026-11-11",
@@ -4470,7 +4498,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:47264452": {
    "aluguel": 2300.0,
@@ -4927,6 +4955,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "chaves-na-mao:48503528": {
+   "aluguel": 2200.0,
+   "desde": "2026-11-26",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "chaves-na-mao:48511894": {
    "aluguel": 2200.0,
    "dados": {
@@ -4987,7 +5022,7 @@
    "desde": "2026-11-11",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:48544460": {
    "aluguel": 2000.0,
@@ -5337,7 +5372,7 @@
    "desde": "2026-11-13",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "chaves-na-mao:48863948": {
    "aluguel": 2100.0,
@@ -5435,6 +5470,13 @@
   "chaves-na-mao:48933127": {
    "aluguel": 2600.0,
    "desde": "2026-11-20",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "chaves-na-mao:48940908": {
+   "aluguel": 2900.0,
+   "desde": "2026-11-26",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-26"
@@ -5565,6 +5607,13 @@
    "visto": "2026-11-26"
   },
   "chaves-na-mao:49248176": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-26",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "chaves-na-mao:49250434": {
    "aluguel": 2100.0,
    "desde": "2026-11-26",
    "motivo": "mais de 15 min a pé",
@@ -9782,6 +9831,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "imobiliaria-monaco:AP4640-MONA": {
+   "aluguel": 900.0,
+   "desde": "2026-11-26",
+   "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-natal:AP0204_NATA": {
    "aluguel": 1400.0,
    "dados": {
@@ -13662,6 +13718,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "jr3-negocios-imobiliarios:191487": {
+   "aluguel": 9000.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "patrimonio-imoveis:1035": {
    "aluguel": 4800.0,
    "desde": "2026-11-14",
@@ -15463,7 +15526,7 @@
   }
  },
  "cnm_grupos": {
-  "19/187630/297067@391295:250": 11,
+  "19/187630/297067@391295:250": 10,
   "approx:19/187611/297059": 9,
   "approx:19/187611/297065": 36,
   "approx:19/187638/297056": 9
@@ -16412,7 +16475,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795723802
+  "Catuaí Imóveis": 1795726881
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
