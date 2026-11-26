@@ -10063,6 +10063,13 @@
    "ok": false,
    "visto": "2026-11-19"
   },
+  "imobiliaria-raul-fulgencio:1205": {
+   "aluguel": 2100.0,
+   "desde": "2026-11-26",
+   "motivo": "quartos a menos",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-raul-fulgencio:12513": {
    "aluguel": 4500.0,
    "desde": "2026-11-11",
@@ -16300,7 +16307,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795701860
+  "Catuaí Imóveis": 1795705538
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
