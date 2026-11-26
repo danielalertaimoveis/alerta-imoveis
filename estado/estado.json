@@ -285,6 +285,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "ag-prime-imoveis:667": {
+   "aluguel": 5450.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "barreto-imoveis:AP0912-BAUV": {
    "aluguel": 5800.0,
    "desde": "2026-11-12",
@@ -1419,7 +1426,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "camponesa-imoveis:AP1749-CAPC": {
    "aluguel": 1600.0,
@@ -1753,7 +1760,7 @@
    "visto": "2026-11-26"
   },
   "century-21-class:AP11306": {
-   "aluguel": 3800.0,
+   "aluguel": 3700.0,
    "desde": "2026-11-23",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -5515,12 +5522,19 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "chaves-na-mao:49235194": {
+   "aluguel": 2000.0,
+   "desde": "2026-11-26",
+   "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "cmsouza:AP0834": {
    "aluguel": 4700.0,
    "desde": "2026-11-15",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-26"
   },
   "cmsouza:AP1036": {
    "aluguel": 4400.0,
@@ -10084,6 +10098,13 @@
    "ok": false,
    "visto": "2026-11-23"
   },
+  "imobiliaria-raul-fulgencio:14586": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-raul-fulgencio:14979": {
    "aluguel": 2700.0,
    "desde": "2026-11-13",
@@ -10105,9 +10126,23 @@
    "ok": false,
    "visto": "2026-11-17"
   },
+  "imobiliaria-raul-fulgencio:18459": {
+   "aluguel": 2700.0,
+   "desde": "2026-11-26",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-raul-fulgencio:18498": {
    "aluguel": 1900.0,
    "desde": "2026-11-24",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
+  "imobiliaria-raul-fulgencio:18574": {
+   "aluguel": 2850.0,
+   "desde": "2026-11-26",
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-26"
@@ -12145,7 +12180,7 @@
    "desde": "2026-11-13",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-25"
+   "visto": "2026-11-26"
   },
   "imobiliaria-senador:AP1166": {
    "aluguel": 2000.0,
@@ -16035,6 +16070,10 @@
    4.2,
    311
   ],
+  "-23.30513,-51.17790": [
+   20.2,
+   1516
+  ],
   "-23.30522,-51.17680": [
    18.5,
    1384
@@ -16261,7 +16300,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795697502
+  "Catuaí Imóveis": 1795701860
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
