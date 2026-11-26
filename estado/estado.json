@@ -10378,6 +10378,13 @@
    "ok": false,
    "visto": "2026-11-26"
   },
+  "imobiliaria-raul-fulgencio:23672": {
+   "aluguel": 3400.0,
+   "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-26"
+  },
   "imobiliaria-raul-fulgencio:3072": {
    "aluguel": 1550.0,
    "desde": "2026-11-25",
@@ -16307,7 +16314,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795705538
+  "Catuaí Imóveis": 1795709299
  },
  "ultimo_resumo_disponiveis": "2026-11-25",
  "ultimo_status": "2026-11-26"
