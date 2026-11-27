@@ -3557,6 +3557,27 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "chaves-na-mao:41902201": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "chaves-na-mao:41909065": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "chaves-na-mao:42061950": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "chaves-na-mao:42123369": {
    "aluguel": 2400.0,
    "desde": "2026-11-11",
@@ -3589,6 +3610,13 @@
    "aluguel": 2500.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "chaves-na-mao:42680627": {
+   "aluguel": 2500.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-27"
   },
@@ -3697,6 +3725,13 @@
   "chaves-na-mao:43318586": {
    "aluguel": 2801.01,
    "desde": "2026-11-11",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "chaves-na-mao:43429666": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-27",
    "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-27"
@@ -3825,6 +3860,13 @@
    "desde": "2026-11-11",
    "ok": true,
    "visto": "2026-11-26"
+  },
+  "chaves-na-mao:44690031": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
   },
   "chaves-na-mao:44866307": {
    "aluguel": 1800.0,
@@ -4300,6 +4342,13 @@
    "aluguel": 2100.0,
    "desde": "2026-11-11",
    "motivo": "mais de 15 min a pé",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "chaves-na-mao:46111948": {
+   "aluguel": 2600.0,
+   "desde": "2026-11-27",
+   "motivo": "total acima do limite",
    "ok": false,
    "visto": "2026-11-27"
   },
@@ -15793,7 +15842,6 @@
  },
  "cnm_grupos": {
   "19/187630/297067@391295:250": 9,
-  "approx:19/187611/297059": 9,
   "approx:19/187611/297065": 40,
   "approx:19/187638/297056": 9
  },
@@ -16755,7 +16803,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795818827
+  "Catuaí Imóveis": 1795822185
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
