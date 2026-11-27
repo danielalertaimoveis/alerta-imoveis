@@ -2188,7 +2188,7 @@
    "desde": "2026-11-17",
    "motivo": "quartos a menos",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-27"
   },
   "century-21-class:AP12226": {
    "aluguel": 6400.0,
@@ -8059,6 +8059,13 @@
    "aluguel": 2390.0,
    "desde": "2026-11-14",
    "motivo": "bairro fora da região",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "imobiliaria-humaita:AP0933-HUMO": {
+   "aluguel": 4900.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-27"
   },
@@ -16055,7 +16062,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "JR3 Negócios Imobiliários": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16706,7 +16715,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795794949
+  "Catuaí Imóveis": 1795798693
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
