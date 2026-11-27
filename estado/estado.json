@@ -2655,7 +2655,7 @@
    "desde": "2026-11-17",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-22"
+   "visto": "2026-11-27"
   },
   "century-21-class:AP6052": {
    "aluguel": 2801.01,
@@ -7992,6 +7992,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "imobiliaria-europa:AP3063-EURW": {
+   "aluguel": 1500.0,
+   "desde": "2026-11-27",
+   "motivo": "bairro distante (a coordenada do anúncio está errada)",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "imobiliaria-humaita:AP0390-HUMO": {
    "aluguel": 3850.0,
    "desde": "2026-11-14",
@@ -10411,7 +10418,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-18"
+   "visto": "2026-11-27"
   },
   "imobiliaria-raul-fulgencio:13860": {
    "aluguel": 6900.0,
@@ -10565,7 +10572,7 @@
    "desde": "2026-11-13",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-17"
+   "visto": "2026-11-27"
   },
   "imobiliaria-raul-fulgencio:23573": {
    "aluguel": 4800.0,
@@ -16734,7 +16741,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795801746
+  "Catuaí Imóveis": 1795804799
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
