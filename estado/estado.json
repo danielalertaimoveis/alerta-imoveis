@@ -2183,6 +2183,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "century-21-class:AP12228": {
+   "aluguel": 2300.0,
+   "desde": "2026-11-27",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "century-21-class:AP12229": {
    "aluguel": 7990.0,
    "desde": "2026-11-26",
@@ -2254,6 +2261,13 @@
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
    "visto": "2026-11-18"
+  },
+  "century-21-class:AP12268": {
+   "aluguel": 5401.01,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
   },
   "century-21-class:AP12270": {
    "aluguel": 3300.0,
@@ -2462,6 +2476,13 @@
    "aluguel": 10000.0,
    "desde": "2026-11-27",
    "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "century-21-class:AP3257": {
+   "aluguel": 2150.0,
+   "desde": "2026-11-27",
+   "motivo": "longe",
    "ok": false,
    "visto": "2026-11-27"
   },
@@ -2863,6 +2884,13 @@
    "motivo": "longe",
    "ok": false,
    "visto": "2026-11-14"
+  },
+  "century-21-class:AP9997": {
+   "aluguel": 900.0,
+   "desde": "2026-11-27",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-27"
   },
   "chaves-na-mao:12882819": {
    "aluguel": 2150.0,
@@ -9477,7 +9505,7 @@
    "visto": "2026-11-27"
   },
   "imobiliaria-londrina-norte:AP0848-LONF": {
-   "aluguel": 1700.0,
+   "aluguel": 1600.0,
    "desde": "2026-11-26",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -16014,7 +16042,9 @@
   }
  },
  "falhas": {
-  "Imobiliária Monaco": 1
+  "CMSouza": 1,
+  "Imobiliária Senador": 1,
+  "Premier Imóveis": 1
  },
  "fontes_iniciadas": [
   "Chaves na Mão",
@@ -16666,7 +16696,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795783496
+  "Catuaí Imóveis": 1795788158
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
