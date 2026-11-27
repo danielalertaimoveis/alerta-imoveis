@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-26": 1,
-  "2026-11-27": 4
+  "2026-11-27": 6
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -1627,7 +1627,7 @@
    "visto": "2026-11-27"
   },
   "catuai-imoveis:apartamento-para-alugar-odyssey-londrina-7": {
-   "aluguel": 4400.0,
+   "aluguel": 4500.0,
    "desde": "2026-11-11",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -1703,6 +1703,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "century-21-class:AP0859": {
+   "aluguel": 2649.0,
+   "desde": "2026-11-27",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "century-21-class:AP10025": {
    "aluguel": 14901.01,
    "desde": "2026-11-16",
@@ -1737,6 +1744,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-11"
+  },
+  "century-21-class:AP10403": {
+   "aluguel": 3401.01,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
   },
   "century-21-class:AP10409": {
    "aluguel": 8701.01,
@@ -3177,7 +3191,7 @@
    },
    "desde": "2026-11-11",
    "ok": true,
-   "visto": "2026-11-25"
+   "visto": "2026-11-27"
   },
   "chaves-na-mao:30628085": {
    "aluguel": 2400.0,
@@ -4103,10 +4117,29 @@
    "visto": "2026-11-20"
   },
   "chaves-na-mao:45699587": {
-   "aluguel": 2400.0,
+   "aluguel": 2150.0,
+   "dados": {
+    "aluguel": 2150.0,
+    "anunciante": "IMOBILIÁRIA SANTAMÉRICA LTDA",
+    "area": 98,
+    "avisos": [
+     "localização aproximada, confira o endereço no anúncio"
+    ],
+    "bairro": "Jardim Agari",
+    "condominio": 672.0,
+    "elevador": true,
+    "fonte": "Chaves na Mão",
+    "metros": 499,
+    "minutos": 6.6,
+    "quartos": 3,
+    "rua": "Rua Porto Alegre",
+    "titulo": "Apartamento com 3 Quartos para Locação no Edifício Pinheiro Junior, no Centro de Londrina",
+    "total": 2822.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-jardim-agari-98m2-RS2150/id-45699587/",
+    "vagas": 1
+   },
    "desde": "2026-11-11",
-   "motivo": "total acima do limite",
-   "ok": false,
+   "ok": true,
    "visto": "2026-11-27"
   },
   "chaves-na-mao:45858907": {
@@ -4121,7 +4154,7 @@
    "desde": "2026-11-12",
    "motivo": "total acima do limite",
    "ok": false,
-   "visto": "2026-11-26"
+   "visto": "2026-11-27"
   },
   "chaves-na-mao:45918854": {
    "aluguel": 2500.0,
@@ -4580,9 +4613,9 @@
    "visto": "2026-11-23"
   },
   "chaves-na-mao:47328583": {
-   "aluguel": 1450.0,
+   "aluguel": 1400.0,
    "dados": {
-    "aluguel": 1450.0,
+    "aluguel": 1400.0,
     "anunciante": "ITAPUÃ EMPREENDIMENTOS IMOBILIÁRIOS SC LTDA",
     "area": 60,
     "bairro": "Vila Nova",
@@ -4595,8 +4628,8 @@
     "quartos": 2,
     "rua": "Rua Guaporé",
     "titulo": "Apartamento na Região Central de Londrina I Guaporé",
-    "total": 1700.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-nova-75m2-RS1450/id-47328583/",
+    "total": 1650.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-pr-londrina-vila-nova-75m2-RS1400/id-47328583/",
     "vagas": 1
    },
    "desde": "2026-11-11",
@@ -5811,6 +5844,13 @@
    "ok": false,
    "visto": "2026-11-14"
   },
+  "cmsouza:AP4013": {
+   "aluguel": 8200.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "cmsouza:AP4035": {
    "aluguel": 3600.0,
    "desde": "2026-11-25",
@@ -6216,6 +6256,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-24"
+  },
+  "cmsouza:AP6829": {
+   "aluguel": 2970.0,
+   "desde": "2026-11-27",
+   "motivo": "longe",
+   "ok": false,
+   "visto": "2026-11-27"
   },
   "cmsouza:AP6834": {
    "aluguel": 6400.0,
@@ -15760,6 +15807,11 @@
    "chave": "chaves-na-mao:23698582",
    "data": "18/11"
   },
+  "rua guapore|1175|2|1400": {
+   "anunciante": "ITAPUÃ EMPREENDIMENTOS IMOBILIÁRIOS SC LTDA",
+   "chave": "chaves-na-mao:47328583",
+   "data": "27/11"
+  },
   "rua guapore|1175|2|1450": {
    "anunciante": "ITAPUÃ EMPREENDIMENTOS IMOBILIÁRIOS SC LTDA",
    "chave": "chaves-na-mao:47328583",
@@ -15961,7 +16013,9 @@
    "data": "11/11"
   }
  },
- "falhas": {},
+ "falhas": {
+  "Imobiliária Monaco": 1
+ },
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16612,7 +16666,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795779746
+  "Catuaí Imóveis": 1795783496
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
