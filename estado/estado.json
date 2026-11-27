@@ -8168,7 +8168,7 @@
    "visto": "2026-11-17"
   },
   "imobiliaria-humaita:AP1010-HUMO": {
-   "aluguel": 4800.0,
+   "aluguel": 4500.0,
    "desde": "2026-11-14",
    "motivo": "aluguel acima do limite",
    "ok": false,
@@ -16748,7 +16748,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795808475
+  "Catuaí Imóveis": 1795811659
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
