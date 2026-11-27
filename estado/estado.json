@@ -292,6 +292,20 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "ag-prime-imoveis:668": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "ag-prime-imoveis:670": {
+   "aluguel": 3500.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "barreto-imoveis:AP0912-BAUV": {
    "aluguel": 5800.0,
    "desde": "2026-11-12",
@@ -16692,7 +16706,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795791616
+  "Catuaí Imóveis": 1795794949
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
