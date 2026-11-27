@@ -1,7 +1,7 @@
 {
  "alertas_por_dia": {
   "2026-11-26": 1,
-  "2026-11-27": 6
+  "2026-11-27": 8
  },
  "anuncios": {
   "88-imoveis:AP0329_OOIMOB": {
@@ -4358,9 +4358,9 @@
    "visto": "2026-11-27"
   },
   "chaves-na-mao:46356190": {
-   "aluguel": 2200.0,
+   "aluguel": 2100.0,
    "dados": {
-    "aluguel": 2200.0,
+    "aluguel": 2100.0,
     "anunciante": "CENTURY 21 CLASS IMÓVEIS",
     "area": 78,
     "bairro": "Vila Ipiranga",
@@ -4373,8 +4373,8 @@
     "quartos": 3,
     "rua": "Avenida Juscelino Kubitschek",
     "titulo": "Apartamento para alugar em Londrina, Vila Ipiranga, com 3 quartos, com 78 m², Vila Sardenha",
-    "total": 2731.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-ipiranga-90m2-RS2200/id-46356190/",
+    "total": 2631.0,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-vila-ipiranga-90m2-RS2100/id-46356190/",
     "vagas": 1
    },
    "desde": "2026-11-11",
@@ -4742,9 +4742,9 @@
    "visto": "2026-11-27"
   },
   "chaves-na-mao:47772787": {
-   "aluguel": 2300.0,
+   "aluguel": 2299.99,
    "dados": {
-    "aluguel": 2300.0,
+    "aluguel": 2299.99,
     "anunciante": "CENTURY 21 CLASS IMÓVEIS",
     "area": 57,
     "bairro": "Centro",
@@ -4757,8 +4757,8 @@
     "quartos": 3,
     "rua": "Rua Mossoró",
     "titulo": "Apartamento para alugar em Londrina, Centro, com 3 quartos, com 57 m², Spot Centro Residence",
-    "total": 2790.0,
-    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-85m2-RS2300/id-47772787/",
+    "total": 2789.99,
+    "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-pr-londrina-centro-85m2-RS2299/id-47772787/",
     "vagas": 1
    },
    "desde": "2026-11-11",
@@ -7999,6 +7999,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "imobiliaria-europa:AP3064-EURW": {
+   "aluguel": 3900.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "imobiliaria-humaita:AP0390-HUMO": {
    "aluguel": 3850.0,
    "desde": "2026-11-14",
@@ -9589,7 +9596,7 @@
    "visto": "2026-11-27"
   },
   "imobiliaria-monaco:AP1814-MONA": {
-   "aluguel": 1300.0,
+   "aluguel": 1400.0,
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
@@ -16741,7 +16748,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795804799
+  "Catuaí Imóveis": 1795808475
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
