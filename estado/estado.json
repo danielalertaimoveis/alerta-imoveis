@@ -10268,6 +10268,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "imobiliaria-perez:13017": {
+   "aluguel": 1900.0,
+   "desde": "2026-11-27",
+   "motivo": "sem garagem",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "imobiliaria-perez:1687": {
    "aluguel": 1800.0,
    "desde": "2026-11-11",
@@ -13907,6 +13914,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "jr3-negocios-imobiliarios:191484": {
+   "aluguel": 4000.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "jr3-negocios-imobiliarios:191486": {
    "aluguel": 2200.0,
    "desde": "2026-11-26",
@@ -13917,6 +13931,13 @@
   "jr3-negocios-imobiliarios:191487": {
    "aluguel": 9000.0,
    "desde": "2026-11-26",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
+  "jr3-negocios-imobiliarios:191488": {
+   "aluguel": 4700.0,
+   "desde": "2026-11-27",
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-27"
@@ -16062,9 +16083,7 @@
    "data": "11/11"
   }
  },
- "falhas": {
-  "JR3 Negócios Imobiliários": 1
- },
+ "falhas": {},
  "fontes_iniciadas": [
   "Chaves na Mão",
   "Imobiliária Inglaterra",
@@ -16715,7 +16734,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795798693
+  "Catuaí Imóveis": 1795801746
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
