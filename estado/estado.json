@@ -7471,6 +7471,13 @@
    "ok": false,
    "visto": "2026-11-27"
   },
+  "imob3m:AP1992-IMZ1": {
+   "aluguel": 3800.0,
+   "desde": "2026-11-27",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-27"
+  },
   "imobiliaria-atual:00906.872": {
    "aluguel": 2200.0,
    "dados": {
@@ -16748,7 +16755,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795811659
+  "Catuaí Imóveis": 1795815176
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
