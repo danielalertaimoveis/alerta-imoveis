@@ -5990,7 +5990,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-28"
   },
   "cmsouza:AP5032": {
    "aluguel": 3400.0,
@@ -6361,7 +6361,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-28"
   },
   "cmsouza:AP6841": {
    "aluguel": 3300.0,
@@ -6445,7 +6445,7 @@
    "desde": "2026-11-17",
    "motivo": "aluguel acima do limite",
    "ok": false,
-   "visto": "2026-11-23"
+   "visto": "2026-11-28"
   },
   "cmsouza:AP6898": {
    "aluguel": 4500.0,
@@ -7930,7 +7930,7 @@
    "desde": "2026-11-11",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-europa:AP3015-EURW": {
    "aluguel": 2700.0,
@@ -16803,7 +16803,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795837852
+  "Catuaí Imóveis": 1795841706
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
