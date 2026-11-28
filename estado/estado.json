@@ -9615,7 +9615,7 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP0899-MONA": {
    "aluguel": 3100.0,
@@ -9629,7 +9629,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP1116-MONA": {
    "aluguel": 1400.0,
@@ -9687,7 +9687,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP2326-MONA": {
    "aluguel": 2200.0,
@@ -9722,7 +9722,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro distante (a coordenada do anúncio está errada)",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP2767-MONA": {
    "aluguel": 1250.0,
@@ -9743,7 +9743,7 @@
    "desde": "2026-11-12",
    "motivo": "sem garagem",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP2901-MONA": {
    "aluguel": 3400.0,
@@ -9841,7 +9841,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP4434-MONA": {
    "aluguel": 7000.0,
@@ -10033,7 +10033,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP4600-MONA": {
    "aluguel": 1400.0,
@@ -10054,7 +10054,7 @@
    "desde": "2026-11-12",
    "motivo": "bairro fora da região",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-monaco:AP4614-MONA": {
    "aluguel": 9200.0,
@@ -12751,7 +12751,7 @@
    "desde": "2026-11-18",
    "motivo": "longe",
    "ok": false,
-   "visto": "2026-11-27"
+   "visto": "2026-11-28"
   },
   "imobiliaria-veneza:06292.001": {
    "aluguel": 1600.0,
@@ -16803,7 +16803,7 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795841706
+  "Catuaí Imóveis": 1795845212
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
  "ultimo_status": "2026-11-27"
