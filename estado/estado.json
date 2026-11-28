@@ -1,6 +1,5 @@
 {
  "alertas_por_dia": {
-  "2026-11-26": 1,
   "2026-11-27": 9
  },
  "anuncios": {
@@ -6348,6 +6347,13 @@
    "motivo": "aluguel acima do limite",
    "ok": false,
    "visto": "2026-11-24"
+  },
+  "cmsouza:AP6826": {
+   "aluguel": 4500.0,
+   "desde": "2026-11-28",
+   "motivo": "aluguel acima do limite",
+   "ok": false,
+   "visto": "2026-11-28"
   },
   "cmsouza:AP6829": {
    "aluguel": 2970.0,
@@ -16803,8 +16809,8 @@
   ]
  },
  "ultima_leitura": {
-  "Catuaí Imóveis": 1795862634
+  "Catuaí Imóveis": 1795865765
  },
  "ultimo_resumo_disponiveis": "2026-11-27",
- "ultimo_status": "2026-11-27"
+ "ultimo_status": "2026-11-28"
 }
